@@ -39,3 +39,8 @@ func newSlice(oldSlice []int) []int {
 /*
 	题目链接: https://leetcode-cn.com/problems/permutations-ii/submissions/
 */
+
+/*
+	总结
+	1. 这题目的本质是: 给定一个数组，求数组的全排列。 (数组可以有重复元素)
+*/
