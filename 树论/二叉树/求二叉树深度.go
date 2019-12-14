@@ -15,7 +15,7 @@ type TreeNode struct {
 	Right *TreeNode
 }
 
-// 求二叉树深度(最大深度)
+// 求二叉树深度 (最大深度)
 func maxDepth(root *TreeNode) int {
 	if root == nil {
 		return 0
@@ -24,7 +24,7 @@ func maxDepth(root *TreeNode) int {
 	return max(left, right) + 1
 }
 
-// 求二叉树最小深度
+// 求二叉树深度 (最小深度)
 func minDepth(root *TreeNode) int {
 	if root == nil {
 		return 0
@@ -55,3 +55,9 @@ func max(a, b int) int {
 	}
 	return b
 }
+
+/*
+	题目链接:
+		https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/		二叉树最小深度
+		https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/		二叉树最大深度
+*/
