@@ -5,3 +5,10 @@
 
 ### 通过后序和中序遍历序列构造二叉树
 - [ ] [106. 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+
+### 通过先序遍历序列构造二叉搜索树	
+- [ ] [1008. 先序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal/submissions/)
+
+### 通过中序遍历序列构造二叉平衡搜索树(AVL树)	
+- [ ] [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/submissions/)
+
