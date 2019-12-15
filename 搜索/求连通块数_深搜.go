@@ -56,7 +56,10 @@ func DFS(grid [][]byte, x, y int) {
 }
 
 /*
-	题目链接: https://leetcode-cn.com/problems/number-of-islands/
+	题目链接:
+		https://leetcode-cn.com/problems/number-of-islands/							岛屿数量
+		https://leetcode-cn.com/problems/number-of-closed-islands/submissions/		统计封闭岛屿的数目
+		https://leetcode-cn.com/problems/number-of-enclaves/						飞地的数量
 */
 
 
