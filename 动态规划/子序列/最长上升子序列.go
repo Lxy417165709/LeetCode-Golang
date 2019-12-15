@@ -3,8 +3,10 @@ package main
 // 动态规划 解决最大子序和问题
 // dp[i] 表示: 以nums[i]结尾的最长上升子序列长度
 // 状态转移方程:
-//		i == 0:				dp[i] = 1
-// 		nums[i] > nums[t]:	dp[i] = max(1, dp[i], dp[t]+1)		 t ∈ [0, i)
+//		i == 0:							dp[i] = 1
+// 		i >= 1:
+// 			i >= 1 && nums[i] <= nums[t]:	dp[i] = max(dp[i], 1)		 		t ∈ [0, i)
+//			i >= 1 && nums[i] >  nums[t]:	dp[i] = max(dp[i], dp[t]+1)		 	t ∈ [0, i)
 func lengthOfLIS(nums []int) int {
 	dp := make([]int, 5005)
 	ans := 0
