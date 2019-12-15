@@ -1,9 +1,13 @@
 
 ## 解决的问题是什么？
-1. 求在一个没有重复元素的数组中的所有全排列。					( 求全排列_1.go)
-2. 求在一个可能存在重复元素的数组中的所有全排列。				( 求全排列_2.go )
-3. 求在一个没有重复元素的数组中，从中选出k个数的所有组合。 		( 求组合.go )
-4. 求在一个没有重复元素、可重复选取、元素大于0的数组中，选出一些数，使它们的值等于target的所有组合。							( 求数组中等于目标值的组合_1.go )
-5. 求在一个可能存在重复元素、不可重复选取、元素大于0的数组中，选出一些数，使它们的值等于target的所有组合。		( 求数组中等于目标值的组合_2.go )
-6. 求在一个没有重复元素、不可重复选取、元素大于0的数组中，选出k个数，使它们的值等于n的所有组合。				( 求数组中等于目标值的组合_3.go )
-7. 求在一个没有重复元素、可重复选取、元素大于0的数组中，选出一些数，使它们的值等于target的所有排列数。						( 求数组中等于目标值的组合_4.go )
+元素大于0 | 有重复元素 |  可重复选取|  限定选取个数 | 限制选取总和| 问题类型|对应文件|
+-|-|-|-|-|-|-|
+<font color="00bb00">**-**<font/>| <font color="bb0000">**No**<font/> |<font color="bb0000">**No**<font/> |<font color="00bb00">**Yes**<font/>|<font color="bb0000">**No**<font/>|**排列问题**|**求全排列_1.go**|
+<font color="00bb00">**-**<font/>|  <font color="00bb00">**Yes**<font/> |<font color="bb0000">**No**<font/> |<font color="00bb00">**Yes**<font/>|<font color="bb0000">**No**<font/>|**排列问题**|**求全排列_2.go**|
+<font color="00bb00">**-**<font/>|  <font color="bb0000">**No**<font/> |<font color="bb0000">**No**<font/> |<font color="00bb00">**Yes**<font/>*|<font color="bb0000">**No**<font/>|**组合问题**|**求组合.go**|
+<font color="00bb00">**Yes**<font/>|  <font color="bb0000">**No**<font/> |<font color="00bb00">**Yes**<font/> |<font color="bb0000">**No**|<font color="00bb00">**Yes**<font/>|**组合问题**|**求数组中等于目标值的组合_1.go**|
+<font color="00bb00">**Yes**<font/>| <font color="00bb00">**Yes**<font/> |  <font color="bb0000">**No**<font/> |<font color="bb0000">**No**|<font color="00bb00">**Yes**<font/>|**组合问题**|**求数组中等于目标值的组合_2.go**|
+<font color="00bb00">**Yes**<font/>| <font color="bb0000">**No**<font/> |  <font color="bb0000">**No**<font/> |<font color="00bb00">**Yes**<font/>|<font color="00bb00">**Yes**<font/>|**组合问题**|**求数组中等于目标值的组合_3.go**|
+<font color="00bb00">**Yes**<font/>| <font color="bb0000">**No**<font/> | <font color="00bb00">**Yes**<font/> |<font color="bb0000">**No**<font/>|<font color="00bb00">**Yes**<font/>|**排列问题**|**求数组中等于目标值的组合_4.go**|
+
+
