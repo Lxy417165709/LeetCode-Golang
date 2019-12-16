@@ -14,6 +14,8 @@ func delNodes(root *TreeNode, to_delete []int) []*TreeNode {
 }
 
 // shouldAddFlag: 该树是否需要加入结果集
+// 这个函数实现了2个功能: (1) 调整二叉树结构  (2) 形成结果集
+// 其中 if shouldAddFlag && root != nil {...} 就是为了形成结果集，其它的代码就是为了调整二叉树结构
 func delNodesExec(root *TreeNode, shouldAddFlag bool) *TreeNode {
 	if root == nil {
 		return root
