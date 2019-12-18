@@ -31,7 +31,7 @@ func max(a, b int) int {
 	return b
 }
 
-// 二分优化
+// 二分
 func equalSubstring(s string, t string, maxCost int) int {
 	// costSum[0] == 0 表示没进行转换时的总花费
 	// costSum[i] 表示 将s[:i]转为t[:i]的总花费
@@ -39,11 +39,10 @@ func equalSubstring(s string, t string, maxCost int) int {
 	for i := 1; i <= len(s); i++ {
 		costSum[i] = costSum[i-1] + calculateCost(s[i-1], t[i-1])
 	}
-
 	maxLength := 0
 	first, last := 0, 0 // costSum[last]-costSum[first-1] 为s[first:last+1]转为t[first:last+1]的花费
 	for last < len(costSum) {
-		first = lowwerBound(costSum, costSum[last]-maxCost) + 1
+		first = lowerBound(costSum, costSum[last]-maxCost) + 1
 		maxLength = max(maxLength, last-first+1)
 		last++
 	}
@@ -51,7 +50,7 @@ func equalSubstring(s string, t string, maxCost int) int {
 }
 
 // 在arr中找到第一个大于等于target的数
-func lowwerBound(arr []int, target int) int {
+func lowerBound(arr []int, target int) int {
 	l, r := 0, len(arr)-1
 	for l <= r {
 		mid := (l + r) / 2
@@ -76,7 +75,7 @@ func lowwerBound(arr []int, target int) int {
 /*
 	总结
 	1. 滑动窗口的题目都类似，一般就是先求窗口内的代价，之后判断代价是否满足要求，不满足则缩小，满足则继续前进。
-	2. 这题还可以使用二分优化。
+	2. 这题还可以使用二分 + 滑动窗口。 (不过二分的复杂度是O(nlogn)，单纯用滑动窗口的话复杂度是O(n))
 	3. 为什么使用 lowwerBound(costSum, costSum[last]-maxCost) + 1 来确定first呢？
 			解释如下:
 				我们定义了 costSum[last]-costSum[first-1] 为窗口内的字符串转为t[first:last+1]的花费
