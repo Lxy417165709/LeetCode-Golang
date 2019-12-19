@@ -7,7 +7,7 @@ func lengthOfLongestSubstring(s string) int {
 	first, last := 0, 0          // 窗口的左右边界
 	for last < len(s) {
 		count[s[last]]++
-		for first <= last && count[s[last]] >= 2 {
+		for first < len(s) && count[s[last]] >= 2 {
 			count[s[first]]--
 			first++
 		}

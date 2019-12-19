@@ -7,7 +7,7 @@ func minSubArrayLen(s int, nums []int) int {
 	minLength := len(nums) + 1
 	for last < len(nums) {
 		sum += nums[last]
-		for first <= last && sum >= s {
+		for first < len(nums) && sum >= s {
 			sum -= nums[first]
 			minLength = min(minLength, last-first+1)
 			first++

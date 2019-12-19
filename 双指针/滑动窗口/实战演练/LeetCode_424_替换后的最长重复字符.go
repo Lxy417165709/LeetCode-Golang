@@ -9,9 +9,8 @@ func characterReplacement(s string, k int) int {
 	maxLength := 0
 	for last < len(s) {
 		count[s[last]]++
-
 		maxCount = max(maxCount, count[s[last]])
-		for first <= last && last-first+1-maxCount > k {
+		for first < len(s) && last-first+1-maxCount > k {
 			count[s[first]]--
 			first++
 		}

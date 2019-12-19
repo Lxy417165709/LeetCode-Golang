@@ -7,7 +7,7 @@ func equalSubstring(s string, t string, maxCost int) int {
 	first, last := 0, 0
 	for last < len(s) {
 		cost += calculateCost(s[last], t[last])
-		for first <= last && cost > maxCost {
+		for first < len(s) && cost > maxCost {
 			cost -= calculateCost(s[first], t[first])
 			first++
 		}
