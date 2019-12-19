@@ -3,15 +3,15 @@ package main
 import "sort"
 
 func findPoisonedDuration(timeSeries []int, duration int) int {
-	end := 0
+	last := 0
 	ans := 0
 	sort.Ints(timeSeries)
 	for i := 0; i < len(timeSeries); i++ {
 		ans += duration
-		if end >= timeSeries[i] {
-			ans += timeSeries[i] - end
+		if last >= timeSeries[i] {
+			ans += timeSeries[i] - last
 		}
-		end = timeSeries[i] + duration
+		last = timeSeries[i] + duration
 	}
 	return ans
 }
