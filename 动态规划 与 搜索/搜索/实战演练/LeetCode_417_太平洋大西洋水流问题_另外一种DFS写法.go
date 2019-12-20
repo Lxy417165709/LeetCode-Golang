@@ -6,6 +6,10 @@ var dx []int
 var dy []int
 var isVisit map[int]bool
 
+const (
+	inf = 100000000000
+)
+
 func hash(x, y int) int {
 	return (x << 10) | y
 }
@@ -22,11 +26,15 @@ func judge(matrix [][]int, x, y int, preHight int) bool {
 	if isVisit[hash(x, y)] {
 		return false
 	}
-	return preHight <= matrix[x][y] // 由于是使用逆流，所以此时是需要保证低的流到高的。
+	// preHight 表示先前的山脉高度，如果先前的小于当前的，那么这个点就可以走
+	return preHight <= matrix[x][y]
 }
 
 // occenFlag == 0 表示是太平洋，occenFlag == 1是大西洋
-func DFS(matrix [][]int, x, y int, occenFlag int) {
+func DFS(matrix [][]int, x, y int, occenFlag int, preHight int) {
+	if !judge(matrix, x, y, preHight) {
+		return
+	}
 	isVisit[hash(x, y)] = true
 	if occenFlag == 0 {
 		pacific[x][y] = true
@@ -35,10 +43,7 @@ func DFS(matrix [][]int, x, y int, occenFlag int) {
 		atlantic[x][y] = true
 	}
 	for i := 0; i < len(dx); i++ {
-		nx, ny := x+dx[i], y+dy[i]
-		if judge(matrix, nx, ny, matrix[x][y]) {
-			DFS(matrix, nx, ny, occenFlag)
-		}
+		DFS(matrix, x+dx[i], y+dy[i], occenFlag, matrix[x][y])
 	}
 }
 
@@ -55,19 +60,19 @@ func pacificAtlantic(matrix [][]int) [][]int {
 	// 找能到达太平洋的坐标
 	isVisit = make(map[int]bool)
 	for i := 0; i < m; i++ {
-		DFS(matrix, i, 0, 0)
+		DFS(matrix, i, 0, 0, -inf)
 	}
 	for t := 0; t < n; t++ {
-		DFS(matrix, 0, t, 0)
+		DFS(matrix, 0, t, 0, -inf)
 	}
 
 	// 找能到达大西洋的坐标
 	isVisit = make(map[int]bool)
 	for i := 0; i < m; i++ {
-		DFS(matrix, i, n-1, 1)
+		DFS(matrix, i, n-1, 1, -inf)
 	}
 	for t := 0; t < n; t++ {
-		DFS(matrix, m-1, t, 1)
+		DFS(matrix, m-1, t, 1, -inf)
 	}
 	ans := [][]int{}
 	for i := 0; i < m; i++ {
@@ -86,5 +91,5 @@ func pacificAtlantic(matrix [][]int) [][]int {
 */
 /*
 	总结
-	1. 这题目采用逆向思维，从边界出发，找能到达两个大洋的山脉。而不是从中心出发，判断该点能否到达两个大洋。
+	1. 这个代码和之前的DFS差别在于，这份代码是在DFS进入时判断点的合法性，而先前的那一份是在DFS前判断点的合法性。
 */
