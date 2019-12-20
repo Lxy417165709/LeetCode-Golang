@@ -14,8 +14,15 @@ func arrayPairSum(nums []int) int {
 	}
 	return ans
 }
+/*
+	贪心策略:
+		让每一个最大值和最小值最接近，之后选取每个最小值。(为了让每一个最大值和最小值最接近，可以使用排序)
+*/
+
 
 /*
 	题目链接:
 		https://leetcode-cn.com/problems/array-partition-i/			数组拆分 I
 */
+
+
