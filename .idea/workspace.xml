@@ -3,59 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/动态规划/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/动态规划/串/乘积最大子序列.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/动态规划/串/最大子序列和.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/动态规划/串/最长回文子串.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/动态规划/串/最长连续子数组.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/动态规划/串/最长连续递增序列.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/动态规划/子序列/最大整除子集.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/动态规划/子序列/最长上升子序列.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/动态规划/子序列/最长公共子序列.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/动态规划/子序列/最长回文子序列.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/动态规划/子序列/最长定差子序列.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/动态规划/子序列/最长递增子序列的个数.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/动态规划/实战演练/LeetCode_790_多米诺和托米诺平铺.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/动态规划/数组/求数组中组成n的排列数.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/动态规划/数组/求数组中组成n的最小元素数.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/动态规划/数组/求数组中组成n的组合数.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/动态规划/矩阵/实战演练/LeetCode_542_01矩阵_DP做法.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/动态规划/矩阵/求左上角到右下角的不同路径.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/动态规划/矩阵/求左上角到右下角的不同路径_添加障碍物版.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/回溯/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/回溯/求全排列_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/回溯/求全排列_2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/回溯/求子集_无重复元素.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/回溯/求子集_有重复元素.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/回溯/求数组中等于目标值的组合_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/回溯/求数组中等于目标值的组合_2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/回溯/求数组中等于目标值的组合_3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/回溯/求数组中等于目标值的组合_4.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/回溯/求组合.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/回溯/求递增子序列.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/实战演练/LeetCode_1222_可以攻击国王的皇后.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/实战演练/LeetCode_130_被围绕的区域.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/实战演练/LeetCode_375_猜数字大小2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/实战演练/LeetCode_417_太平洋大西洋水流问题.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/实战演练/LeetCode_417_太平洋大西洋水流问题_另外一种DFS写法.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/实战演练/LeetCode_542_01矩阵.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/实战演练/LeetCode_934_最短的桥.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/实战演练/LeetCode_944_腐烂的橘子.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/求连通块数_广搜.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/求连通块数_深搜.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/记忆化搜索/实战演练/LeetCode_516_最长回文子序列.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/记忆化搜索/实战演练/LeetCode_583_两个字符串的删除操作.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划 与 搜索/搜索/记忆化搜索/实战演练/LeetCode_72_编辑距离.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序 与 哈希/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序 与 哈希/哈希/实战演练/LeetCode_1128_等价多米诺骨牌对的数量.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序 与 哈希/哈希/最长连续序列.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序 与 哈希/排序/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序 与 哈希/排序/归并排序.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序 与 哈希/排序/快速排序.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/贪心/实战演练/LeetCode_561_数组拆分.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/较少使用的模块/字符串与数组操作/简单字符串操作/反转字符串.go" beforeDir="false" afterPath="$PROJECT_DIR$/较少使用的模块/字符串与数组操作/简单字符串操作/反转字符串.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/位运算/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/位运算/不用加号减号做加法.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/位运算/属性求取/求数字的补数.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/位运算/属性求取/求数组中唯一出现的数.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/位运算/属性求取/求汉明距离.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/位运算/属性求取/求汉明距离总和.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/位运算/属性求取/求汉明重量.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/博弈论/巴什博奕.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数论/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数论/属性求取/求整数平方根.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数论/属性求取/求最大公约数(待验证).go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数论/属性求取/求最小公倍数(待补充).go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数论/属性求取/求阶乘后的零.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数论/性质判断/判断正整数是否为完全平方数.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数论/性质判断/判断正整数是否只包含某些因子.go" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,28 +28,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/位运算/属性求取/求数字的补数.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/较少使用的模块/字符串与数组操作/简单字符串操作/反转字符串.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
+            <state relative-caret-position="726">
               <caret line="22" column="76" selection-start-line="22" selection-start-column="76" selection-end-line="22" selection-end-column="76" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/排序、哈希、贪心/哈希/和为K的子数组.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="594">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/较少使用的模块/简单矩阵操作/重塑矩阵.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="27" column="72" selection-start-line="27" selection-start-column="72" selection-end-line="27" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_540_有序数组中的单一元素.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-316">
+              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -140,12 +111,14 @@
         <option value="$PROJECT_DIR$/贪心/实战演练/LeetCode_575_分糖果.go" />
         <option value="$PROJECT_DIR$/较少使用的模块/字符串与数组操作/简单字符串操作/反转字符串.go" />
         <option value="$PROJECT_DIR$/排序、哈希、贪心/哈希/和为K的子数组.go" />
+        <option value="$PROJECT_DIR$/较少使用的模块/简单矩阵操作/重塑矩阵.go" />
+        <option value="$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_540_有序数组中的单一元素.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="9" />
-    <option name="y" value="108" />
+    <option name="x" value="-395" />
+    <option name="y" value="86" />
     <option name="width" value="1892" />
     <option name="height" value="897" />
   </component>
@@ -266,10 +239,18 @@
     <entry file="file://$PROJECT_DIR$/动态规划 与 搜索/动态规划/串/最长连续递增序列.go" />
     <entry file="file://$PROJECT_DIR$/动态规划 与 搜索/动态规划/串/乘积最大子序列.go" />
     <entry file="file://$PROJECT_DIR$/贪心/实战演练/LeetCode_575_分糖果.go" />
-    <entry file="file://$PROJECT_DIR$/位运算/属性求取/求数字的补数.go">
+    <entry file="file://$PROJECT_DIR$/位运算/属性求取/求数字的补数.go" />
+    <entry file="file://$PROJECT_DIR$/较少使用的模块/字符串与数组操作/简单字符串操作/反转字符串.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        <state relative-caret-position="726">
+          <caret line="22" column="76" selection-start-line="22" selection-start-column="76" selection-end-line="22" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排序、哈希、贪心/哈希/和为K的子数组.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -287,17 +268,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/较少使用的模块/字符串与数组操作/简单字符串操作/反转字符串.go">
+    <entry file="file://$PROJECT_DIR$/较少使用的模块/简单矩阵操作/重塑矩阵.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="22" column="76" selection-start-line="22" selection-start-column="76" selection-end-line="22" selection-end-column="76" />
+        <state relative-caret-position="648">
+          <caret line="27" column="72" selection-start-line="27" selection-start-column="72" selection-end-line="27" selection-end-column="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/排序、哈希、贪心/哈希/和为K的子数组.go">
+    <entry file="file://$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_540_有序数组中的单一元素.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="-316">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
         </state>
       </provider>
     </entry>
