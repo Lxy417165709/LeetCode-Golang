@@ -3,49 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树属性获取/求二叉树坡度.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树属性获取/求二叉树左叶子节点和.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树属性获取/求二叉树深度.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树属性获取/求二叉树节点个数_完全二叉树.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树属性获取/求二叉树节点个数_普通二叉树.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树性质判断/判断二叉树是否为二叉搜索树.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树性质判断/判断二叉树是否为完全二叉树.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树性质判断/判断二叉树是否单值.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树性质判断/判断二叉树是否对称.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树性质判断/判断二叉树是否平衡.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树构建/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树构建/实战演练/构造最大二叉树.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树构建/通过中序遍历序列构造平衡二叉搜索树.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树构建/通过先序和中序遍历序列构造二叉树.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树构建/通过先序遍历序列构造二叉搜索树.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树构建/通过后序和中序遍历序列构造二叉树.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树结构调整/二叉树剪枝.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树结构调整/删除二叉树中为某些值的节点.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树结构调整/合并二叉树.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树结构调整/将二叉树展开为链表.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树结构调整/把二叉搜索树转换为累加树.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树结构调整/翻转二叉树_迭代(层序遍历).go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树结构调整/翻转二叉树_递归(先序遍历).go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树遍历/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树遍历/迭代实现/中序遍历_迭代.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树遍历/迭代实现/先序遍历_迭代.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树遍历/迭代实现/后序遍历_迭代.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树遍历/迭代实现/层序遍历_迭代.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树遍历/递归实现/中序遍历_递归.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树遍历/递归实现/先序遍历_递归.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树遍历/递归实现/后序遍历_递归.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树遍历/递归实现/层序遍历_递归.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树间关系判断/判断两棵树是否互为镜像.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/二叉树间关系判断/判断两棵树是否相同.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/树论/二叉树/展示二叉树到叶子节点的所有路径.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表/链表属性获取/获取链表中间节点.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表/链表属性获取/获取链表环入口.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表/链表属性获取/获取链表相交节点.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表/链表性质判断/判断链表是否有环.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表/链表结构调整/删除链表倒数第N个节点.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表/链表结构调整/反转链表.go" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,51 +13,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数论、位运算/数论/属性求取/求因子和.go">
+        <entry file="file://$PROJECT_DIR$/数论、位运算/位运算/10进制转换16进制.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="858">
-              <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实战演练/LeetCode_1222_可以攻击国王的皇后.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/双指针/读写指针/按奇偶排序数组.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            <state relative-caret-position="246">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/回溯/实战演练/LeetCode_1291_顺次数.go">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列/最长等差数列.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-811">
-              <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+            <state relative-caret-position="2805">
+              <caret line="85" column="31" selection-start-line="85" selection-start-column="31" selection-end-line="85" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/回溯/实战演练/LeetCode_1215_步进数.go">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列/最长上升子序列.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-              <folding>
-                <element signature="e#14#39#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="165">
+              <caret line="5" selection-start-line="5" selection-end-line="8" selection-end-column="90" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列/最长回文子序列.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列/最长公共子序列.go">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -179,12 +125,14 @@
         <option value="$PROJECT_DIR$/双指针/读写指针/按奇偶排序数组.go" />
         <option value="$PROJECT_DIR$/动态规划、搜索/搜索/回溯/实战演练/LeetCode_1215_步进数.go" />
         <option value="$PROJECT_DIR$/动态规划、搜索/搜索/回溯/实战演练/LeetCode_1291_顺次数.go" />
+        <option value="$PROJECT_DIR$/数论、位运算/位运算/10进制转换16进制.go" />
+        <option value="$PROJECT_DIR$/动态规划、搜索/动态规划/子序列/最长等差数列.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-98" />
-    <option name="y" value="85" />
+    <option name="x" value="170" />
+    <option name="y" value="121" />
     <option name="width" value="1892" />
     <option name="height" value="962" />
   </component>
@@ -205,6 +153,19 @@
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
               <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
+              <item name="子序列" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
@@ -280,7 +241,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2249467" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22921109" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -413,6 +374,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/回溯/实战演练/LeetCode_1291_顺次数.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/回溯/实战演练/LeetCode_1215_步进数.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <folding>
+            <element signature="e#14#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/回溯/求数组中等于目标值的组合_2.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -436,20 +414,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/回溯/实战演练/LeetCode_1215_步进数.go">
+    <entry file="file://$PROJECT_DIR$/数论、位运算/位运算/10进制转换16进制.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-          <folding>
-            <element signature="e#14#39#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="246">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/回溯/实战演练/LeetCode_1291_顺次数.go">
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列/最长回文子序列.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列/最长公共子序列.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列/最长上升子序列.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-811">
-          <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        <state relative-caret-position="165">
+          <caret line="5" selection-start-line="5" selection-end-line="8" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列/最长等差数列.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2805">
+          <caret line="85" column="31" selection-start-line="85" selection-start-column="31" selection-end-line="85" selection-end-column="31" />
         </state>
       </provider>
     </entry>
