@@ -65,7 +65,8 @@ func judge(grid [][]byte, x, y int) bool {
 }
 
 /*
-	题目链接: https://leetcode-cn.com/problems/number-of-islands/
+	题目链接:
+		https://leetcode-cn.com/problems/number-of-islands/		求岛屿数量
 */
 
 /*
