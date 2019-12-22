@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序、哈希、贪心/排序/冒泡排序.go" beforeDir="false" afterPath="$PROJECT_DIR$/排序、哈希、贪心/排序/冒泡排序.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,14 +48,46 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/排序、哈希、贪心/排序/冒泡排序.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
+            <state relative-caret-position="1320">
               <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
               <folding>
                 <element signature="e#14#44#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/未分类模块/并查集/实例/LeetCode_547_朋友圈.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+              <folding>
+                <element signature="n#!!block;n#initUFS#0" />
+                <element signature="n#!!block;n#mergeUFS#0" />
+                <element signature="n#!!block;n#findFather#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_959_由斜杠划分区域.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="807">
+              <caret line="92" column="6" selection-start-line="92" selection-start-column="6" selection-end-line="92" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/未分类模块/并查集/实例/LeetCode_959_由斜杠划分区域_并查集版.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="74" column="16" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -125,6 +156,9 @@
         <option value="$PROJECT_DIR$/数论、位运算/数论/LeetCode_1250_检查「好数组」.go" />
         <option value="$PROJECT_DIR$/排序、哈希、贪心/排序/冒泡排序.go" />
         <option value="$PROJECT_DIR$/未分类模块/并查集/实例/LeetCode_1202_交换字符串中的元素.go" />
+        <option value="$PROJECT_DIR$/未分类模块/并查集/实例/LeetCode_547_朋友圈.go" />
+        <option value="$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_959_由斜杠划分区域.go" />
+        <option value="$PROJECT_DIR$/未分类模块/并查集/实例/LeetCode_959_由斜杠划分区域_并查集版.go" />
       </list>
     </option>
   </component>
@@ -241,7 +275,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26918977" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27771854" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -266,9 +300,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/动态规划 与 搜索/动态规划/子序列/最长定差子序列.go" />
-    <entry file="file://$PROJECT_DIR$/动态规划 与 搜索/动态规划/串/最长连续子数组.go" />
-    <entry file="file://$PROJECT_DIR$/动态规划 与 搜索/搜索/记忆化搜索/实战演练/最长回文子序列.go" />
     <entry file="file://$PROJECT_DIR$/动态规划 与 搜索/动态规划/矩阵/实战演练/LeetCode_542_01矩阵_DP做法.go" />
     <entry file="file://$PROJECT_DIR$/动态规划 与 搜索/搜索/实战演练/LeetCode_417_太平洋大西洋水流问题.go" />
     <entry file="file://$PROJECT_DIR$/贪心/实战演练/LeetCode_561_数组拆分.go" />
@@ -339,6 +370,20 @@
     <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树构建/实战演练/构造最大二叉树.go" />
     <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/求连通块数_广搜.go" />
     <entry file="file://$PROJECT_DIR$/数论、位运算/数论/属性求取/求最大公约数(待验证).go" />
+    <entry file="file://$PROJECT_DIR$/排序、哈希、贪心/排序/快速排序.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="24" selection-start-line="24" selection-end-line="27" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/未分类模块/并查集/实例/LeetCode_1202_交换字符串中的元素.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/排序、哈希、贪心/哈希/实战演练/LeetCode_1015_可被K整除的最小整数.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1518">
@@ -367,6 +412,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/排序、哈希、贪心/排序/冒泡排序.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+          <folding>
+            <element signature="e#14#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/未分类模块/并查集/实例/LeetCode_547_朋友圈.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!block;n#initUFS#0" />
+            <element signature="n#!!block;n#mergeUFS#0" />
+            <element signature="n#!!block;n#findFather#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/数论、位运算/数论/LeetCode_1250_检查「好数组」.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -374,27 +441,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/排序、哈希、贪心/排序/快速排序.go">
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_959_由斜杠划分区域.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="24" selection-start-line="24" selection-end-line="27" selection-end-column="2" />
+        <state relative-caret-position="807">
+          <caret line="92" column="6" selection-start-line="92" selection-start-column="6" selection-end-line="92" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/未分类模块/并查集/实例/LeetCode_1202_交换字符串中的元素.go">
+    <entry file="file://$PROJECT_DIR$/未分类模块/并查集/实例/LeetCode_959_由斜杠划分区域_并查集版.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/排序、哈希、贪心/排序/冒泡排序.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-          <folding>
-            <element signature="e#14#44#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="462">
+          <caret line="74" column="16" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
         </state>
       </provider>
     </entry>
