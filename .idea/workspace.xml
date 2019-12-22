@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/未分类模块/模拟/实战演练/LeetCode_498_对角线遍历_再简洁点.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/未分类模块/并查集/实例/LeetCode_959_由斜杠划分区域_并查集版.go" beforeDir="false" afterPath="$PROJECT_DIR$/未分类模块/并查集/实例/LeetCode_959_由斜杠划分区域_并查集版.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,32 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/排序、哈希、贪心/排序/冒泡排序.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1320">
-              <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-              <folding>
-                <element signature="e#14#44#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/未分类模块/并查集/实例/LeetCode_547_朋友圈.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-              <folding>
-                <element signature="n#!!block;n#initUFS#0" />
-                <element signature="n#!!block;n#mergeUFS#0" />
-                <element signature="n#!!block;n#findFather#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_959_由斜杠划分区域.go">
           <provider selected="true" editor-type-id="text-editor">
@@ -91,17 +63,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_5294_你能从盒子里获得的最大糖果数.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
+            <state relative-caret-position="660">
               <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/未分类模块/脑筋急转弯/实战演练/LeetCode_5293_子串的最大出现次数.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-264">
+            <state relative-caret-position="33">
               <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/双指针/读写指针/LeetCode_1089_复写零.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/未分类模块/字符串与数组操作/简单数组操作/判断数组是否单调.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1518">
+              <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+              <folding>
+                <element signature="n#!!block;n#isMonotonic#1" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -178,12 +171,14 @@
         <option value="$PROJECT_DIR$/未分类模块/模拟/实战演练/LeetCode_498_对角线遍历_再简洁点.go" />
         <option value="$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_5294_你能从盒子里获得的最大糖果数.go" />
         <option value="$PROJECT_DIR$/未分类模块/脑筋急转弯/实战演练/LeetCode_5293_子串的最大出现次数.go" />
+        <option value="$PROJECT_DIR$/双指针/读写指针/LeetCode_1089_复写零.go" />
+        <option value="$PROJECT_DIR$/未分类模块/字符串与数组操作/简单数组操作/判断数组是否单调.go" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="440" />
-    <option name="y" value="48" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="22" />
+    <option name="y" value="30" />
     <option name="width" value="1892" />
     <option name="height" value="956" />
   </component>
@@ -287,10 +282,10 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="22" y="30" width="1892" height="956" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29371002" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29312226" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -315,8 +310,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/动态规划 与 搜索/动态规划/串/最大子序列和.go" />
-    <entry file="file://$PROJECT_DIR$/动态规划 与 搜索/动态规划/串/最长连续递增序列.go" />
     <entry file="file://$PROJECT_DIR$/动态规划 与 搜索/动态规划/串/乘积最大子序列.go" />
     <entry file="file://$PROJECT_DIR$/贪心/实战演练/LeetCode_575_分糖果.go" />
     <entry file="file://$PROJECT_DIR$/位运算/属性求取/求数字的补数.go" />
@@ -482,6 +475,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_5294_你能从盒子里获得的最大糖果数.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/未分类模块/脑筋急转弯/实战演练/LeetCode_5293_子串的最大出现次数.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/数论、位运算/数论/LeetCode_1250_检查「好数组」.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -489,17 +496,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_5294_你能从盒子里获得的最大糖果数.go">
+    <entry file="file://$PROJECT_DIR$/双指针/读写指针/LeetCode_1089_复写零.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        <state relative-caret-position="165">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/未分类模块/脑筋急转弯/实战演练/LeetCode_5293_子串的最大出现次数.go">
+    <entry file="file://$PROJECT_DIR$/未分类模块/字符串与数组操作/简单数组操作/判断数组是否单调.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-264">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        <state relative-caret-position="1518">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <element signature="n#!!block;n#isMonotonic#1" />
+          </folding>
         </state>
       </provider>
     </entry>
