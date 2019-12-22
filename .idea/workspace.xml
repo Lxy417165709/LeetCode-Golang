@@ -3,72 +3,32 @@
   <component name="ChangeListManager">
     <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划、搜索/动态规划/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/串/乘积最大子序列.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/串/最大子序列和.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/串/最长回文子串.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/串/最长连续子数组.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/串/最长连续递增序列.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/子序列/最大整除子集.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/子序列/最长上升子序列.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/子序列/最长公共子序列.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/子序列/最长回文子序列.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/子序列/最长定差子序列.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/子序列/最长等差数列.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/子序列/最长递增子序列的个数.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/实战演练/LeetCode_790_多米诺和托米诺平铺.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/数组/求数组中组成n的排列数.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/数组/求数组中组成n的最小元素数.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/数组/求数组中组成n的组合数.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/矩阵/实战演练/LeetCode_542_01矩阵_DP做法.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/矩阵/求左上角到右下角的不同路径.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/矩阵/求左上角到右下角的不同路径_添加障碍物版.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划、搜索/搜索/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/回溯/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/回溯/实战演练/LeetCode_1215_步进数.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/回溯/实战演练/LeetCode_1291_顺次数.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/回溯/求全排列_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/回溯/求全排列_2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/回溯/求子集_无重复元素.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/回溯/求子集_有重复元素.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/回溯/求数组中等于目标值的组合_1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/回溯/求数组中等于目标值的组合_2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/回溯/求数组中等于目标值的组合_3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/回溯/求数组中等于目标值的组合_4.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/回溯/求组合.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/回溯/求递增子序列.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/字符串搜索/LeetCode_306_累加数.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/实战演练/LeetCode_1222_可以攻击国王的皇后.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/实战演练/LeetCode_130_被围绕的区域.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/实战演练/LeetCode_417_太平洋大西洋水流问题.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/实战演练/LeetCode_417_太平洋大西洋水流问题_另外一种DFS写法.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/实战演练/LeetCode_542_01矩阵.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/实战演练/LeetCode_934_最短的桥.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/实战演练/LeetCode_944_腐烂的橘子.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/求连通块数_广搜.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划、搜索/搜索/求连通块数_广搜.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/记忆化搜索/实战演练/LeetCode_375_猜数字大小2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/记忆化搜索/实战演练/LeetCode_516_最长回文子序列.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/记忆化搜索/实战演练/LeetCode_583_两个字符串的删除操作.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/记忆化搜索/实战演练/LeetCode_72_编辑距离.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/双指针/实战演练/LeetCode_228_汇总区间.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序、哈希、贪心/贪心/实战演练/LeetCode_561_数组拆分.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序、哈希、贪心/贪心/实战演练/LeetCode_575_分糖果.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/数论、位运算/位运算/10进制转换16进制补码.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/数论、位运算/位运算/10进制转换7进制.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/数论、位运算/位运算/不用加号减号做加法.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/查找/二分查找/寻找旋转排序数组中的最小值_无重复元素.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/查找/二分查找/寻找旋转排序数组中的最小值_有重复元素.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/查找/二分查找/旋转排序数组中的查找_无重复元素.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/查找/二分查找/旋转排序数组中的查找_有重复元素.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树构建/实战演练/构造最大二叉树.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/展示二叉树到叶子节点的所有路径.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数论、位运算/数论/属性求取/求最大公约数(待验证).go" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/排序、哈希、贪心/排序/快速排序.go">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="448">
+                    <caret line="24" selection-start-line="24" selection-end-line="27" selection-end-column="2" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -99,11 +59,34 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/求连通块数_广搜.go">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/未分类模块/模拟/实战演练/LeetCode_1281_整数的各位积和之差.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+            <state relative-caret-position="264">
+              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/排序、哈希、贪心/排序/冒泡排序.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1386">
+              <caret line="64" column="34" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
+              <folding>
+                <element signature="e#14#44#0" expanded="true" />
+                <element signature="n#!!block;n#bubbleSort#0" />
+                <element signature="n#!!block;n#bubbleSort#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/数论、位运算/数论/LeetCode_1250_检查「好数组」.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -158,20 +141,25 @@
         <option value="$PROJECT_DIR$/排序、哈希、贪心/哈希/实战演练/LeetCode_1015_可被K整除的最小整数.go" />
         <option value="$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_240_搜索二维矩阵2_不属于二分查找.go" />
         <option value="$PROJECT_DIR$/动态规划、搜索/搜索/求连通块数_广搜.go" />
+        <option value="$PROJECT_DIR$/未分类模块/模拟/实战演练/LeetCode_1281_整数的各位积和之差.go" />
+        <option value="$PROJECT_DIR$/数论、位运算/数论/属性求取/求最大公约数(待验证).go" />
+        <option value="$PROJECT_DIR$/数论、位运算/数论/LeetCode_1250_检查「好数组」.go" />
+        <option value="$PROJECT_DIR$/排序、哈希、贪心/排序/冒泡排序.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="170" />
-    <option name="y" value="121" />
+    <option name="x" value="-124" />
+    <option name="y" value="98" />
     <option name="width" value="1892" />
-    <option name="height" value="962" />
+    <option name="height" value="956" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,7 +199,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,7 +233,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Build.go build 冒泡排序.go">
     <configuration name="go build LeetCode_1215_步进数.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="算法学习" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -255,8 +242,17 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build 冒泡排序.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="算法学习" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/排序、哈希、贪心/排序/冒泡排序.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 冒泡排序.go" />
         <item itemvalue="Go Build.go build LeetCode_1215_步进数.go" />
       </list>
     </recent_temporary>
@@ -265,7 +261,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25053304" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26119402" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -290,9 +286,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/查找/二分查找/寻找旋转排序数组中的最小值_无重复元素.go" />
-    <entry file="file://$PROJECT_DIR$/查找/二分查找/寻找旋转排序数组中的最小值_有重复元素.go" />
-    <entry file="file://$PROJECT_DIR$/动态规划 与 搜索/动态规划/子序列/最长公共子序列.go" />
     <entry file="file://$PROJECT_DIR$/动态规划 与 搜索/动态规划/子序列/最长回文子序列.go" />
     <entry file="file://$PROJECT_DIR$/动态规划 与 搜索/动态规划/子序列/最长定差子序列.go" />
     <entry file="file://$PROJECT_DIR$/动态规划 与 搜索/动态规划/串/最长连续子数组.go" />
@@ -365,6 +358,8 @@
     <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/回溯/求全排列_1.go" />
     <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/回溯/求全排列_2.go" />
     <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树构建/实战演练/构造最大二叉树.go" />
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/求连通块数_广搜.go" />
+    <entry file="file://$PROJECT_DIR$/数论、位运算/数论/属性求取/求最大公约数(待验证).go" />
     <entry file="file://$PROJECT_DIR$/排序、哈希、贪心/哈希/实战演练/LeetCode_1015_可被K整除的最小整数.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1518">
@@ -386,10 +381,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/求连通块数_广搜.go">
+    <entry file="file://$PROJECT_DIR$/数论、位运算/数论/LeetCode_1250_检查「好数组」.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+        <state relative-caret-position="264">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/未分类模块/模拟/实战演练/LeetCode_1281_整数的各位积和之差.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排序、哈希、贪心/排序/快速排序.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="24" selection-start-line="24" selection-end-line="27" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排序、哈希、贪心/排序/冒泡排序.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="64" column="34" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
+          <folding>
+            <element signature="e#14#44#0" expanded="true" />
+            <element signature="n#!!block;n#bubbleSort#0" />
+            <element signature="n#!!block;n#bubbleSort#1" />
+          </folding>
         </state>
       </provider>
     </entry>
