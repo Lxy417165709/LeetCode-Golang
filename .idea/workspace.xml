@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/未分类模块/模拟/实战演练/LeetCode_498_对角线遍历_再简洁点.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/未分类模块/并查集/实例/LeetCode_959_由斜杠划分区域_并查集版.go" beforeDir="false" afterPath="$PROJECT_DIR$/未分类模块/并查集/实例/LeetCode_959_由斜杠划分区域_并查集版.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,42 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/排序、哈希、贪心/哈希/实战演练/LeetCode_1015_可被K整除的最小整数.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1518">
-              <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_240_搜索二维矩阵2_不属于二分查找.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="924">
-              <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/查找/随机选择/选择数组中的第k小.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/未分类模块/模拟/实战演练/LeetCode_1281_整数的各位积和之差.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/排序、哈希、贪心/排序/冒泡排序.go">
           <provider selected="true" editor-type-id="text-editor">
@@ -77,17 +43,65 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_959_由斜杠划分区域.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="807">
+            <state relative-caret-position="3036">
               <caret line="92" column="6" selection-start-line="92" selection-start-column="6" selection-end-line="92" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/未分类模块/并查集/实例/LeetCode_959_由斜杠划分区域_并查集版.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="74" column="16" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
+            <state relative-caret-position="2673">
+              <caret line="81" column="23" selection-start-line="81" selection-start-column="23" selection-end-line="81" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/实例/LeetCode_10_正则表达式匹配.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/未分类模块/模拟/实战演练/LeetCode_498_对角线遍历_不够优美版.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="693">
+              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+              <folding>
+                <element signature="n#!!block;n#min#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/未分类模块/模拟/实战演练/LeetCode_498_对角线遍历_再简洁点.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1353">
+              <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_5294_你能从盒子里获得的最大糖果数.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/未分类模块/脑筋急转弯/实战演练/LeetCode_5293_子串的最大出现次数.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-264">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -159,12 +173,17 @@
         <option value="$PROJECT_DIR$/未分类模块/并查集/实例/LeetCode_547_朋友圈.go" />
         <option value="$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_959_由斜杠划分区域.go" />
         <option value="$PROJECT_DIR$/未分类模块/并查集/实例/LeetCode_959_由斜杠划分区域_并查集版.go" />
+        <option value="$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/实例/LeetCode_10_正则表达式匹配.go" />
+        <option value="$PROJECT_DIR$/未分类模块/模拟/实战演练/LeetCode_498_对角线遍历_不够优美版.go" />
+        <option value="$PROJECT_DIR$/未分类模块/模拟/实战演练/LeetCode_498_对角线遍历_再简洁点.go" />
+        <option value="$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_5294_你能从盒子里获得的最大糖果数.go" />
+        <option value="$PROJECT_DIR$/未分类模块/脑筋急转弯/实战演练/LeetCode_5293_子串的最大出现次数.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-124" />
-    <option name="y" value="98" />
+    <option name="x" value="440" />
+    <option name="y" value="48" />
     <option name="width" value="1892" />
     <option name="height" value="956" />
   </component>
@@ -184,30 +203,25 @@
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
+              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
+              <item name="模拟" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
+              <item name="模拟" type="462c0819:PsiDirectoryNode" />
+              <item name="实战演练" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="查找" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="查找" type="462c0819:PsiDirectoryNode" />
-              <item name="二分查找" type="462c0819:PsiDirectoryNode" />
+              <item name="链表、树" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -225,13 +239,14 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\hasee\Desktop\算法学习\动态规划 与 搜索\搜索\实战演练" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\查找\二分查找" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hasee\Desktop\算法学习\动态规划、搜索\搜索" />
       <recent name="C:\Users\hasee\Desktop\算法学习\动态规划、搜索\搜索\回溯\实战演练" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\查找\二分查找" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hasee\Desktop\算法学习\未分类模块\模拟\实战演练" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\动态规划 与 搜索\搜索\实战演练" />
       <recent name="C:\Users\hasee\Desktop\算法学习\查找\二分查找" />
     </key>
   </component>
@@ -275,7 +290,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27771854" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29371002" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -300,11 +315,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/动态规划 与 搜索/动态规划/矩阵/实战演练/LeetCode_542_01矩阵_DP做法.go" />
-    <entry file="file://$PROJECT_DIR$/动态规划 与 搜索/搜索/实战演练/LeetCode_417_太平洋大西洋水流问题.go" />
-    <entry file="file://$PROJECT_DIR$/贪心/实战演练/LeetCode_561_数组拆分.go" />
-    <entry file="file://$PROJECT_DIR$/动态规划 与 搜索/搜索/实战演练/LeetCode_417_太平洋大西洋水流问题_另外一种DFS写法.go" />
-    <entry file="file://$PROJECT_DIR$/动态规划 与 搜索/动态规划/串/最长回文子串.go" />
     <entry file="file://$PROJECT_DIR$/动态规划 与 搜索/动态规划/串/最大子序列和.go" />
     <entry file="file://$PROJECT_DIR$/动态规划 与 搜索/动态规划/串/最长连续递增序列.go" />
     <entry file="file://$PROJECT_DIR$/动态规划 与 搜索/动态规划/串/乘积最大子序列.go" />
@@ -434,6 +444,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_959_由斜杠划分区域.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3036">
+          <caret line="92" column="6" selection-start-line="92" selection-start-column="6" selection-end-line="92" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/未分类模块/并查集/实例/LeetCode_959_由斜杠划分区域_并查集版.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2673">
+          <caret line="81" column="23" selection-start-line="81" selection-start-column="23" selection-end-line="81" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/实例/LeetCode_10_正则表达式匹配.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/未分类模块/模拟/实战演练/LeetCode_498_对角线遍历_不够优美版.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!block;n#min#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/未分类模块/模拟/实战演练/LeetCode_498_对角线遍历_再简洁点.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1353">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/数论、位运算/数论/LeetCode_1250_检查「好数组」.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -441,17 +489,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_959_由斜杠划分区域.go">
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_5294_你能从盒子里获得的最大糖果数.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="807">
-          <caret line="92" column="6" selection-start-line="92" selection-start-column="6" selection-end-line="92" selection-end-column="6" />
+        <state relative-caret-position="33">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/未分类模块/并查集/实例/LeetCode_959_由斜杠划分区域_并查集版.go">
+    <entry file="file://$PROJECT_DIR$/未分类模块/脑筋急转弯/实战演练/LeetCode_5293_子串的最大出现次数.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="74" column="16" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
+        <state relative-caret-position="-264">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
         </state>
       </provider>
     </entry>
