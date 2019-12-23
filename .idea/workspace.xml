@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="" />
+    <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/最长的斐波那契子序列.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_873_最长的斐波那契子序列的长度.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/最长等差数列.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/最长等差数列.go" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,84 +16,78 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/实例/LeetCode_10_正则表达式匹配.go">
+        <entry file="file://$PROJECT_DIR$/未分类模块/字符串与数组操作/简单字符串操作/LeetCode_151_翻转字符串里的单词.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="594">
+              <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/未分类模块/模拟/实战演练/LeetCode_498_对角线遍历_不够优美版.go">
+        <entry file="file://$PROJECT_DIR$/未分类模块/简单矩阵操作/实例/LeetCode_832_翻转图像.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="693">
-              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-              <folding>
-                <element signature="n#!!block;n#min#0" />
-              </folding>
+            <state relative-caret-position="1122">
+              <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/未分类模块/模拟/实战演练/LeetCode_498_对角线遍历_再简洁点.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1353">
-              <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_5294_你能从盒子里获得的最大糖果数.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/未分类模块/脑筋急转弯/实战演练/LeetCode_5293_子串的最大出现次数.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/未分类模块/字符串与数组操作/简单数组操作/判断数组是否单调.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1551">
-              <caret line="79" column="16" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
-              <folding>
-                <element signature="n#!!block;n#isMonotonic#1" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/双指针/读写指针/实例/LeetCode_905_按奇偶排序数组.go">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/最长递增子序列的个数.go">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/双指针/读写指针/实例/LeetCode_922_按奇偶排序数组2.go">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/最长等差数列.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="707">
-              <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+            <state relative-caret-position="1188">
+              <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/最长上升子序列.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/最长连续递增序列.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/最大子序列和.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_873_最长的斐波那契子序列的长度.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/未分类模块/字符串与数组操作/简单字符串操作/LeetCode_151_翻转字符串里的单词.go">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/最长的斐波那契子序列.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-990">
-              <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+            <state relative-caret-position="278">
+              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -118,10 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/查找/二分查找/寻找旋转排序数组中的最小值_有重复元素.go" />
-        <option value="$PROJECT_DIR$/查找/二分查找/旋转排序数组中的查找_有重复元素.go" />
-        <option value="$PROJECT_DIR$/查找/二分查找/旋转排序数组中的查找_无重复元素.go" />
-        <option value="$PROJECT_DIR$/查找/二分查找/寻找旋转排序数组中的最小值_无重复元素.go" />
         <option value="$PROJECT_DIR$/动态规划 与 搜索/动态规划/串/最长连续子数组.go" />
         <option value="$PROJECT_DIR$/动态规划 与 搜索/动态规划/矩阵/实战演练/LeetCode_542_01矩阵_DP做法.go" />
         <option value="$PROJECT_DIR$/动态规划 与 搜索/搜索/实战演练/LeetCode_417_太平洋大西洋水流问题_另外一种DFS写法.go" />
@@ -169,21 +164,24 @@
         <option value="$PROJECT_DIR$/双指针/读写指针/LeetCode_27_移除元素.go" />
         <option value="$PROJECT_DIR$/双指针/读写指针/实例/LeetCode_922_按奇偶排序数组2.go" />
         <option value="$PROJECT_DIR$/未分类模块/字符串与数组操作/简单字符串操作/LeetCode_151_翻转字符串里的单词.go" />
+        <option value="$PROJECT_DIR$/未分类模块/简单矩阵操作/实例/LeetCode_832_翻转图像.go" />
+        <option value="$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/最长等差数列.go" />
+        <option value="$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_873_最长的斐波那契子序列的长度.go" />
+        <option value="$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/最长的斐波那契子序列.go" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="28" />
-    <option name="y" value="26" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="64" />
+    <option name="y" value="75" />
     <option name="width" value="1892" />
-    <option name="height" value="956" />
+    <option name="height" value="968" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,20 +192,25 @@
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
-              <item name="模拟" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
-              <item name="模拟" type="462c0819:PsiDirectoryNode" />
-              <item name="实战演练" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
+              <item name="子序列问题" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="查找" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
@@ -218,6 +221,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -278,10 +282,10 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="28" y="26" width="1892" height="956" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3029476" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25586355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -306,33 +310,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/排序、哈希、贪心/哈希/和为K的子数组.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/较少使用的模块/简单矩阵操作/重塑矩阵.go" />
-    <entry file="file://$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_540_有序数组中的单一元素.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1221">
-          <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/较少使用的模块/脑筋急转弯/实战演练/LeetCode_521_最长特殊序列1.go" />
-    <entry file="file://$PROJECT_DIR$/较少使用的模块/简单矩阵操作/转置矩阵.go" />
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/LeetCode_306_累加数.go" />
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实战演练/LeetCode_375_猜数字大小2.go" />
-    <entry file="file://$PROJECT_DIR$/较少使用的模块/简单矩阵操作/托普利茨矩阵.go" />
-    <entry file="file://$PROJECT_DIR$/排序、哈希、贪心/哈希/实战演练/LeetCode_387_字符串第一个唯一字符.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="16" column="96" selection-start-line="16" selection-start-column="96" selection-end-line="16" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/数论、位运算/数论/属性求取/求因子和.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="858">
@@ -470,6 +447,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/最长公共子序列.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/未分类模块/脑筋急转弯/实战演练/LeetCode_5293_子串的最大出现次数.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
@@ -490,6 +474,58 @@
     <entry file="file://$PROJECT_DIR$/双指针/读写指针/实例/LeetCode_905_按奇偶排序数组.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/双指针/读写指针/实例/LeetCode_922_按奇偶排序数组2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/未分类模块/字符串与数组操作/简单字符串操作/LeetCode_151_翻转字符串里的单词.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/未分类模块/简单矩阵操作/实例/LeetCode_832_翻转图像.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/最长递增子序列的个数.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/最长等差数列.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/最长上升子序列.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/最长连续递增序列.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/最大子序列和.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/数论、位运算/数论/LeetCode_1250_检查「好数组」.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -497,17 +533,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/双指针/读写指针/实例/LeetCode_922_按奇偶排序数组2.go">
+    <entry file="file://$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_873_最长的斐波那契子序列的长度.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="707">
-          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        <state relative-caret-position="198">
+          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/未分类模块/字符串与数组操作/简单字符串操作/LeetCode_151_翻转字符串里的单词.go">
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/最长的斐波那契子序列.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-990">
-          <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        <state relative-caret-position="278">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
         </state>
       </provider>
     </entry>

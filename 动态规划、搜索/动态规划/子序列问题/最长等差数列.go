@@ -33,11 +33,13 @@ func hash(a, b int) int {
 // 状态转移方程:
 //		dp[i][任意值] = 1
 //		dp[i][tolerance] = max(dp[i][tolerance], dp[t][tolerance]+1)	t∈[0,i)
+// 注意: 题目限制了len(nums)>=2
 func longestArithSeqLength(nums []int) int {
 	dp := make([]map[int]int, 0)
 	ans := 0
 	for i := 0; i < len(nums); i++ {
 		dp = append(dp, make(map[int]int))
+
 		for t := 0; t < i; t++ {
 			tolerance := nums[i] - nums[t]
 			// 这里赋值的原因是，dp[t][tolerance]的最小值就是1。 (如果可以把数据都初始化为1，那么这步就不需要)
