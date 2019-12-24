@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/实例/LeetCode_473_火柴拼正方形.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树属性获取/求二叉树左下角的值.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_278_第一个错误的版本.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/链表、树/链表/链表相加.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,42 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/最长上升子序列.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/最长连续递增序列.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/最大子序列和.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_873_最长的斐波那契子序列的长度.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/最长的斐波那契子序列.go">
           <provider selected="true" editor-type-id="text-editor">
@@ -77,7 +41,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/实例/LeetCode_473_火柴拼正方形.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="627">
@@ -87,10 +51,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/未分类模块/字符串与数组操作/简单字符串操作/LeeCode_415_字符串相加.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="957">
+              <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/链表、树/链表/链表相加.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1122">
+              <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_278_第一个错误的版本.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/数论、位运算/数论/素数筛.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="707">
+              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/实例/LeetCode_473_火柴拼正方形_另外一种搜索函数定义.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="740">
-              <caret line="75" column="14" lean-forward="true" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+            <state relative-caret-position="2475">
+              <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -120,11 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/贪心/实战演练/LeetCode_561_数组拆分.go" />
-        <option value="$PROJECT_DIR$/贪心/实战演练/LeetCode_575_分糖果.go" />
-        <option value="$PROJECT_DIR$/较少使用的模块/字符串与数组操作/简单字符串操作/反转字符串.go" />
-        <option value="$PROJECT_DIR$/排序、哈希、贪心/哈希/和为K的子数组.go" />
-        <option value="$PROJECT_DIR$/较少使用的模块/简单矩阵操作/重塑矩阵.go" />
         <option value="$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_540_有序数组中的单一元素.go" />
         <option value="$PROJECT_DIR$/较少使用的模块/脑筋急转弯/实战演练/LeetCode_521_最长特殊序列1.go" />
         <option value="$PROJECT_DIR$/较少使用的模块/简单矩阵操作/转置矩阵.go" />
@@ -171,12 +166,17 @@
         <option value="$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/LeetCode_473_火柴拼正方形_另外一种搜索函数定义.go" />
         <option value="$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/LeetCode_473_火柴拼正方形.go" />
         <option value="$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/实例/LeetCode_473_火柴拼正方形.go" />
+        <option value="$PROJECT_DIR$/未分类模块/字符串与数组操作/简单字符串操作/LeeCode_415_字符串相加.go" />
+        <option value="$PROJECT_DIR$/链表、树/链表/链表相加.go" />
+        <option value="$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_278_第一个错误的版本.cpp.go" />
+        <option value="$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_278_第一个错误的版本.cpp" />
+        <option value="$PROJECT_DIR$/数论、位运算/数论/素数筛.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-33" />
-    <option name="y" value="111" />
+    <option name="x" value="252" />
+    <option name="y" value="15" />
     <option name="width" value="1892" />
     <option name="height" value="986" />
   </component>
@@ -195,20 +195,7 @@
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="搜索" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="深度优先搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="排序、哈希、贪心" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
@@ -218,28 +205,15 @@
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="链表、树" type="462c0819:PsiDirectoryNode" />
+              <item name="查找" type="462c0819:PsiDirectoryNode" />
+              <item name="二分查找" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="链表、树" type="462c0819:PsiDirectoryNode" />
-              <item name="树" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="链表、树" type="462c0819:PsiDirectoryNode" />
-              <item name="树" type="462c0819:PsiDirectoryNode" />
-              <item name="二叉树" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="链表、树" type="462c0819:PsiDirectoryNode" />
-              <item name="树" type="462c0819:PsiDirectoryNode" />
-              <item name="二叉树" type="462c0819:PsiDirectoryNode" />
-              <item name="二叉树属性获取" type="462c0819:PsiDirectoryNode" />
+              <item name="查找" type="462c0819:PsiDirectoryNode" />
+              <item name="二分查找" type="462c0819:PsiDirectoryNode" />
+              <item name="实战演练" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -308,8 +282,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26279318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -334,11 +309,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/回溯/实战演练/LeetCode_1215_步进数.go" />
-    <entry file="file://$PROJECT_DIR$/数论、位运算/位运算/10进制转换16进制.go" />
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列/最长等差数列.go" />
-    <entry file="file://$PROJECT_DIR$/数论、位运算/位运算/10进制转换7进制.go" />
-    <entry file="file://$PROJECT_DIR$/查找/二分查找/旋转排序数组中的查找_有重复元素.go" />
     <entry file="file://$PROJECT_DIR$/查找/二分查找/旋转排序数组中的查找_无重复元素.go" />
     <entry file="file://$PROJECT_DIR$/数论、位运算/位运算/10进制转换16进制补码.go" />
     <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列/最长上升子序列.go" />
@@ -547,6 +517,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_278_第一个错误的版本.cpp.go" />
     <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/最长的斐波那契子序列.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1287">
@@ -568,6 +539,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/实例/LeetCode_473_火柴拼正方形.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/未分类模块/字符串与数组操作/简单字符串操作/LeeCode_415_字符串相加.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="957">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/链表/链表相加.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/实例/LeetCode_473_火柴拼正方形_另外一种搜索函数定义.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2475">
+          <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/数论、位运算/数论/LeetCode_1250_检查「好数组」.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -575,17 +574,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/实例/LeetCode_473_火柴拼正方形_另外一种搜索函数定义.go">
+    <entry file="file://$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_278_第一个错误的版本.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
-          <caret line="75" column="14" lean-forward="true" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+        <state relative-caret-position="297">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/实例/LeetCode_473_火柴拼正方形.go">
+    <entry file="file://$PROJECT_DIR$/数论、位运算/数论/素数筛.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="707">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
         </state>
       </provider>
     </entry>
