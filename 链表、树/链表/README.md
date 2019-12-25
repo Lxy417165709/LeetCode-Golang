@@ -123,9 +123,9 @@
         }
         ```
 2. 练习题
-    - [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
-    - [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
-    - [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
-    - [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
     - [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
+    - [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+    - [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+    - [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
+    - [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
     - [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)

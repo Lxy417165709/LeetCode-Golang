@@ -6,16 +6,17 @@ type TreeNode struct {
 	Right *TreeNode
 }
 
-var levelOrderSequence [][]int
+
 
 // 递归 + 外部变量 实现层序遍历
+var levelOrderSequence [][]int
 func levelOrder(root *TreeNode) [][]int {
 	levelOrderSequence = make([][]int, 0)
 	levelOrderExec(root, 0)
 	return levelOrderSequence
 }
 
-// lay表示当前树节点所在的层 (从0开始)
+// lay 表示当前树节点所在的层 (从0开始)
 func levelOrderExec(root *TreeNode, lay int) {
 	if root == nil {
 		return

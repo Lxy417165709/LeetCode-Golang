@@ -10,7 +10,6 @@ func mergeTrees(t1 *TreeNode, t2 *TreeNode) *TreeNode {
 }
 
 func mergeTreesExec(t1 *TreeNode, t2 *TreeNode) *TreeNode {
-
 	if t1 == nil && t2 == nil {
 		return nil
 	}
@@ -20,7 +19,6 @@ func mergeTreesExec(t1 *TreeNode, t2 *TreeNode) *TreeNode {
 	if t2 == nil {
 		return t1
 	}
-	// 把t1改为t2，之后返回t2也可以的。
 	t1.Left = mergeTreesExec(t1.Left, t2.Left)
 	t1.Right = mergeTreesExec(t1.Right, t2.Right)
 	t1.Val = t1.Val + t2.Val

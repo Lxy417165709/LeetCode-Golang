@@ -38,6 +38,8 @@ func sumOfLeftLeaves(root *TreeNode) int {
 	return sumOfLeftLeavesExec(root.Left, 0) + sumOfLeftLeavesExec(root.Right, 1)
 }
 
+// flag == 0，表示此时在左子树。 (相对于父亲)
+// flag == 1，表示此时在右子树。 (相对于父亲)
 func sumOfLeftLeavesExec(root *TreeNode, flag int) int {
 	if root == nil {
 		return 0

@@ -59,7 +59,6 @@ func abs(a int) int {
 
 /*
 	题目链接:
-		https://leetcode-cn.com/problems/univalued-binary-tree/submissions/		单值二叉树
 */
 
 /*

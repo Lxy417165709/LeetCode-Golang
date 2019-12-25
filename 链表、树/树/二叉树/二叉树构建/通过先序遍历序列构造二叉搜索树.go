@@ -17,13 +17,11 @@ type TreeNode struct {
 func bstFromPreorder(preorder []int) *TreeNode {
 	return bstFromPreorderExec(preorder)
 }
-
 func bstFromPreorderExec(preorder []int) *TreeNode {
 	if len(preorder) == 0 {
 		return nil
 	}
-	rootVal := preorder[0]
-	index := 0
+	index, rootVal := 0, preorder[0]
 	for index = 0; index < len(preorder); index++ {
 		if preorder[index] > rootVal {
 			break
