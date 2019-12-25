@@ -2,13 +2,11 @@ package main
 
 // 递归 + 位运算 实现加法
 func getSum(a int, b int) int {
-	num1 := (a & b) << 1
-	num2 := a ^ b
-
-	if num1 == 0 {
-		return num2
+	sum, carry := a^b, (a&b)<<1
+	if carry == 0 {
+		return sum
 	}
-	return getSum(num1, num2)
+	return getSum(sum, carry)
 }
 
 // 迭代 + 位运算 实现加法

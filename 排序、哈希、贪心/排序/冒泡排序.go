@@ -33,11 +33,7 @@ func bubbleSort2(nums []int) {
 	}
 }
 
-/*
-	题目链接:
-		https://leetcode-cn.com/problems/sort-an-array/		排序数组(会超时)
-*/
-
+// -------------------- 以下是测试代码 -------------------------
 const limit = 500000
 
 // 生成一个随机的数组
@@ -68,3 +64,8 @@ func main() {
 	bubbleSort2(arr)
 	fmt.Println(isSequential(arr))
 }
+
+/*
+	题目链接:
+		https://leetcode-cn.com/problems/sort-an-array/		排序数组(会超时)
+*/

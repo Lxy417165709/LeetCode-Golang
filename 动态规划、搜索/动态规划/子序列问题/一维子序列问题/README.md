@@ -2,36 +2,36 @@
 ## 求最长上升、整除、定差子序列的长度
 1. 实例 ( 求最长上升子序列的长度 )
 	```go
-	    func lengthOfLIS(nums []int) int {
-	    	dp := make([]int, len(nums))
-	    	for i := 0; i < len(nums); i++ {
-	    		dp[i] = 1
-	    		for t := 0; t < i; t++ {
-	    			if nums[i] > nums[t] {
-	    				dp[i] = max(dp[i], dp[t]+1)
-	    			}
-	    		}
-	    	}
-	    	ans := 0
-	    	for i := 0; i < len(dp); i++ {
-	    		ans = max(dp[i], ans)
-	    	}
-	    	return ans
-	    }
+    func lengthOfLIS(nums []int) int {
+        dp := make([]int, len(nums))
+        for i := 0; i < len(nums); i++ {
+            dp[i] = 1
+            for t := 0; t < i; t++ {
+                if nums[i] > nums[t] {
+                    dp[i] = max(dp[i], dp[t]+1)
+                }
+            }
+        }
+        ans := 0
+        for i := 0; i < len(dp); i++ {
+            ans = max(dp[i], ans)
+        }
+        return ans
+    }
 	```
 
 2. 框架
 	```go
-	     /* 初始化操作 */
-	     for i := 0; i < len(nums); i++ {
-	         /* 赋值操作 */
-	         for t := 0; t < i; t++ {
-	             if /* 判断条件 */ {
-	                 /* 执行具体操作 */
-	             }
-	         }
-	     }
-	     return ans
+     /* 初始化操作 */
+     for i := 0; i < len(nums); i++ {
+         /* 赋值操作 */
+         for t := 0; t < i; t++ {
+             if /* 判断条件 */ {
+                 /* 执行具体操作 */
+             }
+         }
+     }
+     return ans
 	```
 	- 「初始化操作」 指: 初始化dp数组、及其它的数据结构(如果有)。
 		- 例子: `dp := make([]int, len(nums))` 表示: 接下来dp数组存放的是整型数据且长度为`len(nums)`。
