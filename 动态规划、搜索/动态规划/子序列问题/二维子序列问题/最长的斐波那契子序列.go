@@ -1,4 +1,4 @@
-package main
+package 二维子序列问题
 
 // 这个哈希把2维信息转为1维信息
 func hash(a int, b int) int {

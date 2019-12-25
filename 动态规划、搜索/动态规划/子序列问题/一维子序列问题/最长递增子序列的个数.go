@@ -1,11 +1,11 @@
-package main
+package 一维子序列问题
 
 // dp[i] 表示: 		以nums[i]结尾的最长递增子序列长度
 // count[i]表示: 	以nums[i]结尾的最长递增子序列个数
 func findNumberOfLIS(nums []int) int {
 	dp := [2005]int{}
 	count := make(map[int]int, len(nums)+5)
-	maxLength := 0 // nums中最长递增子序列长度
+
 	for i := 0; i < len(nums); i++ {
 		dp[i] = 1		// 注意初始化
 		count[i] = 1	// 注意初始化
@@ -21,13 +21,16 @@ func findNumberOfLIS(nums []int) int {
 				}
 			}
 		}
+	}
+	maxLength := 0 // nums中最长递增子序列长度
+	for i:=0;i<len(dp);i++{
 		maxLength = max(maxLength, dp[i])
 	}
-	ans := 0
+
+	ans := 0	// nums中最长递增子序列个数
 	for i := 0; i < len(nums); i++ {
 		if dp[i] == maxLength {
 			ans += count[i]
-
 		}
 	}
 	return ans

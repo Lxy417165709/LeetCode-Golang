@@ -1,4 +1,4 @@
-package main
+package 二维子序列问题
 
 // 动态规划 解决最长公共子序列问题
 // dp[i][t] 表示: text1[:i]与text2[:t]的最长公共子序列长度

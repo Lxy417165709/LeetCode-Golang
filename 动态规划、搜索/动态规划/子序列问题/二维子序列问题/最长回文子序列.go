@@ -1,4 +1,4 @@
-package main
+package 二维子序列问题
 
 // 采用 dp 求解 最长回文子序列
 // dp[i][t] 表示 s[i:t+1]的最长回文子序列

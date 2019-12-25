@@ -1,4 +1,4 @@
-package main
+package 二维子序列问题
 
 // dp[hash(i,tolerance)]表示以nums[i]结尾且公差是tolerance的等差子序列长度 (方法1)
 // 转移方程在下面方法2处
@@ -59,6 +59,7 @@ const (
 
 // dp[i][tolerance + off] 表示以nums[i]结尾且公差是tolerance的等差子序列长度 (方法3)(这里使用数组)
 // 提交的时候会超时，但是超时案例自己提交时可以运行，不会超时。
+// 可能是空间开太大了导致的异常
 func longestArithSeqLength(nums []int) int {
 	dp := [2005][20500]int{}
 	ans := 0

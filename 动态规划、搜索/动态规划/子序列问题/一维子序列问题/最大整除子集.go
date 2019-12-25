@@ -1,4 +1,4 @@
-package main
+package 一维子序列问题
 
 import "sort"
 

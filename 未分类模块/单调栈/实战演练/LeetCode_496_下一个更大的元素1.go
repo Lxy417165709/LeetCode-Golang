@@ -1,5 +1,6 @@
 package main
-// 利用哈希和单调栈进行解决
+
+// 利用哈希和单调栈解决该题
 func nextGreaterElement(nums1 []int, nums2 []int) []int {
 	lastBig := make(map[int]int)
 	stack := make([]int, 0)
@@ -21,6 +22,7 @@ func nextGreaterElement(nums1 []int, nums2 []int) []int {
 	}
 	return nums1
 }
+
 
 /*
 	题目链接:
