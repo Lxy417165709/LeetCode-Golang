@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/链表、树/树/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/链表、树/树/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树属性获取/求二叉树左叶子节点和.go" beforeDir="false" afterPath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树属性获取/求二叉树左叶子节点和.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树性质判断/判断二叉树是否平衡.go" beforeDir="false" afterPath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树性质判断/判断二叉树是否平衡.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树构建/通过先序遍历序列构造二叉搜索树.go" beforeDir="false" afterPath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树构建/通过先序遍历序列构造二叉搜索树.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/合并二叉树.go" beforeDir="false" afterPath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/合并二叉树.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/翻转二叉树_迭代(层序遍历).go" beforeDir="false" afterPath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/翻转二叉树_迭代(层序遍历).go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/递归实现/层序遍历_递归.go" beforeDir="false" afterPath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/递归实现/层序遍历_递归.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表、树/链表/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/链表、树/链表/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,36 +16,10 @@
         <entry file="file://$PROJECT_DIR$/链表、树/树/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="626">
-                <caret line="766" column="6" lean-forward="true" selection-start-line="766" selection-start-column="6" selection-end-line="766" selection-end-column="6" />
+              <first_editor relative-caret-position="363">
+                <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
                 <folding>
-                  <element signature="e#55#266#0" />
-                  <element signature="e#296#1423#0" />
-                  <element signature="e#1453#2357#0" />
-                  <element signature="e#2387#2609#0" />
-                  <element signature="e#2639#3522#0" />
-                  <element signature="e#3394#4608#0" />
-                  <element signature="e#4653#5235#0" />
-                  <element signature="e#5229#5788#0" />
-                  <element signature="e#5817#6825#0" />
-                  <element signature="e#6858#8265#0" />
-                  <element signature="e#8292#8752#0" />
-                  <element signature="e#8800#9519#0" />
-                  <element signature="e#9536#10267#0" />
-                  <element signature="e#10283#10929#0" />
-                  <element signature="e#10966#11452#0" />
-                  <element signature="e#11483#12353#0" />
-                  <element signature="e#12385#12866#0" />
-                  <element signature="e#12894#13412#0" />
-                  <element signature="e#26#35#0" />
-                  <element signature="e#13429#13986#0" />
-                  <element signature="e#14009#14432#0" />
-                  <element signature="e#14622#15891#0" />
-                  <element signature="e#16033#17396#0" />
-                  <element signature="e#17411#18797#0" />
-                  <element signature="e#18821#20198#0" />
-                  <element signature="e#20214#21744#0" />
-                  <element signature="e#21768#22228#0" />
+                  <element signature="e#21768#22761#0" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -382,7 +349,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19083156" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12153518" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -783,36 +750,10 @@
     <entry file="file://$PROJECT_DIR$/链表、树/树/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="626">
-            <caret line="766" column="6" lean-forward="true" selection-start-line="766" selection-start-column="6" selection-end-line="766" selection-end-column="6" />
+          <first_editor relative-caret-position="363">
+            <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             <folding>
-              <element signature="e#55#266#0" />
-              <element signature="e#296#1423#0" />
-              <element signature="e#1453#2357#0" />
-              <element signature="e#2387#2609#0" />
-              <element signature="e#2639#3522#0" />
-              <element signature="e#3394#4608#0" />
-              <element signature="e#4653#5235#0" />
-              <element signature="e#5229#5788#0" />
-              <element signature="e#5817#6825#0" />
-              <element signature="e#6858#8265#0" />
-              <element signature="e#8292#8752#0" />
-              <element signature="e#8800#9519#0" />
-              <element signature="e#9536#10267#0" />
-              <element signature="e#10283#10929#0" />
-              <element signature="e#10966#11452#0" />
-              <element signature="e#11483#12353#0" />
-              <element signature="e#12385#12866#0" />
-              <element signature="e#12894#13412#0" />
-              <element signature="e#26#35#0" />
-              <element signature="e#13429#13986#0" />
-              <element signature="e#14009#14432#0" />
-              <element signature="e#14622#15891#0" />
-              <element signature="e#16033#17396#0" />
-              <element signature="e#17411#18797#0" />
-              <element signature="e#18821#20198#0" />
-              <element signature="e#20214#21744#0" />
-              <element signature="e#21768#22228#0" />
+              <element signature="e#21768#22761#0" />
             </folding>
           </first_editor>
           <second_editor />
