@@ -87,11 +87,11 @@
     - 利用位运算实现不用 `+` 做加法。
         ``` go
         func getSum(a int, b int) int {
-            sum, carry := a^b, (a&b)<<1
-            if carry == 0 {
+            sum, cnumsy := a^b, (a&b)<<1
+            if cnumsy == 0 {
                 return sum
             }
-            return getSum(sum, carry)
+            return getSum(sum, cnumsy)
         }
         ```
     - 位运算还可以实现小容量的`map`。
