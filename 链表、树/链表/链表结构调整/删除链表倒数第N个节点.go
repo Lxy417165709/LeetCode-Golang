@@ -1,6 +1,7 @@
 package main
 
 // 双指针法 删除链表的倒数第N个节点，时空复杂度 O(n),O(1)
+// 需要判断n合法性，非法情况如: n小于0 or n大于链表长度
 func removeNthFromEnd(head *ListNode, n int) *ListNode {
 	if head == nil {
 		return head

@@ -18,10 +18,21 @@ func reverseList(head *ListNode) *ListNode {
 	return pre
 }
 
+// 递归解法
+func reverseList(head *ListNode) *ListNode {
+	if head == nil || head.Next == nil {
+		return head
+	}
+	newHead := reverseList(head.Next)
+	head.Next.Next = head
+	head.Next = nil
+	return newHead
+}
+
 func main() {
 
 }
+
 /*
 	题目链接: https://leetcode-cn.com/problems/reverse-linked-list/
 */
-

@@ -1,6 +1,7 @@
 package main
 
 // 优美的解法 (根本在于消除长度差)
+// 迭代解法
 func getIntersectionNode(headA, headB *ListNode) *ListNode {
 	pA, pB := headA, headB
 	for pA != pB {
