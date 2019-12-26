@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_1020_飞地的数量.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_200_岛屿数量_深搜_套模板.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/广度优先搜索/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划、搜索/搜索/广度优先搜索/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/未分类模块/单调栈/实战演练/LeetCode_496_下一个更大的元素1.go" beforeDir="false" afterPath="$PROJECT_DIR$/未分类模块/单调栈/LeetCode_496_下一个更大的元素1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,24 +14,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/实例/LeetCode_980_不同路径 Ⅲ.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1485">
-              <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/未分类模块/区间/实战演练/LeetCode_1024_视频拼接.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1155">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_200_岛屿数量_深搜.go">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -43,7 +21,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_200_岛屿数量_深搜_套模板.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
+            <state relative-caret-position="1023">
               <caret line="31" column="92" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="92" />
             </state>
           </provider>
@@ -53,9 +31,19 @@
         <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/广度优先搜索/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="231">
+              <first_editor relative-caret-position="924">
                 <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
               </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -65,9 +53,19 @@
         <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="462">
-                <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <first_editor relative-caret-position="528">
+                <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
               </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -77,7 +75,7 @@
         <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_1020_飞地的数量.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
               <folding>
                 <element signature="n#!!block;n#numEnclaves#0" />
                 <element signature="n#!!block;n#DFS#0" />
@@ -201,6 +199,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -275,7 +274,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -359,7 +357,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17537314" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17697228" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -405,14 +403,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树间关系判断/LeetCode_100_相同的树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="30" column="63" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/链表/链表结构调整/删除链表倒数第N个节点.go" />
     <entry file="file://$PROJECT_DIR$/链表、树/树/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -646,6 +636,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/实例/LeetCode_980_不同路径 Ⅲ.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/未分类模块/区间/实战演练/LeetCode_1024_视频拼接.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_200_岛屿数量_深搜.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_200_岛屿数量_深搜_套模板.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1023">
+          <caret line="31" column="92" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_1020_飞地的数量.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="n#!!block;n#numEnclaves#0" />
+            <element signature="n#!!block;n#DFS#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/未分类模块/单调栈/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -661,22 +686,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/实例/LeetCode_980_不同路径 Ⅲ.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1485">
-          <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/未分类模块/区间/实战演练/LeetCode_1024_视频拼接.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_200_岛屿数量_深搜.go">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -686,30 +702,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_200_岛屿数量_深搜_套模板.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="31" column="92" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_1020_飞地的数量.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
-          <folding>
-            <element signature="n#!!block;n#numEnclaves#0" />
-            <element signature="n#!!block;n#DFS#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/广度优先搜索/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="231">
+          <first_editor relative-caret-position="924">
             <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
           </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -717,8 +723,8 @@
     <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="462">
-            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <first_editor relative-caret-position="528">
+            <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
           </first_editor>
           <second_editor />
         </state>
