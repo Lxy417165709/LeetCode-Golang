@@ -1,4 +1,4 @@
-package main
+package 单调栈
 
 // 利用哈希和单调栈解决该题
 func nextGreaterElement(nums1 []int, nums2 []int) []int {

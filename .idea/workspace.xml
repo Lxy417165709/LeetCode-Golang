@@ -2,78 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/双指针/滑动窗口/实战演练/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/未分类模块/循环判断/LeetCode_1015_可被K整除的最小整数.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/查找、排序、哈希、贪心/查找/随机选择/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/查找、排序、哈希、贪心/贪心/区间贪心/LeetCode_452_用最少数量的箭引爆气球.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/查找、排序、哈希、贪心/贪心/区间贪心/LeetCode_453_无重叠区间.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_1020_飞地的数量.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_200_岛屿数量_深搜_套模板.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/最大子序列和.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/最大子序列和.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/最长连续子数组.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/最长连续子数组.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/最长连续递增序列.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/最长连续递增序列.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/平铺问题/实例/LeetCode_790_多米诺和托米诺平铺.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划、搜索/动态规划/平铺问题/LeetCode_790_多米诺和托米诺平铺.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/矩阵问题/实例/LeetCode_542_01矩阵_DP做法.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划、搜索/动态规划/矩阵问题/LeetCode_542_01矩阵_DP做法.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/矩阵问题/求左上角到右下角的不同路径.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/矩阵问题/求左上角到右下角的不同路径_添加障碍物版.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/回溯/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/回溯/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/字符串搜索/实例/LeetCode_306_累加数.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/实例/LeetCode_10_正则表达式匹配.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/实例/LeetCode_375_猜数字大小2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/实例/LeetCode_516_最长回文子序列.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/实例/LeetCode_583_两个字符串的删除操作.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/实例/LeetCode_678_有效的括号字符串.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/实例/LeetCode_72_编辑距离.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序、哈希、贪心/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序、哈希、贪心/哈希/LeetCode_1015_可被K整除的最小整数.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序、哈希、贪心/哈希/LeetCode_1128_等价多米诺骨牌对的数量.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序、哈希、贪心/哈希/LeetCode_128_最长连续序列.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序、哈希、贪心/哈希/LeetCode_387_字符串第一个唯一字符.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序、哈希、贪心/哈希/LeetCode_560_和为K的子数组.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序、哈希、贪心/排序/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序、哈希、贪心/排序/冒泡排序.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序、哈希、贪心/排序/归并排序.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序、哈希、贪心/排序/快速排序.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序、哈希、贪心/排序/插入排序.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序、哈希、贪心/排序/选择排序.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序、哈希、贪心/贪心/LeetCode_561_数组拆分.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序、哈希、贪心/贪心/LeetCode_575_分糖果.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/数论、位运算/位运算/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/数论、位运算/位运算/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/未分类模块/并查集/实例/LeetCode_1202_交换字符串中的元素.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/未分类模块/并查集/实例/LeetCode_547_朋友圈.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/未分类模块/并查集/实例/LeetCode_959_由斜杠划分区域_并查集版.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/未分类模块/并查集/实例/LeetCode_959_由斜杠划分区域_并查集版_抽象并查集.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/未分类模块/模拟/实战演练/LeetCode_1281_整数的各位积和之差.go" beforeDir="false" afterPath="$PROJECT_DIR$/未分类模块/模拟/LeetCode_1281_整数的各位积和之差.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/未分类模块/模拟/实战演练/LeetCode_1290_二进制链表转整数.go" beforeDir="false" afterPath="$PROJECT_DIR$/未分类模块/模拟/LeetCode_1290_二进制链表转整数.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/未分类模块/模拟/实战演练/LeetCode_498_对角线遍历_不够优美版.go" beforeDir="false" afterPath="$PROJECT_DIR$/未分类模块/模拟/LeetCode_498_对角线遍历_不够优美版.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/未分类模块/模拟/实战演练/LeetCode_498_对角线遍历_再简洁点.go" beforeDir="false" afterPath="$PROJECT_DIR$/未分类模块/模拟/LeetCode_498_对角线遍历_再简洁点.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/未分类模块/简单矩阵操作/实例/LeetCode_832_翻转图像.go" beforeDir="false" afterPath="$PROJECT_DIR$/未分类模块/简单矩阵操作/LeetCode_832_翻转图像.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/未分类模块/简单递归/实战演练/LeetCode_397_整数替换.go" beforeDir="false" afterPath="$PROJECT_DIR$/未分类模块/简单递归/LeetCode_397_整数替换.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/未分类模块/脑筋急转弯/实战演练/LeetCode_521_最长特殊序列1.go" beforeDir="false" afterPath="$PROJECT_DIR$/未分类模块/脑筋急转弯/LeetCode_521_最长特殊序列1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/未分类模块/脑筋急转弯/实战演练/LeetCode_5293_子串的最大出现次数.go" beforeDir="false" afterPath="$PROJECT_DIR$/未分类模块/脑筋急转弯/LeetCode_5293_子串的最大出现次数.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/未分类模块/蓄水池抽样/实战演练/LeetCode_382_链表随机节点.go" beforeDir="false" afterPath="$PROJECT_DIR$/未分类模块/蓄水池抽样/LeetCode_382_链表随机节点.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/未分类模块/蓄水池抽样/实战演练/LeetCode_398_随机数索引.go" beforeDir="false" afterPath="$PROJECT_DIR$/未分类模块/蓄水池抽样/LeetCode_398_随机数索引.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/查找/二分查找/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_240_搜索二维矩阵2_不属于二分查找.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_278_第一个错误的版本.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_540_有序数组中的单一元素.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_74_搜索二维矩阵.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_873_最长的斐波那契子序列的长度.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/查找/二分查找/实战演练/寻找旋转排序数组中的最小值_无重复元素.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/查找/二分查找/实战演练/寻找旋转排序数组中的最小值_有重复元素.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/查找/二分查找/实战演练/旋转排序数组中的查找_无重复元素.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/查找/二分查找/实战演练/旋转排序数组中的查找_有重复元素.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/查找/二分查找/简单二分查找.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/查找/二分查找/进阶二分查找.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/查找/随机选择/选择数组中的第k小.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表、树/树/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/链表、树/树/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表、树/链表/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/链表、树/链表/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表、树/链表/链表属性获取/获取链表中间节点.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表、树/链表/链表属性获取/获取链表环入口.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表、树/链表/链表属性获取/获取链表相交节点.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表、树/链表/链表性质判断/判断链表是否有环.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表、树/链表/链表结构调整/删除链表倒数第N个节点.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/链表、树/链表/链表结构调整/反转链表.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划、搜索/搜索/广度优先搜索/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划、搜索/搜索/广度优先搜索/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/未分类模块/单调栈/实战演练/LeetCode_496_下一个更大的元素1.go" beforeDir="false" afterPath="$PROJECT_DIR$/未分类模块/单调栈/LeetCode_496_下一个更大的元素1.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,29 +18,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/查找、排序、哈希、贪心/贪心/区间贪心/LeetCode_453_无重叠区间.go">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/实例/LeetCode_980_不同路径 Ⅲ.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="1485">
+              <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/查找、排序、哈希、贪心/贪心/区间贪心/LeetCode_452_用最少数量的箭引爆气球.go">
+        <entry file="file://$PROJECT_DIR$/未分类模块/区间/实战演练/LeetCode_1024_视频拼接.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="28" column="6" lean-forward="true" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+            <state relative-caret-position="1155">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/查找、排序、哈希、贪心/查找/二分查找/README.md">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_200_岛屿数量_深搜.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_200_岛屿数量_深搜_套模板.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="31" column="92" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/广度优先搜索/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="495">
-                <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+              <first_editor relative-caret-position="231">
+                <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
               </first_editor>
               <second_editor />
             </state>
@@ -114,11 +62,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/查找、排序、哈希、贪心/查找/随机选择/README.md">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-852">
-                <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+              <first_editor relative-caret-position="462">
+                <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               </first_editor>
               <second_editor />
             </state>
@@ -126,16 +74,20 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/未分类模块/单调栈/实战演练/LeetCode_496_下一个更大的元素1.go">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_1020_飞地的数量.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="85" />
+            <state relative-caret-position="330">
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+              <folding>
+                <element signature="n#!!block;n#numEnclaves#0" />
+                <element signature="n#!!block;n#DFS#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/README.md">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -145,31 +97,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/查找、排序、哈希、贪心/查找/随机选择/LeetCode_414_第三大的数.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2376">
-              <caret line="72" column="2" lean-forward="true" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/查找、排序、哈希、贪心/哈希/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-60">
-                <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/未分类模块/单调栈/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-918" />
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -178,8 +109,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/平铺问题/LeetCode_790_多米诺和托米诺平铺.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+            <state relative-caret-position="429">
+              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -205,10 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_278_第一个错误的版本.cpp.go" />
-        <option value="$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_278_第一个错误的版本.cpp" />
-        <option value="$PROJECT_DIR$/数论、位运算/数论/素数筛.go" />
-        <option value="$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/实例/LeetCode_678_有效的括号字符串.go" />
         <option value="$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/实例/LeetCode_733_图像渲染.go" />
         <option value="$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/最大整除子集.go" />
         <option value="$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/最长等差数列.go" />
@@ -228,7 +155,6 @@
         <option value="$PROJECT_DIR$/查找/二分查找/简单二分查找.go" />
         <option value="$PROJECT_DIR$/查找/README.md" />
         <option value="$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_542_01矩阵.go" />
-        <option value="$PROJECT_DIR$/动态规划、搜索/搜索/广度优先搜索/README.md" />
         <option value="$PROJECT_DIR$/未分类模块/单调栈/README.md" />
         <option value="$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/一维子序列问题/README.md" />
         <option value="$PROJECT_DIR$/链表、树/链表/链表结构调整/反转链表.go" />
@@ -256,14 +182,19 @@
         <option value="$PROJECT_DIR$/查找、排序、哈希、贪心/贪心/区间贪心/LeetCode_452_用最少数量的箭引爆气球.go" />
         <option value="$PROJECT_DIR$/查找、排序、哈希、贪心/查找/随机选择/LeetCode_414_第三大的数.go" />
         <option value="$PROJECT_DIR$/查找、排序、哈希、贪心/查找/随机选择/README.md" />
+        <option value="$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/实例/LeetCode_980_不同路径 Ⅲ.go" />
+        <option value="$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_200_岛屿数量_深搜_套模板.go" />
+        <option value="$PROJECT_DIR$/动态规划、搜索/搜索/广度优先搜索/README.md" />
+        <option value="$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_1020_飞地的数量.go" />
+        <option value="$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-125" />
-    <option name="y" value="489" />
+    <option name="x" value="166" />
+    <option name="y" value="45" />
     <option name="width" value="1892" />
-    <option name="height" value="1015" />
+    <option name="height" value="986" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -286,119 +217,28 @@
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
               <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
+              <item name="搜索" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
               <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
-              <item name="子串问题" type="462c0819:PsiDirectoryNode" />
+              <item name="搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="实例" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
               <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
-              <item name="平铺问题" type="462c0819:PsiDirectoryNode" />
+              <item name="搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="广度优先搜索" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
               <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
-              <item name="数组问题" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
-              <item name="矩阵问题" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
-              <item name="单调栈" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
-              <item name="单调栈" type="462c0819:PsiDirectoryNode" />
-              <item name="实战演练" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
-              <item name="博弈论" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
-              <item name="字符串与数组操作" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
-              <item name="平面" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
-              <item name="并查集" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
-              <item name="循环判断" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
-              <item name="模拟" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
-              <item name="状态机" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
-              <item name="简单矩阵操作" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
-              <item name="简单递归" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
-              <item name="脑筋急转弯" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
-              <item name="蓄水池抽样" type="462c0819:PsiDirectoryNode" />
+              <item name="搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="深度优先搜索" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
@@ -448,19 +288,19 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\hasee\Desktop\算法学习\查找、排序、哈希、贪心\查找\随机选择" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\查找、排序、哈希、贪心\贪心\区间贪心" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\链表、树\树\二叉树\二叉树间关系判断" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\未分类模块\模拟\实战演练" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\动态规划 与 搜索\搜索\实战演练" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hasee\Desktop\算法学习\未分类模块\单调栈" />
       <recent name="C:\Users\hasee\Desktop\算法学习\未分类模块\循环判断" />
       <recent name="C:\Users\hasee\Desktop\算法学习\未分类模块\蓄水池抽样" />
       <recent name="C:\Users\hasee\Desktop\算法学习\未分类模块\脑筋急转弯" />
       <recent name="C:\Users\hasee\Desktop\算法学习\未分类模块\简单递归" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\未分类模块\简单矩阵操作" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hasee\Desktop\算法学习\动态规划、搜索\搜索\深度优先搜索" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\动态规划、搜索\搜索\实例" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\查找、排序、哈希、贪心\查找\随机选择" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\查找、排序、哈希、贪心\贪心\区间贪心" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\链表、树\树\二叉树\二叉树间关系判断" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -519,7 +359,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23827292" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17537314" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -565,26 +405,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/LeetCode_538_把二叉搜索树转换为累加树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="22" column="78" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/LeetCode_617_合并二叉树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="29" column="64" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/迭代实现/中序遍历_迭代.go" />
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/迭代实现/先序遍历_迭代.go" />
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/迭代实现/后序遍历_迭代.go" />
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/迭代实现/层序遍历_迭代.go" />
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树间关系判断/判断两棵树是否相同.go" />
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树间关系判断/判断两棵树是否互为镜像.go" />
     <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树间关系判断/LeetCode_100_相同的树.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
@@ -759,64 +579,18 @@
         <state relative-caret-position="-580" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/矩阵问题/求左上角到右下角的不同路径.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="46" column="1" lean-forward="true" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/平铺问题/LeetCode_790_多米诺和托米诺平铺.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/矩阵问题/求左上角到右下角的不同路径.go" />
     <entry file="file://$PROJECT_DIR$/查找、排序、哈希、贪心/贪心/区间贪心/LeetCode_453_无重叠区间.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/查找、排序、哈希、贪心/贪心/区间贪心/LeetCode_452_用最少数量的箭引爆气球.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="28" column="6" lean-forward="true" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/查找、排序、哈希、贪心/哈希/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-60">
-            <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/未分类模块/单调栈/实战演练/LeetCode_496_下一个更大的元素1.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/未分类模块/单调栈/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-918" />
-          <second_editor />
+        <state relative-caret-position="924">
+          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -830,18 +604,121 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/查找、排序、哈希、贪心/查找/随机选择/LeetCode_414_第三大的数.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2376">
-          <caret line="72" column="2" lean-forward="true" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/查找、排序、哈希、贪心/查找/随机选择/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-852">
-            <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          <first_editor relative-caret-position="363">
+            <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/未分类模块/单调栈/LeetCode_496_下一个更大的元素1.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/查找、排序、哈希、贪心/查找/随机选择/LeetCode_414_第三大的数.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2376">
+          <caret line="72" column="2" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/查找、排序、哈希、贪心/哈希/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="693">
+            <caret line="21" selection-start-line="21" selection-end-line="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/未分类模块/单调栈/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/平铺问题/LeetCode_790_多米诺和托米诺平铺.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/实例/LeetCode_980_不同路径 Ⅲ.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/未分类模块/区间/实战演练/LeetCode_1024_视频拼接.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_200_岛屿数量_深搜.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_200_岛屿数量_深搜_套模板.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="31" column="92" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_1020_飞地的数量.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="n#!!block;n#numEnclaves#0" />
+            <element signature="n#!!block;n#DFS#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/广度优先搜索/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="231">
+            <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="462">
+            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           </first_editor>
           <second_editor />
         </state>
