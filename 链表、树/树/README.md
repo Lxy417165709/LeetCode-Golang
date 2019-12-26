@@ -1,5 +1,10 @@
+
 @[toc]
+
 ## 二叉树小总结
+### 导言
+1. 以下代码都存放于 [我的GitHub仓库](https://github.com/Lxy417165709/LeetCode-Golang) ，如果小伙伴觉得有用，请给我颗星星哈。
+2. 以下代码都是提交过的，正确性可以保证。
 ### 代码
 #### 属性获取
 #####  1. 获取普通二叉树节点个数
@@ -432,7 +437,7 @@ func invertTree(root *TreeNode) *TreeNode {
     return root
 }
 ```
-##### 2. 删除二叉树不含1的子树
+##### 2. 删除二叉树不含 `1` 的子树
 ```go
 // 删除二叉树不含1的子树
 func pruneTree(root *TreeNode) *TreeNode {
@@ -473,7 +478,7 @@ func flattenExec(root *TreeNode) *TreeNode {
 }
 ```
 ##### 4. 合并二叉树 
-([传送门](https://leetcode-cn.com/problems/merge-two-binary-trees/))
+[传送门](https://leetcode-cn.com/problems/merge-two-binary-trees/)
 ```go
 func mergeTrees(t1 *TreeNode, t2 *TreeNode) *TreeNode {
     return mergeTreesExec(t1, t2)
@@ -495,7 +500,7 @@ func mergeTreesExec(t1 *TreeNode, t2 *TreeNode) *TreeNode {
 }
 ```
 ##### 5. 将二叉搜索树转换为累加树 
-([传送门](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/comments/))
+[传送门](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/comments/)
 ```go
 var lastSum int    // 保存当前遍历过的节点值总和
 func convertBST(root *TreeNode) *TreeNode {
@@ -514,7 +519,7 @@ func convertBSTExec(root *TreeNode) {
 }
 ```
 ##### 6. 删除二叉树值为目标值的节点，返回删除后形成的森林
-([传送门](https://leetcode-cn.com/problems/delete-nodes-and-return-forest/submissions/))
+[传送门](https://leetcode-cn.com/problems/delete-nodes-and-return-forest/submissions/)
 ```go
 var forest []*TreeNode
 var shouldDelete map[int]bool

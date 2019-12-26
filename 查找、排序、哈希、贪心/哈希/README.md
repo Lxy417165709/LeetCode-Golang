@@ -1,0 +1,42 @@
+## 哈希 (TODO)
+### 应用
+#### 1. 统计数组中相同元素的出现次数
+
+[136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/submissions/)
+
+[387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
+
+```go
+// 以 [387] 为例
+/*
+    给定一个字符串，找到它的第一个不重复的字符，并返回它的索引。
+    如果不存在，则返回 -1。
+*/
+func firstUniqChar(s string) int {
+	count := make(map[uint8]int) // map就是一个哈希表
+
+	// 统计数组中相同元素的出现次数 (字符串本质也是一个数组)
+	for i := 0; i < len(s); i++ {
+		count[s[i]]++
+	}
+
+	// 找出只出现一次的元素并返回
+	for i := 0; i < len(s); i++ {
+		if count[s[i]] == 1 {
+			return i
+		}
+	}
+	// 找不到时
+	return -1
+}
+```
+
+#### 2. 实现备忘录 (记忆化搜索)
+
+### 进阶
+#### 1. 用位运算实现哈希
+
+### 练习题
+- [ ] [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/submissions/)
+- [ ] [387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
+  
