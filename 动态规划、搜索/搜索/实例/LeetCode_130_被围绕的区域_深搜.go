@@ -3,37 +3,18 @@ package main
 var dx []int
 var dy []int
 
-func judge(board [][]byte, x, y int) bool {
-	if len(board) == 0 {
-		return false
-	}
-	m, n := len(board), len(board[0])
-	if x < 0 || y < 0 || x >= m || y >= n {
-		return false
-	}
-	if board[x][y] == 'X' || board[x][y] == 'S' {
-		return false
-	}
-	return true
-}
-
-func DFS(board [][]byte, x, y int) {
-	if !judge(board, x, y) {
-		return
-	}
-	board[x][y] = 'S'
-	for i := 0; i < len(dx); i++ {
-		DFS(board, x+dx[i], y+dy[i])
-	}
-}
-
+// DFS的调用者
 func solve(board [][]byte) {
+	/* 1. 确定搜索方向dx、dy  */
 	dx = []int{0, 0, -1, 1}
 	dy = []int{1, -1, 0, 0}
+
 	if len(board) == 0 {
 		return
 	}
 	m, n := len(board), len(board[0])
+
+	/* 2. 对坐标进行DFS搜索 (这里开始调用DFS函数) */
 	for i := 0; i < m; i++ {
 		DFS(board, i, 0)
 		DFS(board, i, n-1)
@@ -42,6 +23,7 @@ func solve(board [][]byte) {
 		DFS(board, 0, t)
 		DFS(board, m-1, t)
 	}
+
 	for i := 0; i < m; i++ {
 		for t := 0; t < n; t++ {
 			if board[i][t] == 'S' {
@@ -53,6 +35,23 @@ func solve(board [][]byte) {
 				continue
 			}
 		}
+	}
+}
+
+// DFS递归搜索
+func DFS(board [][]byte, x, y int) {
+	/* 3. 判断进行DFS的坐标是否符合要求 */
+	if x < 0 || y < 0 || x >= len(board) || y >= len(board[x]) || board[x][y] == 'X' || board[x][y] == 'S' {
+		return
+	}
+
+	/* 4. 对坐标进行标记，防止走回头路 */
+	board[x][y] = 'S'
+
+	/* 5.遍历所有方向 */
+	for i := 0; i < len(dx); i++ {
+		/* 6. 对下一个坐标进行DFS搜索 */
+		DFS(board, x+dx[i], y+dy[i])
 	}
 }
 

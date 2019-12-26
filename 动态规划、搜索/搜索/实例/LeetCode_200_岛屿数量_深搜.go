@@ -1,60 +1,47 @@
 package main
 
-var dx [4]int
-var dy [4]int
+var dx []int    // x变化向量
+var dy []int    // y变化向量
 
-// DFS 解决矩阵连通块问题 (原题是求岛屿数量)
+// 这个就是DFSCaller
 func numIslands(grid [][]byte) int {
+	/* 1. 确定搜索方向 */
+	dx = []int{0, 0, 1, -1}
+	dy = []int{1, -1, 0, 0}
 
-	// 确定搜索方向
-	dx = [4]int{0, 0, 1, -1}
-	dy = [4]int{1, -1, 0, 0}
-
+	/* 2. 对坐标进行DFS搜索 (这里开始调用DFS函数) */
 	ans := 0
-	if len(grid) == 0 {
-		return ans
-	}
-	m, n := len(grid), len(grid[0])
-
-	for i := 0; i < m; i++ {
-		for t := 0; t < n; t++ {
-			// 遇到陆地则进行拓展
-			if judge(grid, i, t) {
+	for i := 0; i < len(grid); i++ {
+		for t := 0; t < len(grid[i]); t++ {
+			if grid[i][t] == '1'{
 				ans++
-				DFS(grid, i, t)
 			}
+			DFS(grid, i, t)
 		}
 	}
+
 	return ans
 }
 
-// 判断坐标合法性
-func judge(grid [][]byte, x, y int) bool {
-	if len(grid) == 0 {
-		return false
-	}
-	m, n := len(grid), len(grid[0])
-
-	if x < 0 || y < 0 || x >= m || y >= n {
-		return false
-	}
-
-	if grid[x][y] == '0' {
-		return false
-	}
-	return true
-}
-
+// DFS递归搜索
 func DFS(grid [][]byte, x, y int) {
-	if judge(grid, x, y) == false {
+	/* 3. 判断进行DFS的坐标是否符合要求 */
+	if x < 0 || y < 0 || x >= len(grid) || y >= len(grid[x]) || grid[x][y] == '0' {
+		// 不满足时
 		return
 	}
+	// 满足时
+	/* 4. 对坐标进行标记，防止走回头路 */
 	grid[x][y] = '0' // 将陆地变为海洋，防止走回头路
+
+	/* 5.遍历所有方向 */
 	for i := 0; i < len(dx); i++ {
-		DFS(grid, x+dx[i], y+dy[i])
+
+		/* 6. 对下一个坐标进行DFS搜索 */
+		nx, ny := x+dx[i], y+dy[i]
+		DFS(grid, nx, ny)
 	}
 }
-
 /*
 	题目链接:
 		https://leetcode-cn.com/problems/number-of-islands/							岛屿数量

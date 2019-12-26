@@ -1,63 +1,29 @@
 package main
 
+const inf = 100000000000
 var pacific [155][155]bool
 var atlantic [155][155]bool
-var dx []int
-var dy []int
-var isVisit map[int]bool
+var isVisit map[int]bool	// 用于防止走回头路
 
-const (
-	inf = 100000000000
-)
+var dx []int	// x变化向量
+var dy []int	// y变化向量
 
-func hash(x, y int) int {
-	return (x << 10) | y
-}
-
-// 判断接下来的点是否可以走(必须保证不走回头路)
-func judge(matrix [][]int, x, y int, preHight int) bool {
-	if len(matrix) == 0 {
-		return false
-	}
-	m, n := len(matrix), len(matrix[0])
-	if x < 0 || y < 0 || x >= m || y >= n {
-		return false
-	}
-	if isVisit[hash(x, y)] {
-		return false
-	}
-	// preHight 表示先前的山脉高度，如果先前的小于当前的，那么这个点就可以走
-	return preHight <= matrix[x][y]
-}
-
-// occenFlag == 0 表示是太平洋，occenFlag == 1是大西洋
-func DFS(matrix [][]int, x, y int, occenFlag int, preHight int) {
-	// 这里修改了
-	if !judge(matrix, x, y, preHight) {
-		return
-	}
-	isVisit[hash(x, y)] = true
-	if occenFlag == 0 {
-		pacific[x][y] = true
-	}
-	if occenFlag == 1 {
-		atlantic[x][y] = true
-	}
-	for i := 0; i < len(dx); i++ {
-		DFS(matrix, x+dx[i], y+dy[i], occenFlag, matrix[x][y])
-	}
-}
-
+// DFS的调用者
 func pacificAtlantic(matrix [][]int) [][]int {
 	if len(matrix) == 0 {
 		return [][]int{}
 	}
-	m, n := len(matrix), len(matrix[0])
+
 	pacific = [155][155]bool{}  // pacific[x][y]  表示坐标(x,y)能否到达太平洋
 	atlantic = [155][155]bool{} // atlantic[x][y] 表示坐标(x,y)能否到达大西洋
+
+	/* 1. 确定搜索方向dx、dy  */
 	dx = []int{1, -1, 0, 0}
 	dy = []int{0, 0, 1, -1}
 
+	m, n := len(matrix), len(matrix[0])
+
+	/* 2. 对坐标进行DFS搜索 (这里开始调用DFS函数) */
 	// 找能到达太平洋的坐标
 	isVisit = make(map[int]bool)
 	for i := 0; i < m; i++ {
@@ -66,7 +32,6 @@ func pacificAtlantic(matrix [][]int) [][]int {
 	for t := 0; t < n; t++ {
 		DFS(matrix, 0, t, 0, -inf)
 	}
-
 	// 找能到达大西洋的坐标
 	isVisit = make(map[int]bool)
 	for i := 0; i < m; i++ {
@@ -75,6 +40,7 @@ func pacificAtlantic(matrix [][]int) [][]int {
 	for t := 0; t < n; t++ {
 		DFS(matrix, m-1, t, 1, -inf)
 	}
+
 	ans := [][]int{}
 	for i := 0; i < m; i++ {
 		for t := 0; t < n; t++ {
@@ -85,6 +51,41 @@ func pacificAtlantic(matrix [][]int) [][]int {
 	}
 	return ans
 }
+
+func hash(x, y int) int {
+	return (x << 10) | y
+}
+
+// DFS递归搜索
+// occenFlag == 0 表示是太平洋，occenFlag == 1是大西洋
+func DFS(matrix [][]int, x, y int, occenFlag int, preHight int) {
+	/* 3. 判断进行DFS的坐标是否符合要求 */
+	if x < 0 || y < 0 || x >= len(matrix) || y >= len(matrix[0]) || isVisit[hash(x, y)] {
+		return
+	}
+	if preHight > matrix[x][y] {
+		return
+	}
+
+	/* 4. 对坐标进行标记，防止走回头路 */
+	isVisit[hash(x, y)] = true
+
+	if occenFlag == 0 {
+		pacific[x][y] = true
+	}
+	if occenFlag == 1 {
+		atlantic[x][y] = true
+	}
+
+	/* 5.遍历所有方向 */
+	for i := 0; i < len(dx); i++ {
+
+		/* 6. 对下一个坐标进行DFS搜索 */
+		DFS(matrix, x+dx[i], y+dy[i], occenFlag, matrix[x][y])
+	}
+}
+
+
 
 /*
 	题目链接:

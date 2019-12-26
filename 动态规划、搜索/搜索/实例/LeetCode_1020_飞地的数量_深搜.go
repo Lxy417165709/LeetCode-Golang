@@ -1,17 +1,18 @@
 package main
 
-var dx []int
-var dy []int
+var dx []int    // x变化向量
+var dy []int    // y变量向量
 
-// DFSCaller
+// DFS的调用者
 func numEnclaves(A [][]int) int {
 
+	/* 1. 确定搜索方向dx、dy */
 	dx = []int{0, 0, -1, 1}
 	dy = []int{-1, 1, 0, 0}
 
 	m, n := len(A), len(A[0])
 
-	// 去除能到达边界的陆地
+	/* 2. 对坐标进行DFS搜索 (这里开始调用DFS函数) */
 	for i := 0; i < len(A); i++ {
 		DFS(A, i, 0)
 		DFS(A, i, n-1)
@@ -36,17 +37,19 @@ func numEnclaves(A [][]int) int {
 // DFS
 func DFS(grid [][]int, x, y int) {
 
-	// 这里加了个判断条件，是为了阻止不符合要求的节点进行DFS。
+	/* 3. 判断进行DFS的坐标是否符合要求 */
 	if x < 0 || y < 0 || x >= len(grid) || y >= len(grid[x]) || grid[x][y] == 0{
 		return
 	}
 
+	/* 4. 对坐标进行标记，防止走回头路 */
 	grid[x][y] = 0
+
+	/* 5.遍历所有方向 */
 	for i := 0; i < len(dx); i++ {
+
+		/* 6. 对下一个坐标进行DFS搜索 */
 		nx, ny := x+dx[i], y+dy[i]
-		if nx < 0 || ny < 0 || nx >= len(grid) || ny >= len(grid[nx]) || grid[nx][ny] == 0 {
-			continue
-		}
-		DFS(grid, x+dx[i], y+dy[i])
+		DFS(grid, nx, ny)
 	}
 }

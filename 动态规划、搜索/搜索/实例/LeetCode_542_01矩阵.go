@@ -8,13 +8,17 @@ package main
 type Node struct {
 	x, y int
 }
+
 func updateMatrix(matrix [][]int) [][]int {
 	if len(matrix) == 0 {
 		return matrix
 	}
+
+	/* 1. 确定搜索方向 */
 	var dx = []int{0, 0, -1, 1}
 	var dy = []int{1, -1, 0, 0}
-	hasBeenInQueue := make(map[int]bool)	// 用于记录节点是否入过队列
+
+	/* 2. 将满足要求的坐标节点入队 */
 	m, n := len(matrix), len(matrix[0])
 	queue := make([]Node, 0, m*n)	// 由于go语言没有队列，这里采用切片模拟队列
 	for i := 0; i < m; i++ {
@@ -25,6 +29,9 @@ func updateMatrix(matrix [][]int) [][]int {
 			}
 		}
 	}
+
+	hasBeenInQueue := make(map[int]bool)	// 用于记录节点是否入过队列
+
 	level := 0
 	for len(queue) != 0 {
 		size := len(queue)
@@ -32,14 +39,19 @@ func updateMatrix(matrix [][]int) [][]int {
 			size --
 			top := queue[0]
 			queue = queue[1:]
+			/* 3.遍历所有方向 */
 			for i := 0; i < len(dx); i++ {
 				nx, ny := top.x+dx[i], top.y+dy[i]
 				hashNumber := hash(nx, ny)	// 这里采用哈希，把二维坐标哈希为一个数字
+
+				/* 4. 判断新坐标合法性及是否已入队 */
 				if nx < 0 || ny < 0 || nx >= m || ny >= n || hasBeenInQueue[hashNumber] {
 					continue
 				}
-				queue = append(queue, Node{nx, ny})
+
+				/* 5. 入队并标记 */
 				matrix[nx][ny] = level + 1
+				queue = append(queue, Node{nx, ny})
 				hasBeenInQueue[hashNumber] = true
 			}
 		}
@@ -51,7 +63,6 @@ func updateMatrix(matrix [][]int) [][]int {
 func hash(x, y int) int {
 	return (x << 20) | y
 }
-
 /*
 	题目链接:
 		https://leetcode-cn.com/problems/01-matrix/			01矩阵
