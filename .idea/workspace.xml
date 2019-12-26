@@ -2,7 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/链表、树/树/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/链表、树/树/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树属性获取/求二叉树坡度.go" beforeDir="false" afterPath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树属性获取/LeetCode_563_二叉树的坡度.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树属性获取/求二叉树左下角的值.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树属性获取/求二叉树左叶子节点和.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树属性获取/求二叉树深度.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树属性获取/求二叉树节点个数_完全二叉树.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树属性获取/求二叉树节点个数_普通二叉树.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树性质判断/判断二叉树是否为二叉搜索树.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树性质判断/判断二叉树是否为完全二叉树.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树性质判断/判断二叉树是否单值.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树性质判断/判断二叉树是否对称.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树性质判断/判断二叉树是否平衡.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树构建/实战演练/LeetCode_654_构造最大二叉树.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树构建/通过中序遍历序列构造平衡二叉搜索树.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树构建/通过先序和中序遍历序列构造二叉树.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树构建/通过先序遍历序列构造二叉搜索树.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树构建/通过后序和中序遍历序列构造二叉树.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/二叉树剪枝.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/删除二叉树中为某些值的节点.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/合并二叉树.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/将二叉树展开为链表.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/把二叉搜索树转换为累加树.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/翻转二叉树_迭代(层序遍历).go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/翻转二叉树_递归(先序遍历).go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/迭代实现/中序遍历_迭代.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/迭代实现/先序遍历_迭代.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/迭代实现/后序遍历_迭代.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/迭代实现/层序遍历_迭代.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/递归实现/中序遍历_递归.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/递归实现/先序遍历_递归.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/递归实现/后序遍历_递归.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/递归实现/层序遍历_递归.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树间关系判断/判断两棵树是否互为镜像.go" beforeDir="false" afterPath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树间关系判断/LeetCode_101_对称二叉树.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/链表、树/树/二叉树/二叉树间关系判断/判断两棵树是否相同.go" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,11 +50,8 @@
         <entry file="file://$PROJECT_DIR$/链表、树/树/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="363">
-                <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-                <folding>
-                  <element signature="e#21768#22761#0" />
-                </folding>
+              <first_editor relative-caret-position="518">
+                <caret line="792" lean-forward="true" selection-start-line="792" selection-end-line="792" />
               </first_editor>
               <second_editor />
             </state>
@@ -28,83 +59,69 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树间关系判断/判断两棵树是否相同.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="18" selection-start-line="18" selection-end-line="26" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树间关系判断/判断两棵树是否互为镜像.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="16" selection-start-line="16" selection-end-line="30" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/迭代实现/层序遍历_迭代.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="9" selection-start-line="9" selection-end-line="33" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/递归实现/层序遍历_递归.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="10" selection-start-line="10" selection-end-line="29" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/递归实现/后序遍历_递归.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="8" selection-start-line="8" selection-end-line="22" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/迭代实现/后序遍历_迭代.go">
+        <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树间关系判断/LeetCode_100_相同的树.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="693">
-              <caret line="33" column="1" lean-forward="true" selection-start-line="9" selection-end-line="33" selection-end-column="1" />
+              <caret line="30" column="63" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="63" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/迭代实现/先序遍历_迭代.go">
+        <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/LeetCode_145_二叉树的后序遍历_递归.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="33" column="1" lean-forward="true" selection-start-line="9" selection-end-line="33" selection-end-column="1" />
+            <state relative-caret-position="632">
+              <caret line="25" column="87" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="87" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/迭代实现/中序遍历_迭代.go">
+        <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树间关系判断/LeetCode_101_对称二叉树.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="33" column="1" lean-forward="true" selection-start-line="9" selection-end-line="33" selection-end-column="1" />
+            <state relative-caret-position="528">
+              <caret line="34" column="68" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/LeetCode_144_二叉树的前序遍历_递归.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/LeetCode_144_二叉树的前序遍历_迭代.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="599">
+              <caret line="36" column="74" lean-forward="true" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/LeetCode_94_二叉树的中序遍历_迭代.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="599">
+              <caret line="36" column="85" lean-forward="true" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/LeetCode_1110_删点成林.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="41" column="84" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="84" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/LeetCode_814_二叉树剪枝.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="29" column="61" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -125,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/双指针/读写指针/实例/LeetCode_922_按奇偶排序数组2.go" />
         <option value="$PROJECT_DIR$/未分类模块/字符串与数组操作/简单字符串操作/LeetCode_151_翻转字符串里的单词.go" />
         <option value="$PROJECT_DIR$/未分类模块/简单矩阵操作/实例/LeetCode_832_翻转图像.go" />
         <option value="$PROJECT_DIR$/查找/二分查找/实战演练/LeetCode_873_最长的斐波那契子序列的长度.go" />
@@ -175,15 +191,15 @@
         <option value="$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/翻转二叉树_迭代(层序遍历).go" />
         <option value="$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/合并二叉树.go" />
         <option value="$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/递归实现/层序遍历_递归.go" />
+        <option value="$PROJECT_DIR$/链表、树/树/二叉树/二叉树性质判断/LeetCode_110_平衡二叉树.go" />
         <option value="$PROJECT_DIR$/链表、树/树/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="121" />
-    <option name="y" value="49" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-17" />
     <option name="width" value="1892" />
-    <option name="height" value="989" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -222,6 +238,14 @@
               <item name="链表、树" type="462c0819:PsiDirectoryNode" />
               <item name="树" type="462c0819:PsiDirectoryNode" />
               <item name="二叉树" type="462c0819:PsiDirectoryNode" />
+              <item name="二叉树性质判断" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="链表、树" type="462c0819:PsiDirectoryNode" />
+              <item name="树" type="462c0819:PsiDirectoryNode" />
+              <item name="二叉树" type="462c0819:PsiDirectoryNode" />
               <item name="二叉树结构调整" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -238,31 +262,7 @@
               <item name="链表、树" type="462c0819:PsiDirectoryNode" />
               <item name="树" type="462c0819:PsiDirectoryNode" />
               <item name="二叉树" type="462c0819:PsiDirectoryNode" />
-              <item name="二叉树遍历" type="462c0819:PsiDirectoryNode" />
-              <item name="迭代实现" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="链表、树" type="462c0819:PsiDirectoryNode" />
-              <item name="树" type="462c0819:PsiDirectoryNode" />
-              <item name="二叉树" type="462c0819:PsiDirectoryNode" />
-              <item name="二叉树遍历" type="462c0819:PsiDirectoryNode" />
-              <item name="递归实现" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="链表、树" type="462c0819:PsiDirectoryNode" />
-              <item name="树" type="462c0819:PsiDirectoryNode" />
-              <item name="二叉树" type="462c0819:PsiDirectoryNode" />
               <item name="二叉树间关系判断" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="链表、树" type="462c0819:PsiDirectoryNode" />
-              <item name="链表" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -280,17 +280,18 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\hasee\Desktop\算法学习\未分类模块\模拟\实战演练" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\动态规划 与 搜索\搜索\实战演练" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\查找\二分查找" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hasee\Desktop\算法学习\动态规划、搜索\动态规划\子序列问题\一维子序列问题" />
       <recent name="C:\Users\hasee\Desktop\算法学习\动态规划、搜索\动态规划\子序列问题\二维子序列问题" />
       <recent name="C:\Users\hasee\Desktop\算法学习\动态规划、搜索\搜索\深度优先搜索\实例" />
       <recent name="C:\Users\hasee\Desktop\算法学习\动态规划、搜索\搜索" />
       <recent name="C:\Users\hasee\Desktop\算法学习\动态规划、搜索\搜索\回溯\实战演练" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hasee\Desktop\算法学习\链表、树\树\二叉树\二叉树间关系判断" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\未分类模块\模拟\实战演练" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\动态规划 与 搜索\搜索\实战演练" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\查找\二分查找" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -346,10 +347,10 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-17" y="0" width="1892" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12153518" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20742358" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -395,224 +396,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_200_岛屿数量_广搜.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2244">
-          <caret line="68" column="69" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/广度优先搜索/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="4158">
-            <caret line="126" column="72" selection-start-line="126" selection-start-column="72" selection-end-line="126" selection-end-column="72" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_417_太平洋大西洋水流问题.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_130_被围绕的区域.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2079">
-          <caret line="63" column="6" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_944_腐烂的橘子.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2343">
-          <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/未分类模块/单调栈/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="825">
-            <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_934_最短的桥.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3531">
-          <caret line="107" column="2" selection-start-line="107" selection-start-column="2" selection-end-line="107" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/一维子序列问题/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1914">
-            <caret line="58" selection-start-line="58" selection-end-line="58" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/链表/链表属性获取/获取链表相交节点.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" selection-start-line="3" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/链表/链表结构调整/删除链表倒数第N个节点.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/链表/链表属性获取/获取链表中间节点.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" selection-start-line="2" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/链表/链表属性获取/获取链表环入口.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" selection-start-line="9" selection-end-line="34" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/链表/链表性质判断/判断链表是否有环.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" selection-start-line="2" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/链表/链表结构调整/反转链表.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="20" selection-start-line="20" selection-end-line="29" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/链表/链表相加.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/实例/LeetCode_200_岛屿数量_深搜.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/链表/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="33">
-            <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树属性获取/求二叉树节点个数_完全二叉树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="23" selection-start-line="23" selection-end-line="54" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树属性获取/求二叉树深度.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="56" column="1" lean-forward="true" selection-start-line="17" selection-end-line="56" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树属性获取/求二叉树节点个数_普通二叉树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树属性获取/求二叉树左下角的值.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="42" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树属性获取/求二叉树左叶子节点和.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树性质判断/判断二叉树是否为二叉搜索树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" selection-start-line="3" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树性质判断/判断二叉树是否为完全二叉树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树性质判断/判断二叉树是否单值.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="17" selection-start-line="17" selection-end-line="48" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树性质判断/判断二叉树是否对称.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="16" selection-start-line="16" selection-end-line="30" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树性质判断/判断二叉树是否平衡.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="60" column="9" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树构建/通过先序和中序遍历序列构造二叉树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="38" column="1" lean-forward="true" selection-start-line="16" selection-end-line="38" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树构建/通过先序遍历序列构造二叉搜索树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="35" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树构建/通过中序遍历序列构造平衡二叉搜索树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树构建/通过后序和中序遍历序列构造二叉树.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -624,48 +407,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="8" selection-start-line="8" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/翻转二叉树_迭代(层序遍历).go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="9" selection-start-line="9" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/将二叉树展开为链表.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" selection-start-line="2" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/把二叉搜索树转换为累加树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="22" column="96" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/合并二叉树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/二叉树剪枝.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/删除二叉树中为某些值的节点.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="41" column="96" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="96" />
         </state>
       </provider>
     </entry>
@@ -683,24 +424,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/迭代实现/先序遍历_迭代.go">
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/递归实现/层序遍历_递归.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="33" column="1" lean-forward="true" selection-start-line="9" selection-end-line="33" selection-end-column="1" />
+        <state relative-caret-position="330">
+          <caret line="10" selection-start-line="10" selection-end-line="29" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/迭代实现/中序遍历_迭代.go">
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/递归实现/后序遍历_递归.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="33" column="1" lean-forward="true" selection-start-line="9" selection-end-line="33" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/迭代实现/后序遍历_迭代.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="33" column="1" lean-forward="true" selection-start-line="9" selection-end-line="33" selection-end-column="1" />
+        <state relative-caret-position="264">
+          <caret line="8" selection-start-line="8" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -712,49 +446,308 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/递归实现/后序遍历_递归.go">
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树属性获取/LeetCode_222_完全二叉树的节点个数.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="8" selection-start-line="8" selection-end-line="22" selection-end-column="1" />
+        <state relative-caret-position="244">
+          <caret line="58" column="67" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="67" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/递归实现/层序遍历_递归.go">
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树属性获取/LeetCode_404_左叶子之和.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="10" selection-start-line="10" selection-end-line="29" selection-end-column="1" />
+        <state relative-caret-position="343">
+          <caret line="57" column="60" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树属性获取/LeetCode_104_二叉树的最大深度.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="61" column="83" lean-forward="true" selection-start-line="60" selection-start-column="8" selection-end-line="61" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树属性获取/LeetCode_513_找树左下角的值_ (2).go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-647">
+          <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树属性获取/LeetCode_513_找树左下角的值_.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树属性获取/LeetCode_513_找树左下角的值.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树属性获取/求二叉树左叶子节点和.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树属性获取/LeetCode_563_二叉树的坡度.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="61" column="58" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树性质判断/判断二叉树是否为完全二叉树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="49" column="2" lean-forward="true" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树性质判断/LeetCode_98_验证二叉搜索树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="27" column="81" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树性质判断/LeetCode_101_对称二叉树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="34" column="68" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树性质判断/LeetCode_110_平衡二叉树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="61" column="62" selection-start-line="61" selection-start-column="62" selection-end-line="61" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树构建/通过先序和中序遍历序列构造二叉树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="50" column="12" lean-forward="true" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树构建/通过中序遍历序列构造平衡二叉搜索树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="29" column="2" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树构建/LeetCode_105_从前序与中序遍历序列构造二叉树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="42" column="111" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树构建/LeetCode_106_从中序与后序遍历序列构造二叉树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="43" column="100" lean-forward="true" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树构建/LeetCode_108_将有序数组转换为二叉搜索树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="21" column="96" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树构建/LeetCode_654_构造最大二叉树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="32" column="61" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树构建/LeetCode_1008_先序遍历构造二叉树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="39" column="106" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/二叉树剪枝.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/删除二叉树中为某些值的节点.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/将二叉树展开为链表.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/把二叉搜索树转换为累加树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/翻转二叉树_迭代(层序遍历).go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/合并二叉树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/LeetCode_114_二叉树展开为链表.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="24" column="88" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/LeetCode_226_翻转二叉树_迭代(层序遍历).go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="31" column="72" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/LeetCode_538_把二叉搜索树转换为累加树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="22" column="78" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/LeetCode_617_合并二叉树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="29" column="64" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/LeetCode_1110_删点成林.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="41" column="84" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/迭代实现/中序遍历_迭代.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="36" column="85" lean-forward="true" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/迭代实现/先序遍历_迭代.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="36" column="74" lean-forward="true" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/迭代实现/后序遍历_迭代.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="36" column="87" lean-forward="true" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="87" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/迭代实现/层序遍历_迭代.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" selection-start-line="9" selection-end-line="33" selection-end-column="1" />
+        <state relative-caret-position="71">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树间关系判断/判断两棵树是否互为镜像.go">
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树结构调整/LeetCode_814_二叉树剪枝.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="16" selection-start-line="16" selection-end-line="30" selection-end-column="1" />
+        <state relative-caret-position="561">
+          <caret line="29" column="61" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/LeetCode_94_二叉树的中序遍历_迭代.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="36" column="85" lean-forward="true" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/LeetCode_144_二叉树的前序遍历_递归.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/LeetCode_144_二叉树的前序遍历_迭代.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="36" column="74" lean-forward="true" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="74" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树间关系判断/判断两棵树是否相同.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="18" selection-start-line="18" selection-end-line="26" selection-end-column="1" />
+        <state relative-caret-position="599">
+          <caret line="30" column="63" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树间关系判断/判断两棵树是否互为镜像.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树遍历/LeetCode_145_二叉树的后序遍历_递归.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="25" column="87" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树间关系判断/LeetCode_100_相同的树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="30" column="63" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表、树/树/二叉树/二叉树间关系判断/LeetCode_101_对称二叉树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="34" column="68" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="68" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/链表、树/树/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="363">
-            <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            <folding>
-              <element signature="e#21768#22761#0" />
-            </folding>
+          <first_editor relative-caret-position="518">
+            <caret line="792" lean-forward="true" selection-start-line="792" selection-end-line="792" />
           </first_editor>
           <second_editor />
         </state>
