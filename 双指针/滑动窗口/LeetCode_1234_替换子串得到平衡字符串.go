@@ -1,4 +1,4 @@
-package main
+package 滑动窗口
 
 const (
 	inf = 1000000000

@@ -1,4 +1,4 @@
-package main
+package 滑动窗口
 
 // 计算无重复字符的最长子串长度
 func lengthOfLongestSubstring(s string) int {

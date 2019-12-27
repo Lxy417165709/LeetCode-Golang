@@ -1,4 +1,4 @@
-package main
+package 滑动窗口
 
 // 滑动窗口
 func equalSubstring(s string, t string, maxCost int) int {
