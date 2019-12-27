@@ -1,37 +1,44 @@
 package main
 
-/*
-	给定一个由 0 和 1 组成的矩阵，找出每个元素到最近的 0 的距离。
-	两个相邻元素间的距离为 1 。
-*/
-
+// 坐标结构体
 type Node struct {
 	x, y int
 }
 
+var dx []int // x变化向量
+var dy []int // y变化向量
+
+var hasBeenHandled map[int]bool // 用于记录节点是否被处理过
+
+// BFS调用者
 func updateMatrix(matrix [][]int) [][]int {
 	if len(matrix) == 0 {
 		return matrix
 	}
+	hasBeenHandled = make(map[int]bool)
 
-	/* 1. 确定搜索方向 */
-	var dx = []int{0, 0, -1, 1}
-	var dy = []int{1, -1, 0, 0}
+	/* 1. 确定搜索方向dx、dy  */
+	dx = []int{0, 0, -1, 1}
+	dy = []int{1, -1, 0, 0}
 
-	/* 2. 将满足要求的坐标节点入队 */
+	/* 2. 将需要进行BFS的坐标入队 */
 	m, n := len(matrix), len(matrix[0])
-	queue := make([]Node, 0, m*n)	// 由于go语言没有队列，这里采用切片模拟队列
+	queue := make([]Node, 0, m*n) // 由于go语言没有队列，这里采用切片模拟队列
 	for i := 0; i < m; i++ {
 		for t := 0; t < n; t++ {
 			if matrix[i][t] == 0 {
 				queue = append(queue, Node{i, t})
-				hasBeenInQueue[hash(i, t)] = true
 			}
 		}
 	}
 
-	hasBeenInQueue := make(map[int]bool)	// 用于记录节点是否入过队列
+	/* 3. 执行BFS */
+	BFS(matrix, queue)
+	return matrix
+}
 
+// BFS
+func BFS(matrix [][]int, queue []Node) {
 	level := 0
 	for len(queue) != 0 {
 		size := len(queue)
@@ -39,30 +46,33 @@ func updateMatrix(matrix [][]int) [][]int {
 			size --
 			top := queue[0]
 			queue = queue[1:]
-			/* 3.遍历所有方向 */
+			hashNumber := hash(top.x, top.y) // 这里采用哈希，把二维坐标哈希为一个数字
+
+			/* 4. 判断进行BFS的坐标是否符合要求 */
+			if top.x < 0 || top.y < 0 || top.x >= len(matrix) || top.y >= len(matrix[top.x]) || hasBeenHandled[hashNumber] {
+				// 不满足要求时
+				continue
+			}
+
+			/* 5. 对坐标进行标记，防止走回头路 */
+			hasBeenHandled[hashNumber] = true
+			matrix[top.x][top.y] = level
+
+			/* 6.遍历所有方向 */
 			for i := 0; i < len(dx); i++ {
+				/* 7. 将下一个坐标入队 */
 				nx, ny := top.x+dx[i], top.y+dy[i]
-				hashNumber := hash(nx, ny)	// 这里采用哈希，把二维坐标哈希为一个数字
-
-				/* 4. 判断新坐标合法性及是否已入队 */
-				if nx < 0 || ny < 0 || nx >= m || ny >= n || hasBeenInQueue[hashNumber] {
-					continue
-				}
-
-				/* 5. 入队并标记 */
-				matrix[nx][ny] = level + 1
 				queue = append(queue, Node{nx, ny})
-				hasBeenInQueue[hashNumber] = true
 			}
 		}
 		level++
 	}
-	return matrix
 }
 
 func hash(x, y int) int {
 	return (x << 20) | y
 }
+
 /*
 	题目链接:
 		https://leetcode-cn.com/problems/01-matrix/			01矩阵

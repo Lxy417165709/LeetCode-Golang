@@ -25,14 +25,8 @@ func DFS() {
 
 ## 2. 实例
 ### 2.1 岛屿数量
+[传送门](https://leetcode-cn.com/problems/number-of-islands/)
 ```go
-/*
-	给定一个由 '1'（陆地）和 '0'（水）组成的的二维网格，计算岛屿的数量。一个岛被水包围，
-	并且它是通过水平方向或垂直方向上相邻的陆地连接而成的。你可以假设网格的四个边均被水包围。
-
-	题目链接: https://leetcode-cn.com/problems/number-of-islands/	岛屿数量
-*/
-
 var dx []int    // x变化向量
 var dy []int    // y变化向量
 
@@ -77,7 +71,7 @@ func DFS(grid [][]byte, x, y int) {
 }
 ```
 ### 2.2 飞地的数量
-
+[传送门](https://leetcode-cn.com/problems/number-of-enclaves/submissions/)
 ```go
 var dx []int    // x变化向量
 var dy []int    // y变量向量
@@ -134,6 +128,7 @@ func DFS(grid [][]int, x, y int) {
 }
 ```
 ### 2.3 被围绕的区域
+[传送门](https://leetcode-cn.com/problems/surrounded-regions/solution/)
 ```go
 var dx []int
 var dy []int
@@ -191,7 +186,9 @@ func DFS(board [][]byte, x, y int) {
 }
 ```
 
+
 ### 2.4 太平洋大西洋水流问题
+[传送门](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)
 ```go
 const inf = 100000000000
 var pacific [155][155]bool
@@ -278,7 +275,10 @@ func DFS(matrix [][]int, x, y int, occenFlag int, preHight int) {
 	}
 }
 ```
-## 3. 练习题
+## 3. 注意
+- [ ] 以上只是DFS的大体框架，实际做题可能需要进行一些变化。
+
+## 4. 练习题
 - [ ] [130. 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/solution/)
 - [ ] [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
 - [ ] [417. 太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)
