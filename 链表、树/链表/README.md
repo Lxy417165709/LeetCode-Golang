@@ -61,7 +61,7 @@ func middleNode(head *ListNode) *ListNode {
        return nil
     }
     slow, fast := head, head
-    //  slow, fast := head, head		如果这样写的话，链表节点为偶数时，返回: 偏右的中间节点。
+    //  slow, fast := head, head        如果这样写的话，链表节点为偶数时，返回: 偏右的中间节点。
     //  slow, fast := head, head.Next	如果这样写的话，链表节点为偶数时，返回: 偏左的中间节点。
     for fast != nil && fast.Next != nil {
         fast = fast.Next.Next
