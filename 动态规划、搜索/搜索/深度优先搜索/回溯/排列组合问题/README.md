@@ -5,11 +5,11 @@
 ## 解决的问题是什么？
 元素大于0 | 有重复元素 |  可重复选取|  限定选取个数 | 限制选取总和| 问题类型|对应题目|
 -|-|-|-|-|-|-|
-<font color="00bb00">**-**<font/>| <font color="bb0000">**No**<font/> |<font color="bb0000">**No**<font/> |<font color="00bb00">**Yes**<font/>|<font color="bb0000">**No**<font/>|**排列问题**|**LeetCode_46_全排列**|
-<font color="00bb00">**-**<font/>|  <font color="00bb00">**Yes**<font/> |<font color="bb0000">**No**<font/> |<font color="00bb00">**Yes**<font/>|<font color="bb0000">**No**<font/>|**排列问题**|**LeetCode_47_全排列 II**|
-<font color="00bb00">**-**<font/>|  <font color="bb0000">**No**<font/> |<font color="bb0000">**No**<font/> |<font color="00bb00">**Yes**<font/>|<font color="bb0000">**No**<font/>|**组合问题**|**LeetCode_77_组合**|
-<font color="00bb00">**-**<font/>|  <font color="bb0000">**No**<font/> |<font color="bb0000">**No**<font/> |<font color="bb0000">**No**<font/>|<font color="bb0000">**No**<font/>|**组合问题**|**LeetCode_78_子集**|
-<font color="00bb00">**-**<font/>|<font  color="00bb00">**Yes**<font/> |<font color="bb0000">**No**<font/> |<font color="bb0000">**No**<font/>|<font color="bb0000">**No**<font/>|**组合问题**|**LeetCode_90_子集 II**|
+**-**| ![](https://github.com/Lxy417165709/LeetCode-Golang/blob/master/images/false.png) |<font color="bb0000">**No**<font/> |<font color="00bb00">**Yes**<font/>|<font color="bb0000">**No**<font/>|**排列问题**|**LeetCode_46_全排列**|
+**-**|  <font color="00bb00">**Yes**<font/> |<font color="bb0000">**No**<font/> |<font color="00bb00">**Yes**<font/>|<font color="bb0000">**No**<font/>|**排列问题**|**LeetCode_47_全排列 II**|
+**-**|  <font color="bb0000">**No**<font/> |<font color="bb0000">**No**<font/> |<font color="00bb00">**Yes**<font/>|<font color="bb0000">**No**<font/>|**组合问题**|**LeetCode_77_组合**|
+**-**|  <font color="bb0000">**No**<font/> |<font color="bb0000">**No**<font/> |<font color="bb0000">**No**<font/>|<font color="bb0000">**No**<font/>|**组合问题**|**LeetCode_78_子集**|
+**-**|<font  color="00bb00">**Yes**<font/> |<font color="bb0000">**No**<font/> |<font color="bb0000">**No**<font/>|<font color="bb0000">**No**<font/>|**组合问题**|**LeetCode_90_子集 II**|
 <font color="00bb00">**Yes**<font/>|  <font color="bb0000">**No**<font/> |<font color="00bb00">**Yes**<font/> |<font color="bb0000">**No**|<font color="00bb00">**Yes**<font/>|**组合问题**|**LeetCode_39_组合总和**|
 <font color="00bb00">**Yes**<font/>| <font color="00bb00">**Yes**<font/> |  <font color="bb0000">**No**<font/> |<font color="bb0000">**No**|<font color="00bb00">**Yes**<font/>|**组合问题**|**LeetCode_40_组合总和 II**|
 <font color="00bb00">**Yes**<font/>| <font color="bb0000">**No**<font/> |  <font color="bb0000">**No**<font/> |<font color="00bb00">**Yes**<font/>|<font color="00bb00">**Yes**<font/>|**组合问题**|**LeetCode_216_组合总和 III**|
