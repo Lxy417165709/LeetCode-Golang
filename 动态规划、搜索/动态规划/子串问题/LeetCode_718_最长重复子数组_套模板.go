@@ -6,7 +6,7 @@ func findLength(A []int, B []int) int {
 
 	for i := 0; i < len(A); i++ {
 		for t := 0; t < len(B); t++ {
-			/* 2. dp[i][t]基础情况处理 (指: A[i] || B[i]前面没有元素时) */
+			/* 2. dp[i][t]基础情况处理 (指: A[i] || B[t]前面没有元素时) */
 			if i == 0 || t == 0{
 				if A[i] == B[t]{
 					dp[i][t] = 1

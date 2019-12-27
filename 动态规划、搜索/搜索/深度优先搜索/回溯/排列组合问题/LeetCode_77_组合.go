@@ -1,4 +1,4 @@
-package main
+package 排列组合问题
 
 // 回溯 + 外部变量 解决求数组组合问题 (该数组没有重复元素时)
 var combineSequence [][]int

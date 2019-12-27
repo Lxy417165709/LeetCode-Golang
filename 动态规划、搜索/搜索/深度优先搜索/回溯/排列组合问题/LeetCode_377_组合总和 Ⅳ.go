@@ -1,4 +1,4 @@
-package main
+package 排列组合问题
 
 // 记忆化搜索 解决求数组排列问题  (数组中元素无重复且大于0, 可重复选取，总和为target)
 var isHaving map[int]int

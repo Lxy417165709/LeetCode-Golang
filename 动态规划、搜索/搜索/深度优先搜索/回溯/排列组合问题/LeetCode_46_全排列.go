@@ -1,4 +1,4 @@
-package main
+package 排列组合问题
 
 // 回溯 + 外部变量 实现全排列
 var permuteSequence [][]int

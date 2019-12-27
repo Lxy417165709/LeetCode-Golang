@@ -1,4 +1,4 @@
-package main
+package 排列组合问题
 
 import "sort"
 

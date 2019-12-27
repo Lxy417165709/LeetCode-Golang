@@ -1,4 +1,4 @@
-package main
+package 排列组合问题
 
 // 回溯 + 外部变量 解决求数组子集问题 (数组中没有重复元素，不可重复选取)
 var subsetSequence [][]int
