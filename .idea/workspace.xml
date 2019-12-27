@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/LeetCode_718_最长重复子数组_套模板.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/乘积最大子序列.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/乘积最大子序列.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/乘积最大子序列.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/LeetCode_152_乘积最大子序列.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/最大子序列和.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/LeetCode_53_最大子序列和.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/最大子序列和_套模板.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/LeetCode_53_最大子序列和_套模板.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/最长连续子数组.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/最长连续子数组.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/最长连续递增序列.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/LeetCode_674_最长连续递增序列.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/最长连续递增序列_套模板.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/LeetCode_674_最长连续递增序列_套模板.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/一维子序列问题/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/一维子序列问题/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,29 +22,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/一维子序列问题/最大整除子集_依据模板写.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/一维子序列问题/最长上升子序列.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/README.md">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/一维子序列问题/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1252">
-                <caret line="88" column="3" lean-forward="true" selection-start-line="88" selection-start-column="3" selection-end-line="88" selection-end-column="3" />
+              <first_editor relative-caret-position="494">
+                <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
               </first_editor>
               <second_editor />
             </state>
@@ -46,11 +34,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="198">
-                <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+              <first_editor relative-caret-position="-1">
+                <caret line="130" column="5" lean-forward="true" selection-start-line="130" selection-start-column="5" selection-end-line="130" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -58,7 +46,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/乘积最大子序列.go">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="131">
+                <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="7293">
+                <caret line="279" selection-start-line="279" selection-end-line="279" />
+                <folding>
+                  <element signature="e#404#1173#0" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/LeetCode_152_乘积最大子序列.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
               <caret line="77" column="66" selection-start-line="77" selection-start-column="66" selection-end-line="77" selection-end-column="66" />
@@ -67,46 +82,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/最长连续子数组.go">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/最长连续子数组.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+            <state relative-caret-position="66">
+              <caret line="2" column="53" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/最大子序列和.go">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/LeetCode_718_最长重复子数组_套模板.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="33">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/LeetCode_53_最大子序列和.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
               <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/最大子序列和_套模板.go">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/LeetCode_53_最大子序列和_套模板.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="2" column="46" lean-forward="true" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+            <state relative-caret-position="231">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/最长连续递增序列.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
-              <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/最长连续递增序列_套模板.go">
+        <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/LeetCode_674_最长连续递增序列_套模板.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
-              <caret line="12" column="49" lean-forward="true" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+              <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -132,9 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/查找/README.md" />
-        <option value="$PROJECT_DIR$/未分类模块/单调栈/README.md" />
-        <option value="$PROJECT_DIR$/链表、树/链表/链表结构调整/反转链表.go" />
         <option value="$PROJECT_DIR$/链表、树/链表/链表属性获取/获取链表相交节点.go" />
         <option value="$PROJECT_DIR$/链表、树/链表/链表属性获取/获取链表中间节点.go" />
         <option value="$PROJECT_DIR$/链表、树/树/二叉树/二叉树属性获取/求二叉树左叶子节点和.go" />
@@ -179,16 +191,19 @@
         <option value="$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/一维子序列问题/最大整除子集_依据模板写.go" />
         <option value="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/最大子序列和_套模板.go" />
         <option value="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/最长连续递增序列_套模板.go" />
-        <option value="$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/一维子序列问题/README.md" />
         <option value="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/乘积最大子序列.go" />
-        <option value="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/最长连续子数组.go" />
+        <option value="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/最长连续子数组_套模板.go" />
+        <option value="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/LeetCode_718_最长重复子数组_套模板.go" />
+        <option value="$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/一维子序列问题/README.md" />
+        <option value="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="107" />
-    <option name="y" value="12" />
+    <option name="x" value="104" />
+    <option name="y" value="24" />
     <option name="width" value="1940" />
     <option name="height" value="956" />
   </component>
@@ -203,6 +218,60 @@
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
+              <item name="子串问题" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
+              <item name="子串问题" type="462c0819:PsiDirectoryNode" />
+              <item name="一维子串问题" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
+              <item name="子序列问题" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
+              <item name="子序列问题" type="462c0819:PsiDirectoryNode" />
+              <item name="一维子序列问题" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="搜索" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="深度优先搜索" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -221,19 +290,19 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\hasee\Desktop\算法学习\动态规划、搜索\动态规划\子串问题\一维子串问题" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\动态规划、搜索\动态规划\子序列问题\一维子序列问题" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\动态规划、搜索\搜索\实例" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\动态规划、搜索\搜索\深度优先搜索" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\查找、排序、哈希、贪心\查找\随机选择" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hasee\Desktop\算法学习\动态规划、搜索\动态规划\子串问题" />
       <recent name="C:\Users\hasee\Desktop\算法学习\动态规划、搜索\动态规划\子串问题\一维子串问题" />
       <recent name="C:\Users\hasee\Desktop\算法学习\未分类模块\单调栈" />
       <recent name="C:\Users\hasee\Desktop\算法学习\未分类模块\循环判断" />
       <recent name="C:\Users\hasee\Desktop\算法学习\未分类模块\蓄水池抽样" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\未分类模块\脑筋急转弯" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hasee\Desktop\算法学习\动态规划、搜索\动态规划\子串问题" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\动态规划、搜索\动态规划\子串问题\一维子串问题" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\动态规划、搜索\动态规划\子序列问题\一维子序列问题" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\动态规划、搜索\搜索\实例" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\动态规划、搜索\搜索\深度优先搜索" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -338,7 +407,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/矩阵问题/求左上角到右下角的不同路径.go" />
     <entry file="file://$PROJECT_DIR$/查找、排序、哈希、贪心/贪心/区间贪心/LeetCode_453_无重叠区间.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -574,19 +642,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="7788">
-            <caret line="279" selection-start-line="279" selection-end-line="279" />
-            <folding>
-              <element signature="e#404#1173#0" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/动态规划、搜索/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -654,73 +709,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/最长连续子数组.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/最大子序列和.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/最大子序列和_套模板.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="46" lean-forward="true" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/最长连续递增序列.go">
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/LeetCode_674_最长连续递增序列.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="726">
-          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/最长连续递增序列_套模板.go">
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/LeetCode_674_最长连续递增序列_套模板.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="12" column="49" lean-forward="true" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/一维子序列问题/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="549">
-            <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/乘积最大子序列.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="77" column="66" selection-start-line="77" selection-start-column="66" selection-end-line="77" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1252">
-            <caret line="88" column="3" lean-forward="true" selection-start-line="88" selection-start-column="3" selection-end-line="88" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="198">
-            <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <first_editor relative-caret-position="131">
+            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/搜索/深度优先搜索/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="7293">
+            <caret line="279" selection-start-line="279" selection-end-line="279" />
+            <folding>
+              <element signature="e#404#1173#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/LeetCode_152_乘积最大子序列.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="77" column="66" selection-start-line="77" selection-start-column="66" selection-end-line="77" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/最长连续子数组.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="53" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/LeetCode_53_最大子序列和.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/LeetCode_53_最大子序列和_套模板.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/LeetCode_718_最长重复子数组_套模板.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/一维子序列问题/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="494">
+            <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1">
+            <caret line="130" column="5" lean-forward="true" selection-start-line="130" selection-start-column="5" selection-end-line="130" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>

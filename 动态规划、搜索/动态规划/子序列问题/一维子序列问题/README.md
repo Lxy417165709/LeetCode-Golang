@@ -12,6 +12,7 @@ func DP() {
             }
         }
     }
+    /* 5. 获取最大/最小值 */
 }
 ```
 「步骤3」的常用判断条件举例:
@@ -40,6 +41,8 @@ func lengthOfLIS(nums []int) int {
             }
         }
     }
+    
+    /* 5. 获取最大/最小值 */
     ans := 0
     for i := 0; i < len(dp); i++ {
         ans = max(dp[i], ans)
@@ -74,7 +77,8 @@ func largestDivisibleSubset(nums []int) []int {
 			}
 		}
 	}
-
+	
+    /* 5. 获取最大/最小值 */
 	ans := make([]int, 0)
 	for i := 0; i < len(dp); i++ {
 		ans = max(dp[i], ans)
@@ -101,7 +105,11 @@ func newSlice(slice []int) []int {
 ### 3. 拓展问题
 - [ ] 如果要求的是最长递减、最长非递减子序列的长度，那应该怎么做呢？
 
-### 4. 练习题
+### 4. 注意点
+- [ ] 以上只是个大体框架，实际应用中某些部分可能需要修改，而且有时编码也可以简化。
+- [ ] 这个框架还没有涉及状态压缩。
+
+### 5. 练习题
 - [ ] [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 - [ ] [368. 最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/submissions/)
 - [ ] [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)
