@@ -2,7 +2,7 @@
 
 ## 二分查找
 ### 简单二分查找
-#### 1. 寻找数组中的等于目标值的索引
+#### 1. 寻找数组中「任意一个等于目标值的元素」的索引
 从非递减数组 `nums` 中找出任意一个索引 `index`，使得 `nums[index] == target`，`index` 不存在时返回 `-1`。
 ```go
 func binarySearch(nums []int, target int) int {
@@ -23,7 +23,7 @@ func binarySearch(nums []int, target int) int {
 }
 ```
 ### 进阶二分查找
-#### 1. 寻找数组中的「第一个大于目标值的元素」的索引
+#### 1. 寻找数组中「第一个大于目标值的元素」的索引
 从非递减数组 `nums` 中找出一个索引 `index`，使得 `nums[index] > target`，要求 `index` 尽可能的小，不存在时返回 `len(nums)`。
 ```go
 // 例子: firstGreater([]int{1,2,3,4,5}, 4) -> return 4
@@ -45,7 +45,7 @@ func firstGreater(nums []int, target int) int {
     return l
 }
 ```
-#### 2. 寻找数组中的「第一个大于等于目标值的元素」的索引
+#### 2. 寻找数组中「第一个大于等于目标值的元素」的索引
 从非递减数组 `nums` 中找出一个索引 `index`，使得 `nums[index] >= target`，要求 `index` 尽可能的小，不存在时返回 `len(nums)`。
 ```go
 // 例子: firstGreaterOrEqual([]int{1,2,3,4,5}, 4) -> return 3
@@ -67,7 +67,7 @@ func firstGreaterOrEqual(nums []int, target int) int {
     return l
 }
 ```
-#### 3. 寻找数组中的「最后一个小于等于目标值的元素」的索引
+#### 3. 寻找数组中「最后一个小于等于目标值的元素」的索引
 从非递减数组 `nums` 中找出一个索引 `index`，使得 `nums[index] <= target`，要求 `index` 尽可能的大，不存在时返回 `-1`。
 ```go
 // 例子: lastLessOrEqual([]int{1,2,3,4,5}, 4) -> return 3
@@ -89,7 +89,7 @@ func lastLessOrEqual(nums []int, target int) int {
     return r
 }
 ```
-#### 4. 寻找数组中的「最后一个小于目标值的元素」的索引
+#### 4. 寻找数组中「最后一个小于目标值的元素」的索引
 从非递减数组 `nums` 中找出一个索引 `index`，使得 `nums[index] < target`，要求 `index` 尽可能的大，不存在时返回 `-1`。
 ```go
 // 例子: lastLess([]int{1,2,3,4,5}, 4) -> return 2

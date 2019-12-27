@@ -1,58 +1,108 @@
 
 ## 求最长上升、整除、定差子序列的长度
-1. 实例 ( 求最长上升子序列的长度 )
-	```go
-    func lengthOfLIS(nums []int) int {
-   	    /* 1. 初始化操作 */
-        dp := make([]int, len(nums))
-       
-        for i := 0; i < len(nums); i++ {
-       	    /* 2. 赋值操作 */
-            dp[i] = 1
-            for t := 0; t < i; t++ {
-           	    /* 3. 判断条件 */
-                if nums[i] > nums[t] {
-               	    /* 4. 执行具体操作 */
-                    dp[i] = max(dp[i], dp[t]+1)
-                }
-            }
-        }
-        ans := 0
-        for i := 0; i < len(dp); i++ {
-            ans = max(dp[i], ans)
-        }
-        return ans
-    }
-	```
-
-2. 框架
-	```go
-    func DP() {
-        /* 1. 初始化操作 */
-        for i := 0; i < len(nums); i++ {
-            /* 2. 赋值操作 */
-            for t := 0; t < i; t++ {
-                if /* 3. 判断条件 */ {
-                    /* 4. 执行具体操作 */
-                }
+### 1. 框架
+```go
+func DP() {
+    /* 1. 明白dp[i]定义后，初始化dp数组 */
+    for i := 0; i < len(nums); i++ {
+    	/* 2. dp[i]基础情况处理 (指: 子序列只有nums[i]时) */
+        for t := 0; t < i; t++ {
+            if /* 3. 判断nums[i]与nums[t]的关系，决定是否更新dp[i] */ {
+                /* 4. 更新dp[i] */
             }
         }
     }
-	```
-	- 「1. 初始化操作」 指: 初始化dp数组、及其它的数据结构(如果有)。
-		- 例子: `dp := make([]int, len(nums))` 表示: 接下来dp数组存放的是整型数据且长度为`len(nums)`。
-	- 「2. 赋值操作」 指: 当子序列仅仅包含`nums[i]`时，此时dp数组、其它的数据结构(如果有)应为什么值。
-		- 例子: `dp[i] = 1` 表示: 当子序列仅仅包含`nums[i]`时，`dp[i] = 1`。
-	- 「3. 判断条件」 指: 根据`nums[i]` 与 `nums[t]` 的关系，判断是否能拓展最长子序列。
-		- 例子: `nums[i] > nums[t]` 拓展的是 最长上升子序列。
-		- 例子: `nums[i] % nums[t] == 0` 拓展的是 最长整除子序列。 
-		- 例子: `nums[i] - nums[t] == difference` 拓展的是 最长定差子序列。 (`difference`指最长定差子序列的公差)
-	- 「4. 具体操作」 指: 获得了以`nums[i]`为结尾的最长子序列后，接下来要做什么。
+}
+```
+「步骤3」的常用判断条件举例:
+- `nums[i] > nums[t]` 用以更新 最长上升子序列。
+- `nums[i] % nums[t] == 0` 用以更新 最长整除子序列。 
+- `nums[i] - nums[t] == difference` 用以更新 最长定差子序列。 (`difference` 指最长定差子序列的公差)
 
-3. 拓展问题
-    - [ ] 如果要求的是最长递减、最长非递减子序列的长度，那应该怎么做呢？
-4. 练习题
-    - [ ] [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
-    - [ ] [368. 最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/submissions/)
-    - [ ] [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)
-    - [ ] [1218. 最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/)  (这里只是为这题提供了一种dp思路，实际上还有更快速的方法)
+
+
+### 2. 实例
+#### 2.1 求最长上升子序列的长度
+[传送门](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+```go
+func lengthOfLIS(nums []int) int {
+    /* 1. 明白dp[i]定义后，初始化dp数组 */
+    dp := make([]int, len(nums))    // 这里定义dp[i]为: 以nums[i]为结尾的最长上升子序列长度
+   
+    for i := 0; i < len(nums); i++ {
+        /* 2. dp[i]基础情况处理 (指: 子序列只有nums[i]时) */
+        dp[i] = 1
+        for t := 0; t < i; t++ {
+            /* 3. 判断nums[i]与nums[t]的关系，决定是否更新dp[i] */
+            if nums[i] > nums[t] {
+                /* 4. 更新dp[i] */
+                dp[i] = max(dp[i], dp[t]+1)
+            }
+        }
+    }
+    ans := 0
+    for i := 0; i < len(dp); i++ {
+        ans = max(dp[i], ans)
+    }
+    return ans
+}
+
+func max(a, b int) int {
+	if a > b {
+		return a
+	}
+	return b
+}
+```
+#### 2.2 求最大整除子集
+[传送门](https://leetcode-cn.com/problems/largest-divisible-subset/submissions/)
+```go
+func largestDivisibleSubset(nums []int) []int {
+	sort.Ints(nums)
+
+	/* 1. 明白dp[i]定义后，初始化dp数组 */
+	dp := make([][]int, len(nums))   // 这里定义dp[i]为: 以nums[i]为结尾的最大整除子集
+
+	for i := 0; i < len(nums); i++ {
+		/* 2. dp[i]基础情况处理 (指: 子序列只有nums[i]时) */
+		dp[i] = append(dp[i], nums[i])
+		for t := 0; t < i; t++ {
+			/* 3. 判断nums[i]与nums[t]的关系，决定是否更新dp[i] */
+			if nums[i]%nums[t] == 0 {
+				/* 4. 更新dp[i] */
+				dp[i] = max(dp[i], append(newSlice(dp[t]), nums[i]))
+			}
+		}
+	}
+
+	ans := make([]int, 0)
+	for i := 0; i < len(dp); i++ {
+		ans = max(dp[i], ans)
+	}
+	return ans
+}
+
+// 返回长度最长的切片
+func max(a, b []int) []int {
+	if len(a) > len(b) {
+		return a
+	}
+	return b
+}
+
+// 切片深拷贝
+func newSlice(slice []int) []int {
+	s := make([]int, len(slice))
+	copy(s, slice)
+	return s
+}
+```
+
+### 3. 拓展问题
+- [ ] 如果要求的是最长递减、最长非递减子序列的长度，那应该怎么做呢？
+
+### 4. 练习题
+- [ ] [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+- [ ] [368. 最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/submissions/)
+- [ ] [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)
+- [ ] [1218. 最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/)  (这里只是为这题提供了一种dp思路，实际上还有更快速的方法)
