@@ -89,4 +89,5 @@ func max(a, b int) int {
 ```
 ### 3. 练习题
 - [ ] [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
+- [ ] [152. 乘积最大子序列](https://leetcode-cn.com/problems/maximum-product-subarray/)
 - [ ] [674. 最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/submissions/)

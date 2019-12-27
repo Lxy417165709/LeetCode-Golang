@@ -75,7 +75,7 @@ func maxProduct(nums []int) int {
 
 /*
 	题目链接:
-		https://leetcode-cn.com/problems/longest-palindromic-substring/submissions/		乘积最大子序列
+		https://leetcode-cn.com/problems/maximum-product-subarray/		乘积最大子序列
 */
 
 /*

@@ -22,6 +22,7 @@
 - [ ] [二维矩阵广度优先搜索框架](https://github.com/Lxy417165709/LeetCode-Golang/tree/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E3%80%81%E6%90%9C%E7%B4%A2/%E6%90%9C%E7%B4%A2/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
 
 ### 4. 动态规划
+- [ ] [一维子串动态规划框架](https://github.com/Lxy417165709/LeetCode-Golang/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E3%80%81%E6%90%9C%E7%B4%A2/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E5%AD%90%E4%B8%B2%E9%97%AE%E9%A2%98/%E4%B8%80%E7%BB%B4%E5%AD%90%E4%B8%B2%E9%97%AE%E9%A2%98/README.md)
 - [ ] [一维子序列动态规划框架](https://github.com/Lxy417165709/LeetCode-Golang/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E3%80%81%E6%90%9C%E7%B4%A2/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E5%AD%90%E5%BA%8F%E5%88%97%E9%97%AE%E9%A2%98/%E4%B8%80%E7%BB%B4%E5%AD%90%E5%BA%8F%E5%88%97%E9%97%AE%E9%A2%98/README.md)
 
 <br>
