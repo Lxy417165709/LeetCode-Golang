@@ -1,3 +1,5 @@
+[toc]
+
 # 滑动窗口 (TODO)
 ## 1. 框架
 ```go
@@ -34,7 +36,7 @@ func lengthOfLongestSubstring(s string) int {
     
         /* 3. 判断当前窗口内的元素是否符合条件 */
         for first < len(s) && count[s[last]] >= 2 {
-        	// 不满足时
+            // 不满足时
             /* 4. 把 first 指向的元素移出窗口 */
             count[s[first]]--
             first++
@@ -46,7 +48,41 @@ func lengthOfLongestSubstring(s string) int {
     return maxLength
 }
 ```
-   
+### 2.2 长度最小的子数组
+[传送门](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)
+```go
+func minSubArrayLen(s int, nums []int) int {
+	
+	/* 1. 初始化窗口数据结构，用于记录窗口内的信息 */
+	sum := 0
+	first, last := 0, 0
+	
+	minLength := len(nums) + 1
+	for last < len(nums) {
+		/* 2. 把 last 指向的元素加入窗口 */
+		sum += nums[last]
+
+		/* 3. 判断当前窗口内的元素是否符合条件 */
+		for first < len(nums) && sum >= s {
+			// 不满足时
+			/* 4. 把 first 指向的元素移出窗口 */
+			sum -= nums[first]
+			
+			/* 5.a 在这写更新窗口最大值的代码 */
+			minLength = min(minLength, last-first+1)
+			first++
+		}
+		last++
+	}
+	if minLength == len(nums)+1 {
+		return 0
+	}
+	return minLength
+}
+```
 ## 3. 练习题
 - [ ] [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - [ ] [209. 长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)
+- [ ] [424. 替换后的最长重复字符](https://leetcode-cn.com/problems/longest-repeating-character-replacement/)
+- [ ] [1208. 尽可能使字符串相等](https://leetcode-cn.com/problems/get-equal-substrings-within-budget/submissions/)
+- [ ] [1234. 替换子串得到平衡字符串](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string/)

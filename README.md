@@ -29,6 +29,8 @@
 ### 5. 滑动窗口
 - [ ] [滑动窗口框架](https://github.com/Lxy417165709/LeetCode-Golang/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/README.md)
 
+### 6. 位运算
+- [ ] [位运算技巧](https://github.com/Lxy417165709/LeetCode-Golang/blob/master/%E6%95%B0%E8%AE%BA%E3%80%81%E4%BD%8D%E8%BF%90%E7%AE%97/%E4%BD%8D%E8%BF%90%E7%AE%97/README.md)
 <br>
 
 ## <img src="https://github.com/Lxy417165709/LeetCode-Golang/blob/master/images/add_big.png" width="30" hegiht="30"/>   补充
