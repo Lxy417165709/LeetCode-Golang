@@ -5,18 +5,19 @@ func checkPerfectNumber(num int) bool {
 }
 
 // 获取num的不同的因子和 ( 时间复杂度O(n^(1/2)) )
-func getFactorSum(num int) int {
+func getFactorSum(x int) int {
 	sum := 0
-	for i := 1; i*i <= num; i++ {
-		if num%i == 0 {
+	for i := 1; i*i <= x; i++ {
+		if x%i == 0 {
 			sum += i
-			if num/i != i {
-				sum += num / i
+			if x/i != i {
+				sum += x / i
 			}
 		}
 	}
 	return sum
 }
+
 /*
 	题目链接:
 		https://leetcode-cn.com/problems/perfect-number/submissions/		完美数

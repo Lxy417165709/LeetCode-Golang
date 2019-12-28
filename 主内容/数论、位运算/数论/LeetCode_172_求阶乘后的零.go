@@ -2,7 +2,6 @@ package main
 
 // 迭代 求 n! 尾部有多少个零
 func trailingZeroes(n int) int {
-
 	ans := 0
 	for n != 0 {
 		ans += n / 5

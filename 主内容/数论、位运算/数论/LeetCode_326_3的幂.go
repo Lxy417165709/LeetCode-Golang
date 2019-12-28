@@ -4,6 +4,7 @@ func isPowerOfThree(n int) bool {
 	return n > 0 && 1162261467%n == 0
 }
 
+
 /*
 	总结
 	1. 这题用到了数论的知识，3的幂次的质因子只有3，而所给出的n如果也是3的幂次，

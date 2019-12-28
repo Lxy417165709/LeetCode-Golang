@@ -1,4 +1,4 @@
-package main
+package 二分
 
 // 二分法判断是否为完全平方数 (num >= 0)
 func isPerfectSquare(num int) bool {
