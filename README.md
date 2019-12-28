@@ -1,15 +1,15 @@
 
-## <img src="https://github.com/Lxy417165709/LeetCode-Golang/blob/master/images/jianjie_big.png" width="30" hegiht="30"/>   简介
-欢迎小伙伴的到来呀！这里是小埋的LeetCode代码仓库，希望能得到小伙伴宝贵的小星星![](https://github.com/Lxy417165709/LeetCode-Golang/blob/master/images/star.png)~
+## <img src="https://github.com/Lxy417165709/LeetCode-Golang/blob/master/img/jianjie_big.png" width="30" hegiht="30"/>   简介
+欢迎小伙伴的到来呀！这里是小埋的LeetCode代码仓库，希望能得到小伙伴宝贵的小星星![](https://github.com/Lxy417165709/LeetCode-Golang/blob/master/img/star.png)~
 
 
 ━(*｀∀´*)ノ亻!
 
-![](https://github.com/Lxy417165709/LeetCode-Golang/blob/master/images/xiaomai.jpg)
+![](https://github.com/Lxy417165709/LeetCode-Golang/blob/master/img/xiaomai.jpg)
 
 <br>
 
-## <img src="https://github.com/Lxy417165709/LeetCode-Golang/blob/master/images/context1_big.png" width="30" hegiht="30"/>   内容
+## <img src="https://github.com/Lxy417165709/LeetCode-Golang/blob/master/img/context1_big.png" width="30" hegiht="30"/>   内容
 ### 1. 二叉树与链表
 - [ ] [二叉树常用代码](https://github.com/Lxy417165709/LeetCode-Golang/blob/master/%E9%93%BE%E8%A1%A8%E3%80%81%E6%A0%91/%E6%A0%91/README.md)
 - [ ] [链表常用代码](https://github.com/Lxy417165709/LeetCode-Golang/blob/master/%E9%93%BE%E8%A1%A8%E3%80%81%E6%A0%91/%E9%93%BE%E8%A1%A8/README.md)
@@ -36,5 +36,5 @@
 - [ ] [简单状态机框架](https://github.com/Lxy417165709/LeetCode-Golang/tree/master/%E6%9C%AA%E5%88%86%E7%B1%BB%E6%A8%A1%E5%9D%97/%E7%8A%B6%E6%80%81%E6%9C%BA/README.md)
 <br>
 
-## <img src="https://github.com/Lxy417165709/LeetCode-Golang/blob/master/images/add_big.png" width="30" hegiht="30"/>   补充
+## <img src="https://github.com/Lxy417165709/LeetCode-Golang/blob/master/img/add_big.png" width="30" hegiht="30"/>   补充
 这个仓库内容会越来越多的！！！
