@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/搜索/排列组合框架.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/套模板/LeetCode_216_组合总和 III_套模板.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/套模板/LeetCode_39_组合总和_套模板.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/套模板/LeetCode_40_组合总和 II_套模板.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/套模板/LeetCode_46_全排列_套模板.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/套模板/LeetCode_47_全排列 II_套模板.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/套模板/LeetCode_78_子集_套模板.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/套模板/LeetCode_90_子集 II_套模板.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/LeetCode_78_子集.go" beforeDir="false" afterPath="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/LeetCode_78_子集.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/搜索/排列组合框架.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/搜索/排列组合框架.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,15 +50,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/套模板/LeetCode_40_组合总和 II_套模板.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="53" column="82" selection-start-line="53" selection-start-column="82" selection-end-line="53" selection-end-column="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/LeetCode_377_组合总和 Ⅳ.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="825">
@@ -80,8 +62,23 @@
         <entry file="file://$PROJECT_DIR$/src/搜索/排列组合框架.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="297">
-                <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <first_editor relative-caret-position="132">
+                <caret line="47" column="84" selection-start-line="47" selection-start-column="84" selection-end-line="47" selection-end-column="84" />
+                <folding>
+                  <element signature="e#15#23#0" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="363">
+                <caret line="11" column="120" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="120" />
               </first_editor>
               <second_editor />
             </state>
@@ -138,7 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/最长连续子数组_套模板.go" />
         <option value="$PROJECT_DIR$/动态规划、搜索/动态规划/子序列问题/一维子序列问题/README.md" />
         <option value="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/一维子串问题/README.md" />
         <option value="$PROJECT_DIR$/动态规划、搜索/动态规划/子串问题/LeetCode_718_最长重复子数组_套模板.go" />
@@ -189,12 +185,13 @@
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/套模板/LeetCode_39_组合总和_套模板.go" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/套模板/LeetCode_78_子集_套模板.go" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/README.md" />
+        <option value="$PROJECT_DIR$/src/搜索/排列组合框架.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="390" />
-    <option name="y" value="29" />
+    <option name="x" value="116" />
+    <option name="y" value="30" />
     <option name="width" value="1822" />
     <option name="height" value="957" />
   </component>
@@ -221,62 +218,6 @@
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="搜索" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="主内容" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="搜索" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="深度优先搜索" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="深度优先搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="回溯" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="深度优先搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="回溯" type="462c0819:PsiDirectoryNode" />
-              <item name="排列组合问题" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="深度优先搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="回溯" type="462c0819:PsiDirectoryNode" />
-              <item name="排列组合问题" type="462c0819:PsiDirectoryNode" />
-              <item name="套模板" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -371,7 +312,7 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="390" y="29" width="1822" height="957" extended-state="0" />
+    <frame x="116" y="30" width="1822" height="957" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22077185" />
@@ -420,7 +361,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/位运算总结.md" />
     <entry file="file://$PROJECT_DIR$/数论、位运算/数论/README.md" />
     <entry file="file://$PROJECT_DIR$/链表、树/README.md" />
     <entry file="file://$PROJECT_DIR$/src/常用链表代码.md" />
@@ -686,11 +626,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="363">
+            <caret line="11" column="120" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="120" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/搜索/排列组合框架.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="297">
-            <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <first_editor relative-caret-position="132">
+            <caret line="47" column="84" selection-start-line="47" selection-start-column="84" selection-end-line="47" selection-end-column="84" />
+            <folding>
+              <element signature="e#15#23#0" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
