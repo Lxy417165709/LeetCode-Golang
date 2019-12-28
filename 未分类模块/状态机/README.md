@@ -164,8 +164,9 @@ func isNumber(s string) bool {
 }
 ```
 ## 3. 注意点
-- [ ] DFA最复杂的地方在于构建状态机。我们可以先使用画图工具来画出状态转移图后，再得出状态机矩阵。
+- [ ] DFA最复杂的地方在于构建状态机。我们可以画出状态转移图后，再得出状态机矩阵。
 - [ ] 上面的状态命名可能有些不准确，我只是表达大致的意思 (语文不好真xxx)...
+- [ ] 上面的一些名词是我自己造的，不官方。
 ## 3. 练习题
 - [ ] [65. 有效数字](https://leetcode-cn.com/problems/valid-number/submissions/)
 - [ ] [520. 有效数字](https://leetcode-cn.com/problems/detect-capital/)

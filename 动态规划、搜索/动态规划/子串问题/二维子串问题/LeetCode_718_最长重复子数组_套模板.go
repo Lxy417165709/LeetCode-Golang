@@ -1,4 +1,4 @@
-package main
+package 二维子串问题
 
 func findLength(A []int, B []int) int {
 	/* 1. 明白dp[i][t]定义后，初始化dp数组 */
