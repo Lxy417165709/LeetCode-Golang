@@ -92,13 +92,13 @@ func isOnlyHaving(factorSet []int, x int) bool {
 
 ## 3. 定理
 ### 3.1 裴蜀定理
-> 设a1,a2,a3......an为n个整数，d是它们的最大公约数，那么存在整数x1......xn使得x1*a1+x2*a2+...xn*an=d。<br>
+> $设a_{1},a_{2},a_{3}......a_{n}为n个整数，d是它们的最大公约数，那么存在整数x_{1}......x_{n}使得x_{1}*a_{1}+x_{2}*a_{2}+...x_{n}*a_{n}=d。$<br>
 > [描述出处](https://baike.baidu.com/item/%E8%A3%B4%E8%9C%80%E5%AE%9A%E7%90%86/5186593?fr=aladdin)
 
 [定理应用](https://leetcode-cn.com/problems/check-if-it-is-a-good-array/comments/)
 
 ### 3.2 费马小定理
-> 如果p是一个质数，而整数a不是p的倍数，则有a^（p-1）≡1（mod p）。 <br>
+> $如果p是一个质数，而整数a不是p的倍数，则有 a^{(p-1)}≡1（mod p）$。 <br>
 > [描述出处](https://baike.baidu.com/item/%E8%B4%B9%E9%A9%AC%E5%B0%8F%E5%AE%9A%E7%90%86/4776158?fr=aladdin)
 
 ## 4. 练习题
@@ -107,3 +107,4 @@ func isOnlyHaving(factorSet []int, x int) bool {
 - [ ] [263. 丑数](https://leetcode-cn.com/problems/ugly-number/submissions/)
 - [ ] [507. 完美数](https://leetcode-cn.com/problems/perfect-number/submissions)
 - [ ] [1250. 检查「好数组」](https://leetcode-cn.com/problems/check-if-it-is-a-good-array/comments/)
+
