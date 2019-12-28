@@ -31,15 +31,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/套模板/LeetCode_90_子集 II_套模板.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/LeetCode_377_组合总和 Ⅳ.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="825">
@@ -52,15 +43,28 @@
         <entry file="file://$PROJECT_DIR$/src/搜索/排列组合框架.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="261">
-                <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+              <first_editor relative-caret-position="528">
+                <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
                 <folding>
+                  <element signature="e#15#23#0" />
                   <element signature="e#1138#1167#0" />
                   <element signature="e#2114#2143#0" />
                   <element signature="e#4174#4204#0" />
                   <element signature="e#5898#5928#0" />
                   <element signature="e#6776#6805#0" />
                 </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/力扣排列组合问题对比.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="33">
+                <caret line="1" selection-start-line="1" selection-end-line="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -194,8 +198,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="116" />
-    <option name="y" value="30" />
+    <option name="x" value="188" />
+    <option name="y" value="166" />
     <option name="width" value="1822" />
     <option name="height" value="957" />
   </component>
@@ -321,7 +325,7 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="116" y="30" width="1822" height="957" extended-state="0" />
+    <frame x="188" y="166" width="1822" height="957" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22077185" />
@@ -497,16 +501,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/力扣排列组合问题对比.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="231">
-            <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/LeetCode_47_全排列 II.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -652,12 +646,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/力扣排列组合问题对比.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="33">
+            <caret line="1" selection-start-line="1" selection-end-line="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/搜索/排列组合框架.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="261">
-            <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+          <first_editor relative-caret-position="528">
+            <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
             <folding>
+              <element signature="e#15#23#0" />
               <element signature="e#1138#1167#0" />
               <element signature="e#2114#2143#0" />
               <element signature="e#4174#4204#0" />
