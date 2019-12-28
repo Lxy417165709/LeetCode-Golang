@@ -152,15 +152,15 @@ func hasCycle(head *ListNode) bool {
 
 ### 练习题
 1. 属性获取
- 	- [ ] [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
- 	- [ ] [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
- 	- [ ] [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
+    - [ ] [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+    - [ ] [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
+    - [ ] [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
 3. 性质判断
-  	- [ ] [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+    - [ ] [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 4. 结构调整
     - [ ] [19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/comments/)
-	- [ ] [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
-  	- [ ] [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
-    
+    - [ ] [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
+    - [ ] [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+
 
     

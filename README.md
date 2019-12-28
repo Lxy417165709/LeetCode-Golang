@@ -31,6 +31,9 @@
 
 ### 6. 位运算
 - [ ] [位运算技巧](https://github.com/Lxy417165709/LeetCode-Golang/blob/master/%E6%95%B0%E8%AE%BA%E3%80%81%E4%BD%8D%E8%BF%90%E7%AE%97/%E4%BD%8D%E8%BF%90%E7%AE%97/README.md)
+
+### 7. 状态机
+- [ ] [简单状态机框架](https://github.com/Lxy417165709/LeetCode-Golang/tree/master/%E6%9C%AA%E5%88%86%E7%B1%BB%E6%A8%A1%E5%9D%97/%E7%8A%B6%E6%80%81%E6%9C%BA/README.md)
 <br>
 
 ## <img src="https://github.com/Lxy417165709/LeetCode-Golang/blob/master/images/add_big.png" width="30" hegiht="30"/>   补充
