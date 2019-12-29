@@ -4,7 +4,7 @@ var hasResult map[string]bool
 
 func isMatch(s string, p string) bool {
 	hasResult = make(map[string]bool)
-	return solve(s, p)
+	return isMatchExec(s, p)
 }
 func hash(s, p string) string {
 	return s + "|" + p

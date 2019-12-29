@@ -47,7 +47,9 @@ func checkValidStringExec(s string, nowIndex int, left, right int) bool {
 	return ans
 }
 
-// 这里主要是为了把3个变量哈希为1个变量，方便map存放
+// 由于备忘录的键值是 1 个整数，而记忆化搜索函数需要 3 个整数参数才能唯一标识一个子问题，
+// 所以，这里采用哈希的方式，把三个参数进行哈希，生成一个键值来唯一的标识这个参数组合，
+// 即: 用「1个数字」 唯一标识 「1个子问题」。
 func hash(a, b, c int) int {
 	return (a << 20) + (b << 10) + c
 }
