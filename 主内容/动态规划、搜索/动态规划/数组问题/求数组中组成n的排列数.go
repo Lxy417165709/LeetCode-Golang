@@ -2,7 +2,7 @@ package main
 
 // 获取数组array中组成target的排列数 (数组元素>0，不存在重复元素，可重复选取)
 // dp[i]: 表示数组组成i的排列数
-func getCountOfArrangement(array []int, target int) int {
+func getCountOfArrangement(nums []int, target int) int {
 	if target < 0 {
 		return 0
 	}
@@ -11,9 +11,9 @@ func getCountOfArrangement(array []int, target int) int {
 
 	// 总结点①
 	for i := 1; i <= target; i++ {
-		for t := 0; t < len(array); t++ {
-			if i >= array[t] {
-				dp[i] += dp[i-array[t]]
+		for t := 0; t < len(nums); t++ {
+			if i >= nums[t] {
+				dp[i] += dp[i-nums[t]]
 			}
 		}
 	}

@@ -4,6 +4,7 @@ const (
 	size = 100
 	inf  = 1000000000
 )
+
 // 动态规划 解决数组中能组成n的最少元素数
 // dp[i]表示: 数组中能组成i的最少元素数	(dp数组初始化为inf)
 // 状态转移方程:
@@ -40,8 +41,8 @@ func numSquares(n int) int {
 	return dp[n]
 }
 
-func min(a,b int) int{
-	if a>b{
+func min(a, b int) int {
+	if a > b {
 		return b
 	}
 	return a
