@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/主内容/数论、位运算/数论/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/主内容/数论、位运算/数论/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,12 +67,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/主内容/数论、位运算/数论/README.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/数论/数论知识.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="396">
-                <caret line="123" lean-forward="true" selection-start-line="123" selection-end-line="123" />
+              <first_editor relative-caret-position="99">
+                <caret line="99" column="3" lean-forward="true" selection-start-line="99" selection-start-column="3" selection-end-line="99" selection-end-column="3" />
                 <folding>
                   <element signature="e#22#44#0" />
                   <element signature="e#196#226#0" />
@@ -89,11 +88,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/主内容/链表、树/链表/链表间关系判断/判断两个链表是否相同.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="2" selection-start-line="2" selection-end-line="11" selection-end-column="1" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="577">
+                <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -181,7 +183,6 @@
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/套模板/LeetCode_72_编辑距离_套模板.go" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/套模板/LeetCode_10_正则表达式匹配_记忆化搜索.go" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/README.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/动态规划/一维子串问题框架.md" />
         <option value="$PROJECT_DIR$/src/动态规划/一维子序列问题框架.md" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/数组问题/求数组中组成n的排列数.go" />
@@ -207,12 +208,13 @@
         <option value="$PROJECT_DIR$/src/数组/数组问题.md" />
         <option value="$PROJECT_DIR$/src/位运算/位运算总结.md" />
         <option value="$PROJECT_DIR$/主内容/数论、位运算/数论/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-285" />
-    <option name="y" value="45" />
+    <option name="x" value="20" />
+    <option name="y" value="28" />
     <option name="width" value="1940" />
     <option name="height" value="1040" />
   </component>
@@ -228,41 +230,6 @@
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="主内容" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="双指针" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="数论、位运算" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="数论、位运算" type="462c0819:PsiDirectoryNode" />
-              <item name="数论" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="链表、树" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -280,19 +247,19 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\hasee\Desktop\算法学习\src\动态规划" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\src\数组" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\src\搜索" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\回溯" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\回溯\排列组合问题\套模板" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\回溯\排列组合问题\套模板" />
       <recent name="C:\Users\hasee\Desktop\算法学习\主内容\双指针\n数和问题" />
       <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\动态规划\数组问题" />
       <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\记忆化搜索\套模板" />
       <recent name="C:\Users\hasee\Desktop\算法学习\src\搜索" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hasee\Desktop\算法学习\src\数论" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\src\动态规划" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\src\数组" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\src\搜索" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\回溯" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -357,10 +324,10 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="20" y="28" width="1940" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14765458" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24414894" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -446,16 +413,6 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="726">
-            <caret line="22" column="141" selection-start-line="22" selection-start-column="141" selection-end-line="22" selection-end-column="141" />
-          </first_editor>
           <second_editor />
         </state>
       </provider>
@@ -782,11 +739,11 @@
         <state relative-caret-position="-198" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/数论、位运算/数论/README.md">
+    <entry file="file://$PROJECT_DIR$/src/数论/数论知识.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="396">
-            <caret line="123" lean-forward="true" selection-start-line="123" selection-end-line="123" />
+          <first_editor relative-caret-position="99">
+            <caret line="99" column="3" lean-forward="true" selection-start-line="99" selection-start-column="3" selection-end-line="99" selection-end-column="3" />
             <folding>
               <element signature="e#22#44#0" />
               <element signature="e#196#226#0" />
@@ -796,6 +753,16 @@
               <element signature="e#1373#1398#0" />
               <element signature="e#1510#1535#0" />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="577">
+            <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
           </first_editor>
           <second_editor />
         </state>
