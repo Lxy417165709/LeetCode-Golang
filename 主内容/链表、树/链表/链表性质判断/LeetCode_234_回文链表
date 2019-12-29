@@ -1,0 +1,95 @@
+package main
+
+type ListNode struct {
+	Val  int
+	Next *ListNode
+}
+
+// 判断链表是否是回文链表  (解法1: 翻转前半部分) (比较复杂)
+func isPalindrome(head *ListNode) bool {
+	length := getLength(head)
+	if length <= 1 {
+		return true
+	}
+	mid := head
+	for i := 0; i < length/2-1; i++ {
+		mid = mid.Next
+	}
+	afterList := head
+	if length%2 == 1 {
+		afterList = mid.Next.Next
+	} else {
+		afterList = mid.Next
+	}
+	mid.Next = nil
+	preList := reverse(head)
+	return isSame(preList, afterList)
+}
+
+// 判断链表是否是回文链表  (解法2: 翻转后半部分) (相对简洁)
+func isPalindrome(head *ListNode) bool {
+	mid := getMid(head)
+	preList := head
+	afterList := reverse(mid)
+	for preList != nil && afterList != nil {
+		if preList.Val != afterList.Val {
+			return false
+		}
+		preList = preList.Next
+		afterList = afterList.Next
+	}
+	return true
+}
+
+// 获取链表中点，返回偏右的中心节点
+func getMid(head *ListNode) *ListNode {
+	slow, fast := head, head
+	for fast != nil && fast.Next != nil {
+		slow = slow.Next
+		fast = fast.Next.Next
+	}
+	return slow
+}
+
+// 翻转链表，返回翻转后的头结点
+func reverse(head *ListNode) *ListNode {
+	var pre, next *ListNode = nil, nil
+	for head != nil {
+		next = head.Next
+		head.Next = pre
+		pre = head
+		head = next
+	}
+	return pre
+}
+
+// 获取链表长度
+func getLength(head *ListNode) int {
+	length, cur := 0, head
+	for cur != nil {
+		cur = cur.Next
+		length++
+	}
+	return length
+}
+
+// 判断两个链表是否相同
+func isSame(listA, listB *ListNode) bool {
+	for listA != nil && listB != nil {
+		if listA.Val != listB.Val {
+			return false
+		}
+		listA = listA.Next
+		listB = listB.Next
+	}
+	return listA == listB
+}
+
+
+
+/*
+	总结
+	1. 这题的思路是: 先获取链表中点的前驱节点，之后将链表分为两个链表，对前一个链表进行翻转后，判断翻转后的
+				链表与第二个链表是否相同，相同则为回文链表，否则则不是。
+	2. 官方也有翻转第二个链表后判断是否相同的，解法2就是这种方法。
+*/
