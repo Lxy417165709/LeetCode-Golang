@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/主内容/双指针/n数和问题/LeetCode_18_四数之和_更简洁版.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/主内容/双指针/n数和问题/n数和.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/主内容/数论、位运算/数论/求最小公倍数(待补充).go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/搜索/排列组合框架.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/搜索/排列组合框架.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +30,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/主内容/双指针/n数和问题/n数和.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="726">
@@ -49,7 +46,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/主内容/双指针/n数和问题/LeetCode_16_最接近的三数之和_双指针版.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-787" />
+            <state relative-caret-position="-396">
+              <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/搜索/排列组合框架.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="726">
+                <caret line="64" column="5" lean-forward="true" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+                <folding>
+                  <element signature="e#20#982#0" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
           </provider>
         </entry>
       </file>
@@ -86,7 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/主内容/数论、位运算/数论/LeetCode_326_3的幂.go" />
         <option value="$PROJECT_DIR$/主内容/数论、位运算/数论/属性求取/求最大公约数.go" />
         <option value="$PROJECT_DIR$/主内容/数论、位运算/数论/LeetCode_204_计数质数.go" />
         <option value="$PROJECT_DIR$/主内容/数论、位运算/数论/属性求取/求阶乘后的零.go" />
@@ -109,7 +122,6 @@
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/套模板/LeetCode_39_组合总和_套模板.go" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/套模板/LeetCode_78_子集_套模板.go" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/README.md" />
-        <option value="$PROJECT_DIR$/src/搜索/排列组合框架.md" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/README.md.go" />
         <option value="$PROJECT_DIR$/src/哈希/哈希总结.md" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/LeetCode_10_正则表达式匹配.go" />
@@ -137,10 +149,12 @@
         <option value="$PROJECT_DIR$/主内容/数论、位运算/数论/README.md" />
         <option value="$PROJECT_DIR$/主内容/双指针/n数和问题/LeetCode_15_三数之和.go" />
         <option value="$PROJECT_DIR$/主内容/双指针/n数和问题/n数和.go" />
+        <option value="$PROJECT_DIR$/主内容/双指针/n数和问题/LeetCode_16_最接近的三数之和_双指针版.go" />
+        <option value="$PROJECT_DIR$/src/搜索/排列组合框架.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="2" />
     <option name="width" value="1919" />
     <option name="height" value="1047" />
@@ -157,6 +171,17 @@
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="搜索" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
@@ -275,10 +300,10 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="0" width="1919" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20225927" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.058635395" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -395,16 +420,6 @@
     <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/实例/LeetCode_473_火柴拼正方形.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-297" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/搜索/排列组合框架.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="792">
-            <caret line="24" column="30" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="30" />
-          </first_editor>
-          <second_editor />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_980_不同路径 Ⅲ.go">
@@ -678,11 +693,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/双指针/n数和问题/LeetCode_16_最接近的三数之和_双指针版.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-787" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/主内容/双指针/n数和问题/LeetCode_15_三数之和.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -698,6 +708,26 @@
             <element signature="n#!!block;n#nSum#1" />
             <element signature="n#!!block;n#twoSum#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/双指针/n数和问题/LeetCode_16_最接近的三数之和_双指针版.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/搜索/排列组合框架.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="726">
+            <caret line="64" column="5" lean-forward="true" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+            <folding>
+              <element signature="e#20#982#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
