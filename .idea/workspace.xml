@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/主内容/链表、树/链表/链表性质判断/LeetCode_234_回文链表" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/主内容/链表、树/链表/链表结构调整/LeetCode_328_奇偶链表.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/主内容/链表、树/链表/链表间关系判断/判断两个链表是否相同.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/力扣排列组合问题对比.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/搜索/排列组合框架.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/搜索/排列组合框架.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/状态机/状态机框架.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/状态机/状态机框架.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/链表/常用链表代码.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/链表/常用链表代码.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/主内容/双指针/n数和问题/n数和.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/搜索/记忆化搜索框架.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/搜索/记忆化搜索框架.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,13 +11,30 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/src/动态规划/排列组合种数问题.md">
+                <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                  <state split_layout="SPLIT">
+                    <first_editor relative-caret-position="-297">
+                      <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+                    </first_editor>
+                    <second_editor />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/套模板/LeetCode_78_子集_套模板.go">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/套模板/LeetCode_90_子集 II_套模板.go">
           <provider selected="true" editor-type-id="text-editor">
@@ -52,12 +62,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/搜索/排列组合框架.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="305">
-                <caret line="288" selection-start-line="288" selection-end-line="288" />
+              <first_editor relative-caret-position="33">
+                <caret line="65" column="8" lean-forward="true" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
+                <folding>
+                  <element signature="e#19#27#0" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/搜索/记忆化搜索框架.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="231">
+                <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -73,22 +98,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/链表/常用链表代码.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="429">
-                <caret line="162" column="11" lean-forward="true" selection-start-line="162" selection-start-column="11" selection-end-line="162" selection-end-column="11" />
-                <folding>
-                  <element signature="e#41#57#0" />
-                  <element signature="e#58#613#0" />
-                  <element signature="e#614#633#0" />
-                  <element signature="e#978#993#0" />
-                  <element signature="e#1398#1411#0" />
-                  <element signature="e#1891#1911#0" />
-                  <element signature="e#2306#2319#0" />
-                  <element signature="e#3779#3987#0" />
-                </folding>
+              <first_editor relative-caret-position="165">
+                <caret line="142" column="1" lean-forward="true" selection-start-line="142" selection-start-column="1" selection-end-line="142" selection-end-column="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -108,7 +123,7 @@
         <entry file="file://$PROJECT_DIR$/src/二叉树/常用二叉树代码.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="456">
+              <first_editor relative-caret-position="462">
                 <caret line="745" selection-start-line="745" selection-end-line="745" selection-end-column="13" />
                 <folding>
                   <element signature="e#26#142#0" />
@@ -189,7 +204,6 @@
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/套模板/LeetCode_10_正则表达式匹配_记忆化搜索.go" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/搜索/记忆化搜索框架.md" />
         <option value="$PROJECT_DIR$/src/动态规划/一维子串问题框架.md" />
         <option value="$PROJECT_DIR$/src/动态规划/一维子序列问题框架.md" />
         <option value="$PROJECT_DIR$/src/数组/数组问题.md" />
@@ -207,19 +221,20 @@
         <option value="$PROJECT_DIR$/主内容/双指针/n数和问题/LeetCode_16_最接近的三数之和_双指针版.go" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/套模板/n数和_套模板.go" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/套模板/LeetCode_15_三数之和_套模板_超时.go" />
-        <option value="$PROJECT_DIR$/src/搜索/排列组合框架.md" />
         <option value="$PROJECT_DIR$/src/状态机/状态机框架.md" />
         <option value="$PROJECT_DIR$/主内容/链表、树/链表/链表结构调整/LeetCode_328_奇偶链表.go" />
         <option value="$PROJECT_DIR$/主内容/链表、树/链表/链表间关系判断/判断两个链表是否相同.go" />
         <option value="$PROJECT_DIR$/主内容/链表、树/链表/链表性质判断/LeetCode_234_回文链表" />
         <option value="$PROJECT_DIR$/src/链表/常用链表代码.md" />
+        <option value="$PROJECT_DIR$/src/搜索/记忆化搜索框架.md" />
+        <option value="$PROJECT_DIR$/src/搜索/排列组合框架.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="320" />
-    <option name="y" value="3" />
-    <option name="width" value="1919" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-388" />
+    <option name="y" value="31" />
+    <option name="width" value="1940" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
@@ -227,7 +242,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -250,7 +264,19 @@
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="链表" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="单调栈" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="搜索" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
@@ -290,6 +316,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -379,10 +406,10 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-388" y="31" width="1940" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10501066" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22659574" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -520,16 +547,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/搜索/记忆化搜索框架.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="297">
-            <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/查找/随机选择算法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -620,16 +637,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/动态规划/排列组合种数问题.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="650">
-            <caret line="112" selection-start-line="112" selection-end-line="112" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/主内容/数论、位运算/数论/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -710,6 +717,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/状态机/状态机框架.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="446">
+            <caret line="165" column="9" lean-forward="true" selection-start-line="165" selection-start-column="9" selection-end-line="165" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/套模板/LeetCode_78_子集_套模板.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -734,26 +751,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/状态机/状态机框架.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="446">
-            <caret line="165" column="9" lean-forward="true" selection-start-line="165" selection-start-column="9" selection-end-line="165" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/搜索/排列组合框架.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="305">
-            <caret line="288" selection-start-line="288" selection-end-line="288" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/主内容/链表、树/链表/链表结构调整/LeetCode_328_奇偶链表.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -761,10 +758,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/链表、树/链表/链表间关系判断/判断两个链表是否相同.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" selection-start-line="2" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/二叉树/常用二叉树代码.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="456">
+          <first_editor relative-caret-position="462">
             <caret line="745" selection-start-line="745" selection-end-line="745" selection-end-column="13" />
             <folding>
               <element signature="e#26#142#0" />
@@ -785,13 +789,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/链表、树/链表/链表间关系判断/判断两个链表是否相同.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" selection-start-line="2" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/主内容/链表、树/链表/链表性质判断/LeetCode_234_回文链表">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -802,17 +799,40 @@
     <entry file="file://$PROJECT_DIR$/src/链表/常用链表代码.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="429">
-            <caret line="162" column="11" lean-forward="true" selection-start-line="162" selection-start-column="11" selection-end-line="162" selection-end-column="11" />
+          <first_editor relative-caret-position="165">
+            <caret line="142" column="1" lean-forward="true" selection-start-line="142" selection-start-column="1" selection-end-line="142" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/搜索/记忆化搜索框架.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="231">
+            <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/动态规划/排列组合种数问题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-297">
+            <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/搜索/排列组合框架.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="33">
+            <caret line="65" column="8" lean-forward="true" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
             <folding>
-              <element signature="e#41#57#0" />
-              <element signature="e#58#613#0" />
-              <element signature="e#614#633#0" />
-              <element signature="e#978#993#0" />
-              <element signature="e#1398#1411#0" />
-              <element signature="e#1891#1911#0" />
-              <element signature="e#2306#2319#0" />
-              <element signature="e#3779#3987#0" />
+              <element signature="e#19#27#0" />
             </folding>
           </first_editor>
           <second_editor />
