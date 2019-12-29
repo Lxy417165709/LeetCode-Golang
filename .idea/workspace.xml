@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/数组/排列组合种数问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数组/数组问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/数组问题/求数组中组成n的最小元素数_redo.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/搜索/记忆化搜索框架.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/搜索/记忆化搜索框架.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/数组问题/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/数组问题/求数组中组成n的排列数.go" beforeDir="false" afterPath="$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/数组问题/求数组中组成n的排列数.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/数组问题/求数组中组成n的最小元素数.go" beforeDir="false" afterPath="$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/数组问题/求数组中组成n的最小元素数.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/数组问题/求数组中组成n的组合数.go" beforeDir="false" afterPath="$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/数组问题/求数组中组成n的组合数.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/矩阵问题/LeetCode_62_不同路径.go" beforeDir="false" afterPath="$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/矩阵问题/LeetCode_62_不同路径.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/主内容/数论、位运算/数论/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/主内容/数论、位运算/数论/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/主内容/数论、位运算/数论/求最小公倍数(待补充).go" beforeDir="false" afterPath="$PROJECT_DIR$/主内容/数论、位运算/数论/求最小公倍数(待补充).go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,12 +52,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/数组/排列组合种数问题.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/动态规划/排列组合种数问题.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="33">
-                <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+              <first_editor relative-caret-position="528">
+                <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
                 <folding>
                   <element signature="e#22#45#0" />
                   <element signature="e#433#804#0" />
@@ -73,6 +65,38 @@
                 </folding>
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/主内容/数论、位运算/数论/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="165">
+                <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+                <folding>
+                  <element signature="e#22#44#0" />
+                  <element signature="e#197#227#0" />
+                  <element signature="e#577#596#0" />
+                  <element signature="e#802#821#0" />
+                  <element signature="e#1188#1208#0" />
+                  <element signature="e#1378#1403#0" />
+                  <element signature="e#1515#1540#0" />
+                  <element signature="e#1252#1264#0" />
+                  <element signature="e#1561#1574#0" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/主内容/数论、位运算/数论/求最小公倍数(待补充).go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="12" selection-start-line="12" selection-end-line="25" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -107,24 +131,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/套模板/LeetCode_516_最长回文子序列_套模板.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="858">
-              <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/套模板/LeetCode_375_猜数字大小2_套模板.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -148,7 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/链表、树/链表/README.md" />
         <option value="$PROJECT_DIR$/未分类模块/单调栈/README.md" />
         <option value="$PROJECT_DIR$/未分类模块/README.md" />
         <option value="$PROJECT_DIR$/主内容/数论、位运算/数论/LeetCode_326_3的幂.go" />
@@ -160,7 +165,6 @@
         <option value="$PROJECT_DIR$/主内容/未分类模块/二分/LeetCode_69_x的平方根.go" />
         <option value="$PROJECT_DIR$/主内容/数论、位运算/数论/属性求取/求最小公倍数(待补充).go" />
         <option value="$PROJECT_DIR$/主内容/未分类模块/二分/判断正整数是否为完全平方数.go" />
-        <option value="$PROJECT_DIR$/主内容/数论、位运算/数论/README.md" />
         <option value="$PROJECT_DIR$/src/力扣排列组合问题对比.md" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/LeetCode_78_子集.go" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/LeetCode_216_组合总和 III_套模板.go" />
@@ -199,12 +203,14 @@
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/数组问题/求数组中组成n的最小元素数_redo.go" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/矩阵问题/LeetCode_62_不同路径.go" />
         <option value="$PROJECT_DIR$/src/数组/排列组合种数问题.md" />
+        <option value="$PROJECT_DIR$/主内容/数论、位运算/数论/求最小公倍数(待补充).go" />
+        <option value="$PROJECT_DIR$/主内容/数论、位运算/数论/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="113" />
-    <option name="y" value="79" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="31" />
+    <option name="y" value="41" />
     <option name="width" value="1919" />
     <option name="height" value="1047" />
   </component>
@@ -223,65 +229,20 @@
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="数组" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
               <item name="主内容" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
               <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="数论、位运算" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
               <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
-              <item name="矩阵问题" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="搜索" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
-              <item name="二分" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="查找、排序、哈希、贪心" type="462c0819:PsiDirectoryNode" />
+              <item name="数论、位运算" type="462c0819:PsiDirectoryNode" />
+              <item name="数论" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -308,11 +269,11 @@
       <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\回溯\排列组合问题" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hasee\Desktop\算法学习\src\动态规划" />
       <recent name="C:\Users\hasee\Desktop\算法学习\src\数组" />
       <recent name="C:\Users\hasee\Desktop\算法学习\src\搜索" />
       <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\回溯" />
       <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\回溯\排列组合问题\套模板" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -377,10 +338,10 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="31" y="41" width="1919" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19829424" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20010759" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -426,13 +387,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/LeetCode_46_全排列.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/套模板/LeetCode_39_组合总和_套模板.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -509,16 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1155">
           <caret line="35" column="2" lean-forward="true" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/数论、位运算/数论/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="3366">
-            <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -790,15 +734,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/数组/排列组合种数问题.md">
+    <entry file="file://$PROJECT_DIR$/src/动态规划/排列组合种数问题.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="33">
-            <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <first_editor relative-caret-position="528">
+            <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
             <folding>
               <element signature="e#22#45#0" />
               <element signature="e#433#804#0" />
               <element signature="e#949#974#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/数论、位运算/数论/求最小公倍数(待补充).go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="12" selection-start-line="12" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/数论、位运算/数论/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <folding>
+              <element signature="e#22#44#0" />
+              <element signature="e#197#227#0" />
+              <element signature="e#577#596#0" />
+              <element signature="e#802#821#0" />
+              <element signature="e#1188#1208#0" />
+              <element signature="e#1378#1403#0" />
+              <element signature="e#1515#1540#0" />
+              <element signature="e#1252#1264#0" />
+              <element signature="e#1561#1574#0" />
             </folding>
           </first_editor>
           <second_editor />
