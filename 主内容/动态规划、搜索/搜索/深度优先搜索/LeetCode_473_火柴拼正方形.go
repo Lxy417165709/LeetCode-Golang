@@ -1,4 +1,4 @@
-package 实例
+package 深度优先搜索
 
 func makesquare(nums []int) bool {
 	isUsed = 0

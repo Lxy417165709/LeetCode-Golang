@@ -38,9 +38,11 @@
 
 ### 7. 状态机
 - [ ] [简单状态机框架](https://github.com/Lxy417165709/LeetCode-Golang/blob/master/src/%E7%8A%B6%E6%80%81%E6%9C%BA/%E7%8A%B6%E6%80%81%E6%9C%BA%E6%A1%86%E6%9E%B6.md)
-<br>
 
 ### 8. 数论
 - [ ] [简单数论知识 (最新)](https://github.com/Lxy417165709/LeetCode-Golang/blob/master/src/%E6%95%B0%E8%AE%BA/%E6%95%B0%E8%AE%BA%E7%9F%A5%E8%AF%86.md)
+
+<br>
+
 ## <img src="https://github.com/Lxy417165709/LeetCode-Golang/blob/master/img/add_big.png" width="30" hegiht="30"/>   补充
 这个仓库内容会越来越多的！！！

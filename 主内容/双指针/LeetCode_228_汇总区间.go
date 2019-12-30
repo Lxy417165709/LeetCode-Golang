@@ -1,4 +1,4 @@
-package main
+package 双指针
 
 import "fmt"
 

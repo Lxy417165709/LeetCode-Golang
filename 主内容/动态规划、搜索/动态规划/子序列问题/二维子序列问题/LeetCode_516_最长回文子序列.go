@@ -65,8 +65,7 @@ func max(a, b int) int {
 }
 
 /*
-	题目链接:
-		https://leetcode-cn.com/problems/longest-palindromic-subsequence/submissions/		最长回文子序列
+	题目链接:https://leetcode-cn.com/problems/longest-palindromic-subsequence/submissions/		最长回文子序列
 */
 
 /*

@@ -1,4 +1,4 @@
-package main
+package 读写指针
 
 func duplicateZeros(arr []int) {
 	beforeLength, afterLength := len(arr), 0
