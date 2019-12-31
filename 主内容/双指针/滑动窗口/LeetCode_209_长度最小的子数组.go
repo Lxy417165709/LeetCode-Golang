@@ -3,23 +3,25 @@ package 滑动窗口
 // 滑动窗口
 func minSubArrayLen(s int, nums []int) int {
 
+	minLength := len(nums) + 1
+
 	/* 1. 初始化窗口数据结构，用于记录窗口内的信息 */
 	sum := 0
 	first, last := 0, 0
 
-	minLength := len(nums) + 1
 	for last < len(nums) {
 		/* 2. 把 last 指向的元素加入窗口 */
 		sum += nums[last]
 
 		/* 3. 判断当前窗口内的元素是否符合条件 */
 		for first < len(nums) && sum >= s {
-			// 不满足时
-			/* 4. 把 first 指向的元素移出窗口 */
-			sum -= nums[first]
+			// 如果题目求的是最小值，则符合题意条件时进入函数体
 
-			/* 5.a 在这写更新窗口最大值的代码 */
+			/* 4.a 在这写更新窗口最小值的代码 */
 			minLength = min(minLength, last-first+1)
+
+			/* 5. 把 first 指向的元素移出窗口 */
+			sum -= nums[first]
 			first++
 		}
 		last++
@@ -29,12 +31,14 @@ func minSubArrayLen(s int, nums []int) int {
 	}
 	return minLength
 }
-func min(a, b int) int {
+
+func min(a, b int) int{
 	if a > b {
 		return b
 	}
 	return a
 }
+
 
 // 滑动窗口 + 二分
 func minSubArrayLen(s int, nums []int) int {
