@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_842_将数组拆分成斐波那契序列.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/主内容/查找、排序、哈希、贪心/哈希/LeetCode_454_四数相加 II.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,15 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/博弈问题/LeetCode_486_预测赢家.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/主内容/未分类模块/字符串与数组操作/简单字符串操作/LeeCode_415_字符串相加.go">
           <provider selected="true" editor-type-id="text-editor">
@@ -35,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/字符串搜索/LeetCode_306_累加数.go">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -43,8 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_842_将数组拆分成斐波那契序列.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-986">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="1353">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
             </state>
           </provider>
         </entry>
@@ -52,13 +43,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_37_解数独.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="820">
+            <state relative-caret-position="2310">
               <caret line="70" column="31" selection-start-line="59" selection-start-column="8" selection-end-line="70" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_37_解数独_队列法_数组优化.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="660">
@@ -66,6 +57,15 @@
               <folding>
                 <element signature="n#!!block;n#solveSudokuExec#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/主内容/查找、排序、哈希、贪心/哈希/LeetCode_454_四数相加 II.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -83,7 +83,7 @@
         <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/博弈问题/LeetCode_1140_石头游戏 Ⅱ.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1518">
-              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
             </state>
           </provider>
         </entry>
@@ -129,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/套模板/LeetCode_15_三数之和_套模板_超时.go" />
         <option value="$PROJECT_DIR$/src/状态机/状态机框架.md" />
         <option value="$PROJECT_DIR$/主内容/链表、树/链表/链表结构调整/LeetCode_328_奇偶链表.go" />
         <option value="$PROJECT_DIR$/主内容/链表、树/链表/链表间关系判断/判断两个链表是否相同.go" />
@@ -180,20 +179,22 @@
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/博弈问题/LeetCode_1140_石头游戏 Ⅱ.go" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/博弈问题/LeetCode_486_预测赢家.go" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_842_将数组拆分成斐波那契序列.go" />
+        <option value="$PROJECT_DIR$/主内容/查找、排序、哈希、贪心/哈希/LeetCode_454_四数相加 II.go" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-364" />
-    <option name="y" value="299" />
+    <option name="y" value="245" />
     <option name="width" value="1940" />
-    <option name="height" value="1046" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,59 +216,19 @@
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
               <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="查找、排序、哈希、贪心" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
               <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="搜索" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="深度优先搜索" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="深度优先搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="回溯" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="深度优先搜索" type="462c0819:PsiDirectoryNode" />
-              <item name="字符串搜索" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
-              <item name="字符串与数组操作" type="462c0819:PsiDirectoryNode" />
+              <item name="查找、排序、哈希、贪心" type="462c0819:PsiDirectoryNode" />
+              <item name="哈希" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -357,10 +318,10 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-364" y="299" width="1940" height="1046" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16755319" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16950959" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -406,13 +367,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/子串问题/二维子串问题/LeetCode_5_最长回文子串.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/子串问题/二维子串问题/LeetCode_718_最长重复子数组.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1716">
@@ -695,6 +649,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/博弈问题/LeetCode_486_预测赢家.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/字符串与数组操作/简单字符串操作/LeeCode_415_字符串相加.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" selection-start-line="2" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/字符串搜索/LeetCode_306_累加数.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_842_将数组拆分成斐波那契序列.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1353">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_37_解数独.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2310">
+          <caret line="70" column="31" selection-start-line="59" selection-start-column="8" selection-end-line="70" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/博弈问题/LeetCode_877_石子游戏_dp.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3036">
@@ -705,7 +694,7 @@
     <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/博弈问题/LeetCode_1140_石头游戏 Ⅱ.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1518">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
@@ -723,41 +712,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/博弈问题/LeetCode_486_预测赢家.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/字符串与数组操作/简单字符串操作/LeeCode_415_字符串相加.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" selection-start-line="2" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/字符串搜索/LeetCode_306_累加数.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_842_将数组拆分成斐波那契序列.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-986">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_37_解数独.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="820">
-          <caret line="70" column="31" selection-start-line="59" selection-start-column="8" selection-end-line="70" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_37_解数独_队列法_数组优化.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
@@ -765,6 +719,13 @@
           <folding>
             <element signature="n#!!block;n#solveSudokuExec#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/查找、排序、哈希、贪心/哈希/LeetCode_454_四数相加 II.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
         </state>
       </provider>
     </entry>
