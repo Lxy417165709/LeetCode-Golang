@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/主内容/查找、排序、哈希、贪心/哈希/LeetCode_454_四数相加 II.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/主内容/数论、位运算/位运算/获取大于正整数n的最近二次幂的值.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/位运算/位运算总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/位运算/位运算总结.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,24 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/主内容/未分类模块/字符串与数组操作/简单字符串操作/LeeCode_415_字符串相加.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="2" selection-start-line="2" selection-end-line="25" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/字符串搜索/LeetCode_306_累加数.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_842_将数组拆分成斐波那契序列.go">
           <provider selected="true" editor-type-id="text-editor">
@@ -61,11 +44,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/主内容/查找、排序、哈希、贪心/哈希/LeetCode_454_四数相加 II.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            <state relative-caret-position="429">
+              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/主内容/数论、位运算/位运算/获取大于正整数n的最近二次幂的值.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/位运算/位运算总结.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="255">
+                <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+                <folding>
+                  <element signature="e#799#875#0" />
+                  <element signature="e#876#904#0" />
+                  <element signature="e#1303#1335#0" />
+                  <element signature="e#1445#1477#0" />
+                  <element signature="e#1616#1653#0" />
+                  <element signature="e#1861#1888#0" />
+                  <element signature="e#2040#2067#0" />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -129,14 +142,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/状态机/状态机框架.md" />
         <option value="$PROJECT_DIR$/主内容/链表、树/链表/链表结构调整/LeetCode_328_奇偶链表.go" />
         <option value="$PROJECT_DIR$/主内容/链表、树/链表/链表间关系判断/判断两个链表是否相同.go" />
         <option value="$PROJECT_DIR$/主内容/链表、树/链表/链表性质判断/LeetCode_234_回文链表" />
         <option value="$PROJECT_DIR$/src/链表/常用链表代码.md" />
         <option value="$PROJECT_DIR$/src/搜索/记忆化搜索框架.md" />
         <option value="$PROJECT_DIR$/src/搜索/排列组合框架.md" />
-        <option value="$PROJECT_DIR$/src/位运算/位运算总结.md" />
         <option value="$PROJECT_DIR$/主内容/数论、位运算/数论/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/数论/数论知识.md" />
@@ -180,14 +191,16 @@
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/博弈问题/LeetCode_486_预测赢家.go" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_842_将数组拆分成斐波那契序列.go" />
         <option value="$PROJECT_DIR$/主内容/查找、排序、哈希、贪心/哈希/LeetCode_454_四数相加 II.go" />
+        <option value="$PROJECT_DIR$/主内容/数论、位运算/位运算/获取大于正整数n的最近二次幂的值.go" />
+        <option value="$PROJECT_DIR$/src/位运算/位运算总结.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-364" />
-    <option name="y" value="245" />
+    <option name="x" value="351" />
+    <option name="y" value="27" />
     <option name="width" value="1940" />
-    <option name="height" value="1100" />
+    <option name="height" value="846" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -210,20 +223,26 @@
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="位运算" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
               <item name="主内容" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
               <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="查找、排序、哈希、贪心" type="462c0819:PsiDirectoryNode" />
+              <item name="数论、位运算" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
               <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="查找、排序、哈希、贪心" type="462c0819:PsiDirectoryNode" />
-              <item name="哈希" type="462c0819:PsiDirectoryNode" />
+              <item name="数论、位运算" type="462c0819:PsiDirectoryNode" />
+              <item name="位运算" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -268,7 +287,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build test.go">
+  <component name="RunManager" selected="Go Build.go build 获取大于正整数n的最近二次幂的值.go">
     <configuration name="go build LeetCode_1215_步进数.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="算法学习" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -301,6 +320,14 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build 获取大于正整数n的最近二次幂的值.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="算法学习" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/主内容/数论、位运算/位运算/获取大于正整数n的最近二次幂的值.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="算法学习" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -311,6 +338,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 获取大于正整数n的最近二次幂的值.go" />
         <item itemvalue="Go Build.go build test.go" />
         <item itemvalue="Go Build.go build 冒泡排序.go" />
         <item itemvalue="Go Build.go build LeetCode_1215_步进数.go" />
@@ -319,14 +347,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16950959" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17110874" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.07168894" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30255163" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36225596" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -367,20 +394,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/子串问题/二维子串问题/LeetCode_718_最长重复子数组.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1716">
-          <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/子序列问题/一维子序列问题/LeetCode_673_最长递增子序列的个数.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/子序列问题/二维子序列问题/LeetCode_1027_最长等差数列.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2640">
@@ -684,6 +697,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_37_解数独_队列法_数组优化.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="79" />
+          <folding>
+            <element signature="n#!!block;n#solveSudokuExec#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/博弈问题/LeetCode_877_石子游戏_dp.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3036">
@@ -712,20 +735,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_37_解数独_队列法_数组优化.go">
+    <entry file="file://$PROJECT_DIR$/主内容/查找、排序、哈希、贪心/哈希/LeetCode_454_四数相加 II.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="79" />
-          <folding>
-            <element signature="n#!!block;n#solveSudokuExec#0" />
-          </folding>
+        <state relative-caret-position="429">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/查找、排序、哈希、贪心/哈希/LeetCode_454_四数相加 II.go">
+    <entry file="file://$PROJECT_DIR$/src/位运算/位运算总结.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+            <folding>
+              <element signature="e#799#875#0" />
+              <element signature="e#876#904#0" />
+              <element signature="e#1303#1335#0" />
+              <element signature="e#1445#1477#0" />
+              <element signature="e#1616#1653#0" />
+              <element signature="e#1861#1888#0" />
+              <element signature="e#2040#2067#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/数论、位运算/位运算/获取大于正整数n的最近二次幂的值.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        <state relative-caret-position="594">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
