@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_526_优美的排列.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/主内容/双指针/滑动窗口/LeetCode_978_最长湍流子数组.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/主内容/查找、排序、哈希、贪心/哈希/LeetCode_409_最长回文子串.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯记忆化搜索/博弈问题/LeetCode_464_我能赢吗.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯记忆化搜索/博弈问题/LeetCode_464_我能赢吗_优雅点.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/主内容/未分类模块/字符串与数组操作/简单字符串操作/LeetCode_434_字符串中的单词数.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/查找/二分查找框架.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/查找/二分查找框架.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/滑动窗口/滑动窗口框架.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/滑动窗口/滑动窗口框架.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/主内容/双指针/滑动窗口/LeetCode_209_长度最小的子数组.go" beforeDir="false" afterPath="$PROJECT_DIR$/主内容/双指针/滑动窗口/LeetCode_209_长度最小的子数组.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/主内容/双指针/滑动窗口/LeetCode_76_最小覆盖子串.go" beforeDir="false" afterPath="$PROJECT_DIR$/主内容/双指针/滑动窗口/LeetCode_76_最小覆盖子串.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,11 +34,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/主内容/双指针/滑动窗口/LeetCode_424_替换后的最长重复字符.go">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/主内容/双指针/滑动窗口/LeetCode_1208_尽可能使字符串相等.go">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -56,10 +47,37 @@
         <entry file="file://$PROJECT_DIR$/src/滑动窗口/滑动窗口框架.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="594">
-                <caret line="60" column="1" lean-forward="true" selection-start-line="27" selection-end-line="60" selection-end-column="1" />
+              <first_editor relative-caret-position="1881">
+                <caret line="60" column="1" lean-forward="true" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/主内容/未分类模块/字符串与数组操作/简单字符串操作/LeetCode_434_字符串中的单词数.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="2" selection-start-line="2" selection-end-line="18" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯记忆化搜索/博弈问题/LeetCode_464_我能赢吗.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯记忆化搜索/博弈问题/LeetCode_464_我能赢吗_优雅点.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="740">
+              <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -73,29 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/主内容/双指针/滑动窗口/LeetCode_3_无重复字符的最长子串.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-548">
               <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/主内容/查找、排序、哈希、贪心/哈希/LeetCode_409_最长回文子串.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1155">
-              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_526_优美的排列.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="693">
-              <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -123,11 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/动态规划/一维子序列问题框架.md" />
-        <option value="$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/数组问题/求数组中组成n的排列数.go" />
-        <option value="$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/数组问题/求数组中组成n的组合数.go" />
-        <option value="$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/数组问题/求数组中组成n的最小元素数.go" />
-        <option value="$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/数组问题/README.md" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/数组问题/求数组中组成n的最小元素数_redo.go" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/矩阵问题/LeetCode_62_不同路径.go" />
         <option value="$PROJECT_DIR$/src/数组/排列组合种数问题.md" />
@@ -174,10 +169,15 @@
         <option value="$PROJECT_DIR$/src/滑动窗口/滑动窗口框架.md" />
         <option value="$PROJECT_DIR$/主内容/双指针/滑动窗口/LeetCode_76_最小覆盖子串.go" />
         <option value="$PROJECT_DIR$/主内容/双指针/滑动窗口/LeetCode_209_长度最小的子数组.go" />
+        <option value="$PROJECT_DIR$/主内容/未分类模块/字符串与数组操作/简单字符串操作/LeetCode_434_字符串中的单词数.go" />
+        <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯记忆化搜索/博弈问题.go" />
+        <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯记忆化搜索/LeetCode_464_我能赢吗.go" />
+        <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯记忆化搜索/博弈问题/LeetCode_464_我能赢吗.go" />
+        <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯记忆化搜索/博弈问题/LeetCode_464_我能赢吗_优雅点.go" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="221" />
     <option name="y" value="22" />
     <option name="width" value="1940" />
@@ -204,12 +204,6 @@
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="滑动窗口" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
               <item name="主内容" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -222,14 +216,56 @@
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
               <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="双指针" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="搜索" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
               <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="双指针" type="462c0819:PsiDirectoryNode" />
-              <item name="滑动窗口" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="深度优先搜索" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="主内容" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="深度优先搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="回溯记忆化搜索" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="主内容" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="深度优先搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="回溯记忆化搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="博弈问题" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="主内容" type="462c0819:PsiDirectoryNode" />
+              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="主内容" type="462c0819:PsiDirectoryNode" />
+              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
+              <item name="字符串与数组操作" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="主内容" type="462c0819:PsiDirectoryNode" />
+              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
+              <item name="字符串与数组操作" type="462c0819:PsiDirectoryNode" />
+              <item name="简单字符串操作" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -247,19 +283,19 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\回溯" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\动态规划\匹配问题" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\记忆化搜索" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\回溯\排列组合问题\套模板" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\双指针\n数和问题" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\回溯记忆化搜索\博弈问题" />
       <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索" />
       <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\回溯" />
       <recent name="C:\Users\hasee\Desktop\算法学习\主内容\双指针" />
       <recent name="C:\Users\hasee\Desktop\算法学习\主内容\双指针\读写指针" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\src\数论" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\回溯记忆化搜索\博弈问题" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\回溯" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\动态规划\匹配问题" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\记忆化搜索" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\回溯\排列组合问题\套模板" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -324,10 +360,10 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="221" y="22" width="1940" height="1055" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15531915" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16364606" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -373,33 +409,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/主内容/双指针/n数和问题/LeetCode_1_两数之和.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/双指针/读写指针/LeetCode_922_按奇偶排序数组2.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1485">
-            <caret line="47" column="15" lean-forward="true" selection-start-line="47" selection-start-column="15" selection-end-line="47" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/链表、树/链表/链表性质判断/LeetCode_234_回文链表">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" selection-start-line="7" selection-end-line="86" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/数论/数论知识.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -729,20 +738,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/双指针/滑动窗口/LeetCode_3_无重复字符的最长子串.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-548">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/滑动窗口/滑动窗口框架.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="594">
-            <caret line="60" column="1" lean-forward="true" selection-start-line="27" selection-end-line="60" selection-end-column="1" />
+          <first_editor relative-caret-position="1881">
+            <caret line="60" column="1" lean-forward="true" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/双指针/滑动窗口/LeetCode_3_无重复字符的最长子串.go">
+    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/字符串与数组操作/简单字符串操作/LeetCode_434_字符串中的单词数.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-548">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="66">
+          <caret line="2" selection-start-line="2" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯记忆化搜索/博弈问题.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯记忆化搜索/博弈问题/LeetCode_464_我能赢吗.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯记忆化搜索/博弈问题/LeetCode_464_我能赢吗_优雅点.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
         </state>
       </provider>
     </entry>
