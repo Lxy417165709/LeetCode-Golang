@@ -1,7 +1,7 @@
 package 博弈问题
 
-var isVisit map[int]bool	// 用于记忆化
-var isUse int			// 用于判断该数字是否可取用
+var isVisit map[int]bool // 用于记忆化
+var isUse int            // 用于判断该数字是否可取用
 
 func canIWin(maxChoosableInteger int, desiredTotal int) bool {
 	if desiredTotal == 0 {
@@ -40,16 +40,16 @@ func canIWinExec(maxChoosableInteger int, desiredTotal int, total, turn int) boo
 		if (isUse & toBit(i)) != 0 {
 			continue
 		}
-		isUse ^= toBit(i)	// 标记已用
-		ans = canIWinExec(maxChoosableInteger, desiredTotal, total+i, turn^1)	// 该玩家做出选择后，轮到下一个玩家, turn^1为轮转操作。
-		isUse ^= toBit(i)	// 标记解除
+		isUse ^= toBit(i)                                                     // 标记已用
+		ans = canIWinExec(maxChoosableInteger, desiredTotal, total+i, turn^1) // 该玩家做出选择后，轮到下一个玩家, turn^1为轮转操作。
+		isUse ^= toBit(i)                                                     // 标记解除
 
 		// 如果当前轮到第一个玩家，他的某个选择可以让第一个玩家(即自己)赢，那么他就做出这个选择。
-		if turn == 0  && ans == true{
+		if turn == 0 && ans == true {
 			break
 		}
 		// 如果当前轮到第二个玩家，他的某个选择可以让第一个玩家输，那么他就做出这个选择。
-		if turn == 1 && ans == false{
+		if turn == 1 && ans == false {
 			return false
 		}
 	}
