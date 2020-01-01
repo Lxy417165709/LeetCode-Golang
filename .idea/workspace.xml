@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/主内容/数论、位运算/位运算/LeetCode_709_转换成小写字母.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/主内容/未分类模块/前缀和/LeetCode_724_寻找数组的中心索引.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/主内容/查找、排序、哈希、贪心/哈希/LeetCode_781_森林中的兔子.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/LeetCode_746_使用最小花费爬楼梯.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_720_词典中最长的单词.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_720_词典中最长的单词_采用排序+map.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_706_设计哈希映射.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_706_设计哈希映射_采用类似拉链法解决哈希冲突.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,67 +18,67 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/LeetCode_47_全排列 II.go">
+        <entry file="file://$PROJECT_DIR$/主内容/数论、位运算/位运算/LeetCode_709_转换成小写字母.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="330">
+              <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/LeetCode_1079_活字印刷_重写.go">
+        <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/LeetCode_746_使用最小花费爬楼梯.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="264">
+              <caret line="26" selection-start-line="26" selection-end-line="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/LeetCode_1079_活字印刷_不求具体排列.go">
+        <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_706_设计哈希映射.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1023">
-              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+            <state relative-caret-position="627">
+              <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/搜索/排列组合框架.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1914">
-                <caret line="58" column="530" selection-start-line="58" selection-start-column="530" selection-end-line="58" selection-end-column="530" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_706_设计哈希映射_采用类似拉链法解决哈希冲突.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/主内容/查找、排序、哈希、贪心/哈希/LeetCode_781_森林中的兔子.go">
+        <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_720_词典中最长的单词.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/主内容/未分类模块/前缀和/LeetCode_724_寻找数组的中心索引.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+            <state relative-caret-position="330">
+              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/主内容/数论、位运算/位运算/LeetCode_709_转换成小写字母.go">
+        <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_720_词典中最长的单词_采用排序+map.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="476">
+              <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+              <folding>
+                <element signature="e#14#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/Golang/Go/src/builtin/builtin.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -123,11 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/数论/数论知识.md" />
-        <option value="$PROJECT_DIR$/主内容/未分类模块/二分/LeetCode_1201_丑数 III.go" />
-        <option value="$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/子序列问题/二维子序列问题/LeetCode_516_最长回文子序列.go" />
-        <option value="$PROJECT_DIR$/src/数组/数组问题.md" />
-        <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/LeetCode_44_通配符匹配.go" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/LeetCode_44_通配符匹配_字符串哈希超时版.go" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/匹配问题/LeetCode_10_正则表达式匹配.go" />
         <option value="$PROJECT_DIR$/主内容/未分类模块/未分类/LeetCode_942_增减字符串匹配.go" />
@@ -174,14 +171,19 @@
         <option value="$PROJECT_DIR$/主内容/查找、排序、哈希、贪心/哈希/LeetCode_781_森林中的兔子.go" />
         <option value="$PROJECT_DIR$/主内容/未分类模块/前缀和/LeetCode_724_寻找数组的中心索引.go" />
         <option value="$PROJECT_DIR$/主内容/数论、位运算/位运算/LeetCode_709_转换成小写字母.go" />
+        <option value="$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/LeetCode_746_使用最小花费爬楼梯.go" />
+        <option value="$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_706_设计哈希映射.go" />
+        <option value="$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_706_设计哈希映射_采用类似拉链法解决哈希冲突.go" />
+        <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_720_词典中最长的单词.go" />
+        <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_720_词典中最长的单词_采用排序+map.go" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-187" />
-    <option name="y" value="310" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="717" />
+    <option name="y" value="125" />
     <option name="width" value="1940" />
-    <option name="height" value="846" />
+    <option name="height" value="844" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -211,14 +213,35 @@
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
               <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="数论、位运算" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="搜索" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
               <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="数论、位运算" type="462c0819:PsiDirectoryNode" />
-              <item name="位运算" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="深度优先搜索" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="主内容" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="深度优先搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="回溯" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="主内容" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划、搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="深度优先搜索" type="462c0819:PsiDirectoryNode" />
+              <item name="回溯" type="462c0819:PsiDirectoryNode" />
+              <item name="排列组合问题" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -236,19 +259,19 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\回溯\排列组合问题" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\记忆化搜索\博弈问题" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\回溯记忆化搜索\博弈问题" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\回溯" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\动态规划\匹配问题" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\回溯" />
       <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\记忆化搜索" />
       <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\回溯记忆化搜索\博弈问题" />
       <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索" />
-      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\回溯" />
       <recent name="C:\Users\hasee\Desktop\算法学习\主内容\双指针" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\回溯\排列组合问题" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\未分类模块\设计题" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\记忆化搜索\博弈问题" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\回溯记忆化搜索\博弈问题" />
+      <recent name="C:\Users\hasee\Desktop\算法学习\主内容\动态规划、搜索\搜索\深度优先搜索\回溯" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -322,10 +345,10 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-187" y="310" width="1940" height="846" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17606384" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17803837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -371,63 +394,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/状态机/LeetCode_376_摆动序列.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/二叉树/常用二叉树代码.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2244">
-            <caret line="394" column="18" selection-start-line="394" selection-start-column="18" selection-end-line="394" selection-end-column="18" />
-            <folding>
-              <element signature="e#26#142#0" />
-              <element signature="e#150#159#0" />
-              <element signature="e#160#181#0" />
-              <element signature="e#361#382#0" />
-              <element signature="e#1254#1275#0" />
-              <element signature="e#1900#1921#0" />
-              <element signature="e#2088#2107#0" />
-              <element signature="e#2669#2688#0" />
-              <element signature="e#3693#3702#0" />
-              <element signature="e#7023#7053#0" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/状态机/LeetCode_65_有效数字.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" selection-start-line="2" selection-end-line="48" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/子串问题/二维子串问题/LeetCode_718_最长重复子数组_套模板.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1518">
-          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/字符串与数组操作/简单字符串操作/LeetCode_890_查找和替换模式.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/链表、树/树/二叉树/二叉树构建/LeetCode_889_根据前序和后序构造二叉树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="10" selection-start-line="10" selection-end-line="31" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/套模板/LeetCode_46_全排列_套模板.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -693,6 +659,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/前缀和/LeetCode_724_寻找数组的中心索引.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/LeetCode_46_全排列.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -706,17 +679,55 @@
     <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/LeetCode_377_组合总和 Ⅳ.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/前缀和/LeetCode_724_寻找数组的中心索引.go">
+    <entry file="file://$PROJECT_DIR$/主内容/数论、位运算/位运算/LeetCode_709_转换成小写字母.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        <state relative-caret-position="330">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/数论、位运算/位运算/LeetCode_709_转换成小写字母.go">
+    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/LeetCode_746_使用最小花费爬楼梯.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="264">
+          <caret line="26" selection-start-line="26" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_706_设计哈希映射.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_706_设计哈希映射_采用类似拉链法解决哈希冲突.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_720_词典中最长的单词.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Golang/Go/src/builtin/builtin.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_720_词典中最长的单词_采用排序+map.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <folding>
+            <element signature="e#14#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
