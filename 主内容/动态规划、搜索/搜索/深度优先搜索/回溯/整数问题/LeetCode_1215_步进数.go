@@ -1,4 +1,4 @@
-package main
+package 整数问题
 
 import (
 	"fmt"
