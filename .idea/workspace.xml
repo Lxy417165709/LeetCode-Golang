@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/广度优先搜索/LeetCode_841_钥匙和房间_BFS.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/LeetCode_841_钥匙和房间.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/LeetCode_841_钥匙和房间_数组哈希.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/主内容/未分类模块/二分/LeetCode_875_爱吃香蕉的珂珂.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/主内容/链表、树/树/二叉树/二叉树属性获取/LeetCode_1302_层数最深叶子节点的和.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/主内容/查找、排序、哈希、贪心/贪心/LeetCode_860_柠檬水找零.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/主内容/链表、树/树/二叉树/二叉树结构调整/LeetCode_998_最大二叉树 Ⅱ.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,24 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/矩阵问题/LeetCode_1301_最大得分的路径数目.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2706">
-              <caret line="82" column="25" selection-start-line="82" selection-start-column="25" selection-end-line="82" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/矩阵问题/LeetCode_1301_最大得分的路径数目_优雅点.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1815">
-              <caret line="55" column="12" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/主内容/链表、树/树/二叉树/二叉树属性获取/LeetCode_1302_层数最深叶子节点的和.go">
           <provider selected="true" editor-type-id="text-editor">
@@ -62,11 +41,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/主内容/未分类模块/二分/LeetCode_875_爱吃香蕉的珂珂.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="363">
-              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/主内容/查找、排序、哈希、贪心/贪心/LeetCode_860_柠檬水找零.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/主内容/链表、树/树/二叉树/二叉树结构调整/LeetCode_998_最大二叉树 Ⅱ.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -122,8 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_37_解数独_队列法_数组优化.go" />
-        <option value="$PROJECT_DIR$/src/查找/二分查找框架.md" />
         <option value="$PROJECT_DIR$/主内容/查找、排序、哈希、贪心/哈希/LeetCode_409_最长回文子串.go" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/LeetCode_526_优美的排列.go" />
         <option value="$PROJECT_DIR$/主内容/双指针/滑动窗口/LeetCode_978_最长湍流子数组.go" />
@@ -173,12 +168,14 @@
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/LeetCode_841_钥匙和房间.go" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/LeetCode_841_钥匙和房间_数组哈希.go" />
         <option value="$PROJECT_DIR$/主内容/未分类模块/二分/LeetCode_875_爱吃香蕉的珂珂.go" />
+        <option value="$PROJECT_DIR$/主内容/查找、排序、哈希、贪心/贪心/LeetCode_860_柠檬水找零.go" />
+        <option value="$PROJECT_DIR$/主内容/链表、树/树/二叉树/二叉树结构调整/LeetCode_998_最大二叉树 Ⅱ.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="213" />
-    <option name="y" value="50" />
+    <option name="x" value="-180" />
+    <option name="y" value="102" />
     <option name="width" value="1940" />
     <option name="height" value="844" />
   </component>
@@ -203,14 +200,31 @@
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
               <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
+              <item name="链表、树" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法学习" type="462c0819:PsiDirectoryNode" />
               <item name="主内容" type="462c0819:PsiDirectoryNode" />
-              <item name="未分类模块" type="462c0819:PsiDirectoryNode" />
-              <item name="二分" type="462c0819:PsiDirectoryNode" />
+              <item name="链表、树" type="462c0819:PsiDirectoryNode" />
+              <item name="树" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="主内容" type="462c0819:PsiDirectoryNode" />
+              <item name="链表、树" type="462c0819:PsiDirectoryNode" />
+              <item name="树" type="462c0819:PsiDirectoryNode" />
+              <item name="二叉树" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="算法学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法学习" type="462c0819:PsiDirectoryNode" />
+              <item name="主内容" type="462c0819:PsiDirectoryNode" />
+              <item name="链表、树" type="462c0819:PsiDirectoryNode" />
+              <item name="树" type="462c0819:PsiDirectoryNode" />
+              <item name="二叉树" type="462c0819:PsiDirectoryNode" />
+              <item name="二叉树结构调整" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -315,7 +329,7 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="213" y="50" width="1940" height="844" extended-state="0" />
+    <frame x="-180" y="102" width="1940" height="844" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2143617" />
@@ -364,23 +378,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/滑动窗口/滑动窗口框架.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1980">
-            <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/字符串与数组操作/简单字符串操作/LeetCode_434_字符串中的单词数.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" selection-start-line="2" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/记忆化搜索/博弈问题/LeetCode_464_我能赢吗.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -711,7 +708,21 @@
     <entry file="file://$PROJECT_DIR$/主内容/未分类模块/二分/LeetCode_875_爱吃香蕉的珂珂.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/查找、排序、哈希、贪心/贪心/LeetCode_860_柠檬水找零.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/链表、树/树/二叉树/二叉树结构调整/LeetCode_998_最大二叉树 Ⅱ.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
         </state>
       </provider>
     </entry>
