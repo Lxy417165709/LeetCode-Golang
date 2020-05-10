@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_622_设计循环队列.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_641_设计循环双端队列.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_460_LFU缓存.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,13 +13,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_460_LFU缓存.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="141" column="1" lean-forward="true" selection-start-line="141" selection-start-column="1" selection-end-line="141" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!block;n#Get#0" />
+                <element signature="n#!!block;n#Put#0" />
+                <element signature="n#!!block;n#InsertNewKey#0" />
+                <element signature="n#!!block;n#removeLastKey#0" />
+                <element signature="n#!!block;n#flashKey#0" />
+                <element signature="n#!!block;n#getValue#0" />
+                <element signature="n#!!block;n#keyIsExist#0" />
+                <element signature="n#!!block;n#capacityIsValid#0" />
+                <element signature="n#!!block;n#isFull#0" />
+                <element signature="n#!!block;n#increaseLength#0" />
+                <element signature="n#!!block;n#decreaseLength#0" />
+                <element signature="n#!!block;n#maintainNodeInsertOperation#0" />
+                <element signature="n#!!block;n#maintainNodeDeleteOperation#0" />
+                <element signature="n#!!block;n#getReferenceNodeOfInsertOperation#0" />
+                <element signature="n#!!block;n#AddFrequencyMappingRelation#0" />
+                <element signature="n#!!block;n#DeleteFrequencyMappingRelation#0" />
+                <element signature="n#!!block;n#RemoveNode#0" />
+                <element signature="e#5432#5508#0" />
+                <element signature="n#!!block;n#NewNode#0" />
+                <element signature="n#!!block;n#BreakLink#0" />
+                <element signature="n#!!block;n#LinkAfter#0" />
+                <element signature="n#!!block;n#IsFirstNode#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Go_Test/newType.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_355_设计推特.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1881">
+            <state relative-caret-position="1815">
               <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
               <folding>
                 <element signature="n#!!block;n#NewTweet#0" />
+                <element signature="n#!!block;n#IsNewerThan#0" />
                 <element signature="n#!!block;n#GetReleaseTimeStamp#0" />
                 <element signature="n#!!block;n#GetId#0" />
                 <element signature="n#!!block;n#NewNode#0" />
@@ -47,45 +89,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_641_设计循环双端队列.go">
+        <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_173_二叉搜索树迭代器.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="759">
-              <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+            <state relative-caret-position="2607">
+              <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
               <folding>
-                <element signature="n#!!block;n#GetVal#0" />
-                <element signature="n#!!block;n#Constructor#0" />
-                <element signature="n#!!block;n#deleteNodeInList#0" />
+                <element signature="n#!!block;n#isEmpty#0" />
+                <element signature="n#!!block;n#length#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_622_设计循环队列.go">
+        <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_1381_设计一个支持增量操作的栈.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2871">
-              <caret line="87" column="1" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_1396_设计地铁系统.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+            <state relative-caret-position="594">
+              <caret line="18" column="29" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="29" />
               <folding>
-                <element signature="e#27#47#0" />
-                <element signature="n#!!block;n#NewArrival#0" />
-                <element signature="e#82#131#0" />
-                <element signature="n#!!block;n#NewTrip#0" />
-                <element signature="n#!!block;n#GetBackAndForthCost#0" />
-                <element signature="n#!!block;n#GetAverageTime#0" />
-                <element signature="n#!!block;n#recordNewTrip#0" />
-                <element signature="n#!!block;n#recordNewTrip#1" />
-                <element signature="n#!!block;n#appendNewBackAndForthCost#0" />
-                <element signature="n#!!block;n#getAverage#0" />
-                <element signature="n#!!block;n#FormIdentity#0" />
+                <element signature="n#!!block;n#Constructor#0" />
+                <element signature="n#!!block;n#Push#0" />
+                <element signature="n#!!block;n#Pop#0" />
+                <element signature="n#!!block;n#Increment#0" />
+                <element signature="n#!!block;n#isFull#0" />
+                <element signature="n#!!block;n#isEmpty#0" />
+                <element signature="n#!!block;n#pushExec#0" />
               </folding>
             </state>
           </provider>
@@ -105,7 +133,16 @@
       <find>不含</find>
       <find>x</find>
       <find>b</find>
+      <find>SearchFromThis</find>
+      <find>fmt</find>
+      <find>Keeper</find>
+      <find>Times</find>
+      <find>times</find>
+      <find>fm</find>
     </findStrings>
+    <replaceStrings>
+      <replace>SearchWordFromThis</replace>
+    </replaceStrings>
   </component>
   <component name="GOROOT" path="C:\Language\Go" />
   <component name="Git.Settings">
@@ -114,12 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/LeetCode_1079_活字印刷.go" />
-        <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/LeetCode_1079_活字印刷_重写.go" />
-        <option value="$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/LeetCode_1079_活字印刷_不求具体排列.go" />
-        <option value="$PROJECT_DIR$/src/搜索/排列组合框架.md" />
-        <option value="$PROJECT_DIR$/主内容/查找、排序、哈希、贪心/哈希/LeetCode_781_森林中的兔子.go" />
-        <option value="$PROJECT_DIR$/主内容/未分类模块/前缀和/LeetCode_724_寻找数组的中心索引.go" />
         <option value="$PROJECT_DIR$/主内容/数论、位运算/位运算/LeetCode_709_转换成小写字母.go" />
         <option value="$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/LeetCode_746_使用最小花费爬楼梯.go" />
         <option value="$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_706_设计哈希映射.go" />
@@ -165,12 +196,18 @@
         <option value="$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_641_设计循环双端队列.go" />
         <option value="$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_622_设计循环队列.go" />
         <option value="$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_1396_设计地铁系统.go" />
+        <option value="$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_1381_设计一个支持增量操作的栈.go" />
+        <option value="$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_676_实现一个魔法字典.go" />
+        <option value="$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_211_添加与搜索单词.go" />
+        <option value="$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_208_实现 Trie.go" />
+        <option value="$PROJECT_DIR$/../Go_Test/newType.go" />
+        <option value="$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_460_LFU缓存.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="37" />
-    <option name="y" value="29" />
+    <option name="x" value="201" />
+    <option name="y" value="50" />
     <option name="width" value="1940" />
     <option name="height" value="954" />
   </component>
@@ -179,6 +216,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,7 +246,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,6 +256,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -310,7 +348,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17537314" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26705757" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -323,8 +361,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4978678" weight="0.20824295" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5021322" side_tool="true" weight="0.20910075" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -356,40 +394,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/LeetCode_46_全排列.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/LeetCode_216_组合总和 III.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/搜索/深度优先搜索/回溯/排列组合问题/LeetCode_377_组合总和 Ⅳ.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/数论、位运算/位运算/LeetCode_709_转换成小写字母.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/动态规划、搜索/动态规划/LeetCode_746_使用最小花费爬楼梯.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="26" selection-start-line="26" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_706_设计哈希映射.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1353">
-          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_706_设计哈希映射_采用类似拉链法解决哈希冲突.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -646,10 +650,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_641_设计循环双端队列.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+          <folding>
+            <element signature="n#!!block;n#GetVal#0" />
+            <element signature="n#!!block;n#Constructor#0" />
+            <element signature="n#!!block;n#deleteNodeInList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_622_设计循环队列.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2871">
+          <caret line="87" column="1" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_1396_设计地铁系统.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!block;n#NewArrival#0" />
+            <element signature="n#!!block;n#NewTrip#0" />
+            <element signature="n#!!block;n#GetBackAndForthCost#0" />
+            <element signature="n#!!block;n#GetAverageTime#0" />
+            <element signature="n#!!block;n#appendNewBackAndForthCost#0" />
+            <element signature="n#!!block;n#getAverage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_146_LRU缓存机制.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+        <state relative-caret-position="2574">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
           <folding>
             <element signature="n#!!block;n#NewDoubleList#0" />
             <element signature="n#!!block;n#InsertToTail#0" />
@@ -666,23 +704,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_173_二叉搜索树迭代器.go">
+    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_676_实现一个魔法字典.go" />
+    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_211_添加与搜索单词.go" />
+    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_208_实现 Trie.go" />
+    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_460_LFU缓存.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
-          <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
+        <state relative-caret-position="528">
+          <caret line="141" column="1" lean-forward="true" selection-start-line="141" selection-start-column="1" selection-end-line="141" selection-end-column="1" />
           <folding>
-            <element signature="n#!!block;n#isEmpty#0" />
-            <element signature="n#!!block;n#length#0" />
+            <element signature="n#!!block;n#Get#0" />
+            <element signature="n#!!block;n#Put#0" />
+            <element signature="n#!!block;n#InsertNewKey#0" />
+            <element signature="n#!!block;n#removeLastKey#0" />
+            <element signature="n#!!block;n#flashKey#0" />
+            <element signature="n#!!block;n#getValue#0" />
+            <element signature="n#!!block;n#keyIsExist#0" />
+            <element signature="n#!!block;n#capacityIsValid#0" />
+            <element signature="n#!!block;n#isFull#0" />
+            <element signature="n#!!block;n#increaseLength#0" />
+            <element signature="n#!!block;n#decreaseLength#0" />
+            <element signature="n#!!block;n#maintainNodeInsertOperation#0" />
+            <element signature="n#!!block;n#maintainNodeDeleteOperation#0" />
+            <element signature="n#!!block;n#getReferenceNodeOfInsertOperation#0" />
+            <element signature="n#!!block;n#AddFrequencyMappingRelation#0" />
+            <element signature="n#!!block;n#DeleteFrequencyMappingRelation#0" />
+            <element signature="n#!!block;n#RemoveNode#0" />
+            <element signature="e#5432#5508#0" />
+            <element signature="n#!!block;n#NewNode#0" />
+            <element signature="n#!!block;n#BreakLink#0" />
+            <element signature="n#!!block;n#LinkAfter#0" />
+            <element signature="n#!!block;n#IsFirstNode#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Go_Test/newType.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_355_设计推特.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1881">
+        <state relative-caret-position="1815">
           <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
           <folding>
             <element signature="n#!!block;n#NewTweet#0" />
+            <element signature="n#!!block;n#IsNewerThan#0" />
             <element signature="n#!!block;n#GetReleaseTimeStamp#0" />
             <element signature="n#!!block;n#GetId#0" />
             <element signature="n#!!block;n#NewNode#0" />
@@ -707,41 +776,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_641_设计循环双端队列.go">
+    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_173_二叉搜索树迭代器.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+        <state relative-caret-position="2607">
+          <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
           <folding>
-            <element signature="n#!!block;n#GetVal#0" />
-            <element signature="n#!!block;n#Constructor#0" />
-            <element signature="n#!!block;n#deleteNodeInList#0" />
+            <element signature="n#!!block;n#isEmpty#0" />
+            <element signature="n#!!block;n#length#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_622_设计循环队列.go">
+    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_1381_设计一个支持增量操作的栈.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2871">
-          <caret line="87" column="1" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/主内容/未分类模块/设计题/LeetCode_1396_设计地铁系统.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        <state relative-caret-position="594">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="29" />
           <folding>
-            <element signature="e#27#47#0" />
-            <element signature="n#!!block;n#NewArrival#0" />
-            <element signature="e#82#131#0" />
-            <element signature="n#!!block;n#NewTrip#0" />
-            <element signature="n#!!block;n#GetBackAndForthCost#0" />
-            <element signature="n#!!block;n#GetAverageTime#0" />
-            <element signature="n#!!block;n#recordNewTrip#0" />
-            <element signature="n#!!block;n#recordNewTrip#1" />
-            <element signature="n#!!block;n#appendNewBackAndForthCost#0" />
-            <element signature="n#!!block;n#getAverage#0" />
-            <element signature="n#!!block;n#FormIdentity#0" />
+            <element signature="n#!!block;n#Constructor#0" />
+            <element signature="n#!!block;n#Push#0" />
+            <element signature="n#!!block;n#Pop#0" />
+            <element signature="n#!!block;n#Increment#0" />
+            <element signature="n#!!block;n#isFull#0" />
+            <element signature="n#!!block;n#isEmpty#0" />
+            <element signature="n#!!block;n#pushExec#0" />
           </folding>
         </state>
       </provider>
