@@ -128,5 +128,4 @@ func NewVector(x, y int) *Vector {
 		1. 分包
 		2. 将 (x, y) 封装为 Coordinate 结构体
 		3. 将 vector 封装为结构体
-
 */
