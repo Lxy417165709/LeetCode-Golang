@@ -1,4 +1,4 @@
-package main
+package 数学
 
 func isBoomerang(points [][]int) bool {
 	v1 := NewVector(points[0][0]-points[1][0],points[0][1]-points[1][1])
