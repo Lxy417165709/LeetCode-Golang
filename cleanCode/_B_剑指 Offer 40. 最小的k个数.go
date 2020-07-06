@@ -1,38 +1,47 @@
 package main
 
 func getLeastNumbers(arr []int, k int) []int {
-	selectSmallKth(arr,k)
+	makeKthSmallToRightPlace(arr,k)
 	return arr[:k]
 }
 
-func selectSmallKth(nums []int, k int) int {
+// 例子: A 的 rightPlace 就是：A处于某个位置，这个位置左边的元素都小于等于它，右边的元素都大于等于它。
+func makeKthSmallToRightPlace(nums []int, KthSmall int) {
 	l, r := 0, len(nums)-1
 	for l <= r {
 		index := randomPartition(nums, l, r)
-		if index+1 == k {
-			return nums[index]
+		XthSmall := index+1
+		if XthSmall == KthSmall {
+			return
 		} else {
-			if index+1 > k {
+			if XthSmall > KthSmall {
 				r = index - 1
 			} else {
 				l = index + 1
 			}
 		}
 	}
-	return -100000000 // 表示没找到 (k非法了)
+	// 到达这里表示:  原数组不存在第K小
 }
 
-// 选择第k大的数 (重复的数次序不等)
-func selectBigKth(nums []int, k int) int {
-	// 第k大 == 第 len(nums)-k+1 小
-	return selectSmallKth(nums, len(nums)-k+1)
+func makeKthBigToRightPlace(nums []int, KthBig int) {
+	makeKthSmallToRightPlace(nums, len(nums)-KthBig+1)
 }
 
-// 随机划分 (l，r在合法范围内)
-// 作用: 经过划分后，使得 元素x左边 <= 元素x <= 元素x右边，返回元素x此时在数组中的索引。
+// 返回值是一个索引，假如记做 index
+// 则 nums[index] 位于 rightPlace
+// 同 partition函数
 func randomPartition(nums []int, l int, r int) int {
-	randomIndex := rand.Intn(r-l+1) + l                     // 选择随机索引
-	nums[randomIndex], nums[l] = nums[l], nums[randomIndex] // 打乱数组
+	upsetArrayRandomly(nums,l,r)
+	return partition(nums,l,r)
+}
+
+func upsetArrayRandomly(nums []int, l int, r int) {
+	randomIndex := rand.Intn(r-l+1) + l
+	nums[randomIndex], nums[l] = nums[l], nums[randomIndex]
+}
+
+func partition(nums []int, l int, r int) int {
 	guardIndex := l
 	for l <= r {
 		for l <= r && nums[l] <= nums[guardIndex] {
@@ -51,7 +60,14 @@ func randomPartition(nums []int, l int, r int) int {
 
 
 
+
+
+
 /*
+
+	题目链接:
 	总结
 		1. 这题我是使用随机选择算法AC的，题解还有用排序、堆解决的。
+		2. l, r 可以抽象为区间
+		3. l其实可以命名为left,这样 l 就不会像 数字1 了。
 */
