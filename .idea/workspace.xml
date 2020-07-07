@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88cf6536-1ee9-4902-a537-cefacd698736" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cleanCode/929. 独特的电子邮件地址.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cleanCode/_S_907. 子数组的最小值之和.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cleanCode/剑指 Offer 63. 股票的最大利润.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cleanCode/动态规划/面试题 17.16. 按摩师.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cleanCode/数学/1492. n 的第 k 个因子.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cleanCode/面试题 17.11. 单词距离.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cleanCode/1022. 从根到叶的二进制数之和.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cleanCode/博弈/1140. 石子游戏 II.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cleanCode/博弈/1406. 石子游戏 III.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cleanCode/博弈/486. 预测赢家.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cleanCode/博弈/877. 石子游戏.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cleanCode/博弈/_S_1025. 除数博弈.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cleanCode/博弈/_S_464. 我能赢吗.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cleanCode/面试题 01.09. 字符串轮转.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cleanCode/面试题 16.01. 交换数字.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cleanCode/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/cleanCode/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cleanCode/_X_1037. 有效的回旋镖.go" beforeDir="false" afterPath="$PROJECT_DIR$/cleanCode/数学/1037. 有效的回旋镖.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,105 +22,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cleanCode/数学/1037. 有效的回旋镖.go">
+        <entry file="file://$PROJECT_DIR$/cleanCode/1022. 从根到叶的二进制数之和.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="47">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="561">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cleanCode/939. 最小面积矩形.go">
+        <entry file="file://$PROJECT_DIR$/cleanCode/面试题 16.01. 交换数字.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="88" column="69" selection-start-line="88" selection-start-column="69" selection-end-line="88" selection-end-column="69" />
+            <state relative-caret-position="264">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cleanCode/剑指 Offer 63. 股票的最大利润.go">
+        <entry file="file://$PROJECT_DIR$/cleanCode/面试题 01.09. 字符串轮转.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="543">
-              <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+            <state relative-caret-position="363">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cleanCode/面试题 17.11. 单词距离.go">
+        <entry file="file://$PROJECT_DIR$/cleanCode/博弈/1406. 石子游戏 III.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="99">
+              <caret line="3" selection-start-line="3" selection-end-line="76" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cleanCode/929. 独特的电子邮件地址.go">
+        <entry file="file://$PROJECT_DIR$/cleanCode/博弈/877. 石子游戏.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1038">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-              <folding>
-                <element signature="e#14#44#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="542">
+              <caret line="71" lean-forward="true" selection-start-line="2" selection-end-line="71" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cleanCode/_S_907. 子数组的最小值之和.go">
+        <entry file="file://$PROJECT_DIR$/cleanCode/博弈/486. 预测赢家.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1532">
+              <caret line="70" column="1" lean-forward="true" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cleanCode/博弈/_S_464. 我能赢吗.go">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cleanCode/Readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cleanCode/动态规划/面试题 17.16. 按摩师.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="641">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+              <caret column="10" selection-start-column="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cleanCode/数学/1492. n 的第 k 个因子.go">
+        <entry file="file://$PROJECT_DIR$/cleanCode/博弈/_S_1025. 除数博弈.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="112" column="15" selection-start-line="112" selection-start-column="15" selection-end-line="112" selection-end-column="15" />
-              <folding>
-                <element signature="n#!!block;n#kthFactor#1" />
-                <element signature="n#!!block;n#getSortedFactors#1" />
-                <element signature="n#!!block;n#getCountOfFactor#0" />
-              </folding>
+            <state>
+              <caret column="10" selection-start-column="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cleanCode/排序/剑指 Offer 45. 把数组排成最小的数.go">
+        <entry file="file://$PROJECT_DIR$/cleanCode/博弈/1140. 石子游戏 II.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#12#46#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="476">
+              <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/Language/Go/src/strings/strings.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33759">
+              <caret line="1027" column="5" selection-start-line="1027" selection-start-column="5" selection-end-line="1027" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -162,16 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cleanCode/剑指 Offer 58 - I. 翻转单词顺序.go" />
-        <option value="$PROJECT_DIR$/cleanCode/剑指 Offer 58 - II. 左旋转字符串.go" />
-        <option value="$PROJECT_DIR$/cleanCode/剑指 Offer 12. 矩阵中的路径.go" />
-        <option value="$PROJECT_DIR$/cleanCode/剑指 Offer 13. 机器人的运动范围.go" />
-        <option value="$PROJECT_DIR$/cleanCode/LCP 06. 拿硬币.go" />
-        <option value="$PROJECT_DIR$/cleanCode/剑指 Offer 60. n个骰子的点数_递归超时版.go" />
-        <option value="$PROJECT_DIR$/cleanCode/剑指 Offer 60. n个骰子的点数.go" />
-        <option value="$PROJECT_DIR$/cleanCode/面试题 01.08. 零矩阵.go" />
-        <option value="$PROJECT_DIR$/cleanCode/剑指 Offer 49. 丑数.go" />
-        <option value="$PROJECT_DIR$/cleanCode/面试题 01.04. 回文排列.go" />
         <option value="$PROJECT_DIR$/cleanCode/931. 下降路径最小和.go" />
         <option value="$PROJECT_DIR$/cleanCode/1200. 最小绝对差.go" />
         <option value="$PROJECT_DIR$/cleanCode/1419. 数青蛙.go" />
@@ -213,6 +190,16 @@
         <option value="$PROJECT_DIR$/cleanCode/动态规划/面试题 17.16. 按摩师.go" />
         <option value="$PROJECT_DIR$/cleanCode/数学/1492. n 的第 k 个因子.go" />
         <option value="$PROJECT_DIR$/cleanCode/数学/_B_1492. n 的第 k 个因子.go" />
+        <option value="$PROJECT_DIR$/cleanCode/1022. 从根到叶的二进制数之和.go" />
+        <option value="$PROJECT_DIR$/cleanCode/面试题 16.01. 交换数字.go" />
+        <option value="$PROJECT_DIR$/cleanCode/面试题 01.09. 字符串轮转.go" />
+        <option value="$PROJECT_DIR$/cleanCode/博弈/1140. 石子游戏 II.go" />
+        <option value="$PROJECT_DIR$/cleanCode/博弈/_S_1406. 石子游戏 III.go" />
+        <option value="$PROJECT_DIR$/cleanCode/博弈/1406. 石子游戏 III.go" />
+        <option value="$PROJECT_DIR$/cleanCode/博弈/877. 石子游戏.go" />
+        <option value="$PROJECT_DIR$/cleanCode/博弈/486. 预测赢家.go" />
+        <option value="$PROJECT_DIR$/cleanCode/博弈/_S_464. 我能赢吗.go" />
+        <option value="$PROJECT_DIR$/cleanCode/博弈/_S_1025. 除数博弈.go" />
       </list>
     </option>
   </component>
@@ -243,19 +230,7 @@
               <item name="Go_LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Go_LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="cleanCode" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Go_LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Go_LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="cleanCode" type="462c0819:PsiDirectoryNode" />
-              <item name="常用算法" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Go_LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Go_LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="cleanCode" type="462c0819:PsiDirectoryNode" />
-              <item name="数学" type="462c0819:PsiDirectoryNode" />
+              <item name="博弈" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -364,7 +339,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19296375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19509594" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -377,7 +352,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4978678" weight="0.28524947" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4978678" weight="0.8318872" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5021322" side_tool="true" weight="0.20910075" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -410,78 +385,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cleanCode/剑指 Offer 22. 链表中倒数第k个节点.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61">
-          <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cleanCode/剑指 Offer 58 - I. 翻转单词顺序.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-          <folding>
-            <element signature="e#14#44#0" expanded="true" />
-            <element signature="n#!!block;n#GetStringOfReverseWords#0" />
-            <element signature="n#!!block;n#formWords#0" />
-            <element signature="n#!!block;n#reverseWords#1" />
-            <element signature="n#!!block;n#getWordsSize#0" />
-            <element signature="n#!!block;n#isCharSpace#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cleanCode/_X_剑指 Offer 49. 丑数.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="27" selection-start-line="27" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cleanCode/931. 下降路径最小和.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cleanCode/面试题 01.04. 回文排列.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cleanCode/剑指 Offer 10- II. 青蛙跳台阶问题.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cleanCode/剑指 Offer 12. 矩阵中的路径.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3762">
-          <caret line="114" column="20" selection-start-line="114" selection-start-column="20" selection-end-line="114" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cleanCode/剑指 Offer 13. 机器人的运动范围.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2871">
-          <caret line="87" column="1" selection-start-line="69" selection-end-line="87" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cleanCode/1419. 数青蛙.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cleanCode/963. 最小面积矩形 II.go" />
     <entry file="file://$PROJECT_DIR$/cleanCode/1200. 最小绝对差.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
@@ -745,8 +648,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cleanCode/929. 独特的电子邮件地址.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1038">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="990">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="e#14#44#0" expanded="true" />
           </folding>
@@ -764,7 +667,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="165">
-            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <caret line="5" selection-start-line="5" selection-end-line="5" />
           </first_editor>
           <second_editor />
         </state>
@@ -772,20 +675,90 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cleanCode/动态规划/面试题 17.16. 按摩师.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="641">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        <state relative-caret-position="825">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cleanCode/数学/1492. n 的第 k 个因子.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="112" column="15" selection-start-line="112" selection-start-column="15" selection-end-line="112" selection-end-column="15" />
+        <state relative-caret-position="2442">
+          <caret line="104" column="9" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
           <folding>
             <element signature="n#!!block;n#kthFactor#1" />
             <element signature="n#!!block;n#getSortedFactors#1" />
             <element signature="n#!!block;n#getCountOfFactor#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cleanCode/1022. 从根到叶的二进制数之和.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cleanCode/面试题 16.01. 交换数字.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cleanCode/面试题 01.09. 字符串轮转.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Language/Go/src/strings/strings.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33759">
+          <caret line="1027" column="5" selection-start-line="1027" selection-start-column="5" selection-end-line="1027" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cleanCode/博弈/1140. 石子游戏 II.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cleanCode/博弈/1406. 石子游戏 III.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" selection-start-line="3" selection-end-line="76" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cleanCode/博弈/877. 石子游戏.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="71" lean-forward="true" selection-start-line="2" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cleanCode/博弈/486. 预测赢家.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1532">
+          <caret line="70" column="1" lean-forward="true" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cleanCode/博弈/_S_464. 我能赢吗.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cleanCode/博弈/_S_1025. 除数博弈.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
