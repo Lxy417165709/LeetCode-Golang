@@ -2,6 +2,41 @@ package main
 
 import "math/rand"
 
+const INF = 1000000000000
+
+// ------------ About Array ---------
+func getCountOfGreaterElement(nums []int, ref int) int {
+	return len(nums) - getIndexOfFirstGreater(nums, ref)
+}
+
+func getLengthOfLAS(nums []int) int {
+	LAS := make([]int, 0)
+	for i := 0; i < len(nums); i++ {
+		index := getIndexOfFirstGreaterOrEqual(LAS, nums[i])
+		if index == len(LAS) {
+			LAS = append(LAS, nums[i])
+		}
+		LAS[index] = nums[i]
+	}
+	return len(LAS)
+}
+
+func getMax(nums []int) int {
+	result := -INF
+	for i := 0; i < len(nums); i++ {
+		result = max(nums[i], result)
+	}
+	return result
+}
+
+func getMin(nums []int) int {
+	result := INF
+	for i := 0; i < len(nums); i++ {
+		result = min(nums[i], result)
+	}
+	return result
+}
+
 // ------------ About Judging ---------
 func isLetter(char byte) bool {
 	return char >= 'A' && char <= 'Z' || char >= 'a' && char <= 'z'
@@ -16,6 +51,17 @@ func get2DSlice(rows, column int) [][]int {
 	return slice
 }
 
+func NewSlice(oldSlice []int) []int {
+	newSlice := make([]int, len(oldSlice))
+	copy(newSlice, oldSlice)
+	return newSlice
+}
+
+func makeSliceINF(slice []int) {
+	for i := 0; i < len(slice); i++ {
+		slice[i] = INF
+	}
+}
 // ------------ About Comparing ---------
 func max(arr ...int) int {
 	if len(arr) == 1 {

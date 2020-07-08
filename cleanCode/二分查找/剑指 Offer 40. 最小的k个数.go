@@ -1,4 +1,6 @@
-package main
+package 二分查找
+
+import "math/rand"
 
 func getLeastNumbers(arr []int, k int) []int {
 	makeKthSmallToRightPlace(arr,k)
