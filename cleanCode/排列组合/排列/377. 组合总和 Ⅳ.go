@@ -2,7 +2,7 @@ package main
 
 // 注意: 此题其实是在求排列，而不是求组合。
 
-// ----------------- 求取所有排列，之后它的长度 (此法超时) -----------------
+// ----------------- 求取所有排列，之后求其长度 (此法超时) -----------------
 var permutations [][]int
 
 func combinationSum4(nums []int, target int) int {
@@ -101,17 +101,27 @@ func getCountOfPermutation(array []int, sumOfWantToSelect int) int {
 	return countOfPermutation
 }
 
-// ----------------- 将记忆化搜索转换为DP (AC) -----------------
+// ----------------- DP (AC) -----------------
 func combinationSum4(nums []int, target int) int {
-	countOfPermutationWithSpecificSum := make(map[int]int) // 可以将map改为数组，此时就需要判断数组下标是否越界
+	return getCountOfPermutation(nums,target)
+}
+
+
+func getCountOfPermutation(arrayOfElementGreaterThanZero []int, sumOfGreaterThanOrEqualZero int) int {
+	// 这个dp其实经过了状态压缩
+	// 原始二维dp是: dp[i][j]表示用数组的前i个元素可以凑成总和j的排列个数
+	countOfPermutationWithSpecificSum := make([]int, sumOfGreaterThanOrEqualZero+1)
 	countOfPermutationWithSpecificSum[0] = 1
-	for i := 1; i <= target; i++ {
-		for t := 0; t < len(nums); t++ {
-			countOfPermutationWithSpecificSum[i] += countOfPermutationWithSpecificSum[i-nums[t]]
+	for i := 1; i <= sumOfGreaterThanOrEqualZero; i++ {
+		for t := 0; t < len(arrayOfElementGreaterThanZero); t++ {
+			if i-arrayOfElementGreaterThanZero[t]>=0{
+				countOfPermutationWithSpecificSum[i] += countOfPermutationWithSpecificSum[i-arrayOfElementGreaterThanZero[t]]
+			}
 		}
 	}
-	return countOfPermutationWithSpecificSum[target]
+	return countOfPermutationWithSpecificSum[sumOfGreaterThanOrEqualZero]
 }
+
 
 /*
 	题目链接: https://leetcode-cn.com/problems/combination-sum-iv/submissions/

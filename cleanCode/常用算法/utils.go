@@ -37,6 +37,32 @@ func getMin(nums []int) int {
 	return result
 }
 
+
+func getCountOfCombination(arrayOfElementGreaterThanZero []int, sumOfGreaterThanOrEqualZero int) int {
+	countOfCombinationWithSpecificSum := make([]int, sumOfGreaterThanOrEqualZero+1)
+	countOfCombinationWithSpecificSum[0] = 1
+	for i := 0; i < len(arrayOfElementGreaterThanZero); i++ {
+		for t := 1; t <= sumOfGreaterThanOrEqualZero; t++ {
+			if t-arrayOfElementGreaterThanZero[i] >= 0 {
+				countOfCombinationWithSpecificSum[t] += countOfCombinationWithSpecificSum[t-arrayOfElementGreaterThanZero[i]]
+			}
+		}
+	}
+	return countOfCombinationWithSpecificSum[sumOfGreaterThanOrEqualZero]
+}
+func getCountOfPermutation(arrayOfElementGreaterThanZero []int, sumOfGreaterThanOrEqualZero int) int {
+	countOfPermutationWithSpecificSum := make([]int, sumOfGreaterThanOrEqualZero+1)
+	countOfPermutationWithSpecificSum[0] = 1
+	for i := 1; i <= sumOfGreaterThanOrEqualZero; i++ {
+		for t := 0; t < len(arrayOfElementGreaterThanZero); t++ {
+			if i-arrayOfElementGreaterThanZero[t] >= 0 {
+				countOfPermutationWithSpecificSum[i] += countOfPermutationWithSpecificSum[i-arrayOfElementGreaterThanZero[t]]
+			}
+		}
+	}
+	return countOfPermutationWithSpecificSum[sumOfGreaterThanOrEqualZero]
+}
+
 // ------------ About Judging ---------
 func isLetter(char byte) bool {
 	return char >= 'A' && char <= 'Z' || char >= 'a' && char <= 'z'
@@ -62,6 +88,7 @@ func makeSliceINF(slice []int) {
 		slice[i] = INF
 	}
 }
+
 // ------------ About Comparing ---------
 func max(arr ...int) int {
 	if len(arr) == 1 {
