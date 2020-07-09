@@ -5,6 +5,18 @@ import "math/rand"
 const INF = 1000000000000
 
 // ------------ About Array ---------
+func getMaxSumOfSubArray(nums []int) int {
+	if len(nums) == 0 {
+		return 0
+	}
+	maxSumOfSubArrayEndPreNum := make([]int, len(nums)+1)
+	maxSumOfSubArrayEndPreNum[0] = -INF
+	for i := 1; i <= len(nums); i++ {
+		maxSumOfSubArrayEndPreNum[i] = max(maxSumOfSubArrayEndPreNum[i-1]+nums[i-1], nums[i-1])
+	}
+	return getMax(maxSumOfSubArrayEndPreNum)
+}
+
 func getCountOfGreaterElement(nums []int, ref int) int {
 	return len(nums) - getIndexOfFirstGreater(nums, ref)
 }
@@ -36,7 +48,6 @@ func getMin(nums []int) int {
 	}
 	return result
 }
-
 
 func getCountOfCombination(arrayOfElementGreaterThanZero []int, sumOfGreaterThanOrEqualZero int) int {
 	countOfCombinationWithSpecificSum := make([]int, sumOfGreaterThanOrEqualZero+1)

@@ -1,4 +1,4 @@
-package main
+package Geek
 
 func minNumberOfFrogs(croakOfFrogs string) int {
 	const croak = "croak"

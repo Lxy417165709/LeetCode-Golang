@@ -1,4 +1,4 @@
-package main
+package 贪心
 
 import "strconv"
 
