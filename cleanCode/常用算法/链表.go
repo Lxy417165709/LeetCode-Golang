@@ -1,6 +1,61 @@
 package main
 
 // -------------------------- 获取 ----------------------------
+func getEntranceNodeOfCycle(head *ListNode) *ListNode {
+	nodeInCycle := getNodeInCycle(head)
+	if nodeInCycle == nil {
+		return nil
+	}
+	curC, curH := nodeInCycle, head
+	for curC != curH {
+		curC = curC.Next
+		curH = curH.Next
+	}
+	return curC
+}
+
+func getNodeInCycle(head *ListNode) *ListNode {
+	slow, fast := head, head
+	for fast != nil && fast.Next != nil {
+		slow = slow.Next
+		fast = fast.Next.Next
+		if slow == fast {
+			return slow
+		}
+	}
+	return nil
+}
+
+func getLength(list *ListNode) int {
+	cur := list
+	length := 0
+	for cur != nil {
+		length++
+		cur = cur.Next
+	}
+	return length
+}
+
+func getLastKthNode(head *ListNode, k int) *ListNode {
+	aft := getKthNode(head, k)
+	cur := head
+	for aft.Next != nil {
+		cur = cur.Next
+		aft = aft.Next
+	}
+	return cur
+}
+
+func getKthNode(head *ListNode, k int) *ListNode {
+	cur := head
+	moveTimes := k - 1
+	for cur != nil && moveTimes > 0 {
+		moveTimes--
+		cur = cur.Next
+	}
+	return cur
+}
+
 func getRightMiddleNode(head *ListNode) *ListNode {
 	slow, fast := head, head
 	for fast != nil && fast.Next != nil {
@@ -39,6 +94,13 @@ func getIntersectionNode(headA, headB *ListNode) *ListNode {
 	return curA
 }
 
+func getTailNode(notNilList *ListNode) *ListNode {
+	cur := notNilList
+	for cur.Next != nil {
+		cur = cur.Next
+	}
+	return cur
+}
 // ---------------------------- 判断 ----------------------------
 func hasCycle(head *ListNode) bool {
 	slow, fast := head, head
@@ -84,4 +146,13 @@ func reverseList(list *ListNode) *ListNode {
 		cur = next
 	}
 	return pre
+}
+
+func link(listA *ListNode, listB *ListNode) *ListNode {
+	if listA == nil {
+		return listB
+	}
+	tailNodeOfListA := getTailNode(listA)
+	tailNodeOfListA.Next = listB
+	return listA
 }
