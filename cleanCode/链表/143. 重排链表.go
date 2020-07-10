@@ -32,8 +32,9 @@ func reverse(list *ListNode) *ListNode {
 	return pre
 }
 
-// 要求listA的长度比listB大1
+
 func crossMerge(listA, listB *ListNode) *ListNode {
+	// 要求listA较长
 	dummyHead := &ListNode{}
 	cur := dummyHead
 	for listB != nil {

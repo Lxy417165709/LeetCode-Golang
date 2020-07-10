@@ -20,4 +20,5 @@ func deleteNode(node *ListNode) {
 	题目链接: https://leetcode-cn.com/problems/delete-middle-node-lcci/submissions/
 	总结
 		1. 这题比较Geek, 不删除点，而是通过替换值，来达到删除的目的
+		2. 这题和 _237. 删除链表中的节点_ 是一样的。
 */
