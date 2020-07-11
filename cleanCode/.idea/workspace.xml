@@ -2,38 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f04f18c-4313-420a-bdf4-268e425d3545" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/二叉树/1038. 从二叉搜索树到更大和树.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树/1367. 二叉树中的列表.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树/199. 二叉树的右视图.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树/538. 把二叉搜索树转换为累加树.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树/543. 二叉树的直径.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树/669. 修剪二叉搜索树.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树/96. 不同的二叉搜索树.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树/性质判定/958. 二叉树的完全性检验.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树/遍历/102. 二叉树的层序遍历.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树/遍历/107. 二叉树的层次遍历 II.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树/遍历/144. 二叉树的前序遍历.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树/遍历/145. 二叉树的后序遍历.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树/遍历/94. 二叉树的中序遍历.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树/面试题 04.10. 检查子树.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/入门/1342. 将数字变成 0 的操作次数.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/常用算法/数学.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计题/707. 设计链表.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/链表/707. 设计链表.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/链表/剑指 Offer 52. 两个链表的第一个公共节点.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/链表/面试题 02.08. 环路检测.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/1104. 二叉树寻路.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/563. 二叉树的坡度.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/617. 合并二叉树.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/654. 最大二叉树.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/655. 输出二叉树.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/662. 二叉树最大宽度.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/965. 单值二叉树.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/剑指 Offer 55 - II. 平衡二叉树.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/性质判定/98. 验证二叉搜索树.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/性质判定/面试题 04.05. 合法二叉搜索树.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_B_1155. 掷骰子的N种方法.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/_B_1155. 掷骰子的N种方法.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_B_987. 二叉树的垂序遍历.go" beforeDir="false" afterPath="$PROJECT_DIR$/二叉树/遍历/_B_987. 二叉树的垂序遍历.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/剑指 Offer 07. 重建二叉树.go" beforeDir="false" afterPath="$PROJECT_DIR$/二叉树/剑指 Offer 07. 重建二叉树.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/剑指 Offer 10- I. 斐波那契数列.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/剑指 Offer 10- I. 斐波那契数列.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/剑指 Offer 10- II. 青蛙跳台阶问题.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/剑指 Offer 10- II. 青蛙跳台阶问题.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/剑指 Offer 12. 矩阵中的路径.go" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/剑指 Offer 12. 矩阵中的路径.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/剑指 Offer 22. 链表中倒数第k个节点.go" beforeDir="false" afterPath="$PROJECT_DIR$/链表/剑指 Offer 22. 链表中倒数第k个节点.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/剑指 Offer 45. 把数组排成最小的数.go" beforeDir="false" afterPath="$PROJECT_DIR$/贪心/剑指 Offer 45. 把数组排成最小的数.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/常用算法/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/常用算法/utils.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试题 04.08. 首个共同祖先.go" beforeDir="false" afterPath="$PROJECT_DIR$/二叉树/面试题 04.08. 首个共同祖先.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,91 +24,98 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/二叉树/遍历/107. 二叉树的层次遍历 II.go">
+        <entry file="file://$PROJECT_DIR$/二叉树/剑指 Offer 55 - II. 平衡二叉树.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/二叉树/1038. 从二叉搜索树到更大和树.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="773">
-              <caret line="56" column="82" selection-start-line="56" selection-start-column="82" selection-end-line="56" selection-end-column="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/常用算法/utils.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="100" selection-start-line="100" selection-end-line="100" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/常用算法/数学.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="3" selection-start-line="3" selection-end-line="13" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/二叉树/543. 二叉树的直径.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/二叉树/96. 不同的二叉搜索树.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/二叉树/性质判定/958. 二叉树的完全性检验.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="806">
-              <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/二叉树/669. 修剪二叉搜索树.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="693">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/二叉树/993. 二叉树的堂兄弟节点.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="641">
-              <caret line="63" column="66" selection-start-line="63" selection-start-column="66" selection-end-line="63" selection-end-column="66" />
+            <state relative-caret-position="1089">
+              <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/二叉树/199. 二叉树的右视图.go">
+        <entry file="file://$PROJECT_DIR$/二叉树/性质判定/98. 验证二叉搜索树.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="54" column="25" lean-forward="true" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/二叉树/性质判定/面试题 04.05. 合法二叉搜索树.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="2" selection-start-line="2" selection-end-line="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/二叉树/1104. 二叉树寻路.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/二叉树/563. 二叉树的坡度.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="594">
-              <caret line="18" column="46" lean-forward="true" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+              <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/二叉树/965. 单值二叉树.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="2" selection-start-line="2" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/二叉树/654. 最大二叉树.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="693">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/二叉树/617. 合并二叉树.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/二叉树/655. 输出二叉树.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="54" column="1" lean-forward="true" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!block;n#getBlankBoard#0" />
+                <element signature="n#!!block;n#formBoard#0" />
+                <element signature="n#!!block;n#getBoardWidthAndHeight#0" />
+                <element signature="n#!!block;n#getHeight#0" />
+                <element signature="n#!!block;n#max#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/二叉树/110. 平衡二叉树.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="2" selection-start-line="2" selection-end-line="91" />
             </state>
           </provider>
         </entry>
@@ -150,6 +137,7 @@
     <replaceStrings>
       <replace>oldNodeToNewNode</replace>
       <replace>root</replace>
+      <replace>minLabelsInLay</replace>
     </replaceStrings>
   </component>
   <component name="GOROOT" path="C:\Language\Go" />
@@ -159,18 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/链表/142. 环形链表 II.go" />
-        <option value="$PROJECT_DIR$/常用算法/查找相关.go" />
-        <option value="$PROJECT_DIR$/链表/817. 链表组件.go" />
-        <option value="$PROJECT_DIR$/常用算法/链表.go" />
-        <option value="$PROJECT_DIR$/链表/725. 分隔链表.go" />
-        <option value="$PROJECT_DIR$/链表/92. 反转链表 II.go" />
-        <option value="$PROJECT_DIR$/二叉树/面试题 04.03. 特定深度节点链表.go" />
-        <option value="$PROJECT_DIR$/链表/1290. 二进制链表转整数.go" />
-        <option value="$PROJECT_DIR$/链表/剑指 Offer 06. 从尾到头打印链表.go" />
-        <option value="$PROJECT_DIR$/链表/剑指 Offer 35. 复杂链表的复制.go" />
-        <option value="$PROJECT_DIR$/Readme.md" />
-        <option value="$PROJECT_DIR$/链表/剑指 Offer 18. 删除链表的节点.go" />
         <option value="$PROJECT_DIR$/链表/203. 移除链表元素.go" />
         <option value="$PROJECT_DIR$/链表/面试题 02.03. 删除中间节点.go" />
         <option value="$PROJECT_DIR$/链表/237. 删除链表中的节点.go" />
@@ -210,6 +186,18 @@
         <option value="$PROJECT_DIR$/二叉树/669. 修剪二叉搜索树.go" />
         <option value="$PROJECT_DIR$/二叉树/993. 二叉树的堂兄弟节点.go" />
         <option value="$PROJECT_DIR$/二叉树/199. 二叉树的右视图.go" />
+        <option value="$PROJECT_DIR$/二叉树/662. 二叉树最大宽度.go" />
+        <option value="$PROJECT_DIR$/二叉树/剑指 Offer 55 - II. 平衡二叉树.go" />
+        <option value="$PROJECT_DIR$/二叉树/98. 验证二叉搜索树.go" />
+        <option value="$PROJECT_DIR$/二叉树/_X_1104. 二叉树寻路.go" />
+        <option value="$PROJECT_DIR$/二叉树/1104. 二叉树寻路.go" />
+        <option value="$PROJECT_DIR$/二叉树/563. 二叉树的坡度.go" />
+        <option value="$PROJECT_DIR$/二叉树/965. 单值二叉树.go" />
+        <option value="$PROJECT_DIR$/二叉树/654. 最大二叉树.go" />
+        <option value="$PROJECT_DIR$/二叉树/617. 合并二叉树.go" />
+        <option value="$PROJECT_DIR$/二叉树/655. 输出二叉树.go" />
+        <option value="$PROJECT_DIR$/二叉树/性质判定/面试题 04.05. 合法二叉搜索树.go" />
+        <option value="$PROJECT_DIR$/二叉树/性质判定/98. 验证二叉搜索树.go" />
       </list>
     </option>
   </component>
@@ -225,6 +213,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,7 +230,7 @@
               <item name="cleanCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="cleanCode" type="462c0819:PsiDirectoryNode" />
               <item name="二叉树" type="462c0819:PsiDirectoryNode" />
-              <item name="遍历" type="462c0819:PsiDirectoryNode" />
+              <item name="性质判定" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cleanCode" type="b2602c69:ProjectViewProjectNode" />
@@ -252,7 +241,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -266,16 +254,17 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\hasee\Desktop\Go_LeetCode\cleanCode\设计题" />
-      <recent name="C:\Users\hasee\Desktop\Go_LeetCode\cleanCode\二分查找" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hasee\Desktop\Go_LeetCode\cleanCode\二叉树\性质判定" />
       <recent name="C:\Users\hasee\Desktop\Go_LeetCode\cleanCode\二叉树" />
       <recent name="C:\Users\hasee\Desktop\Go_LeetCode\cleanCode\二叉树\遍历" />
       <recent name="C:\Users\hasee\Desktop\Go_LeetCode\cleanCode\贪心" />
       <recent name="C:\Users\hasee\Desktop\Go_LeetCode\cleanCode\链表" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hasee\Desktop\Go_LeetCode\cleanCode\二叉树\性质判定" />
+      <recent name="C:\Users\hasee\Desktop\Go_LeetCode\cleanCode\设计题" />
+      <recent name="C:\Users\hasee\Desktop\Go_LeetCode\cleanCode\二分查找" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -303,7 +292,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16791044" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16950959" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -316,7 +305,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.69739693" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.4088937" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -328,76 +317,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/链表/面试题 02.03. 删除中间节点.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="13" selection-start-line="13" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表/237. 删除链表中的节点.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="10" column="72" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表/_G_剑指 Offer 35. 复杂链表的复制.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表/剑指 Offer 25. 合并两个排序的链表.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
-          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表/面试题 02.07. 链表相交.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="21" column="93" selection-start-line="21" selection-start-column="93" selection-end-line="21" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表/61. 旋转链表.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1056">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表/86. 分隔链表.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1518">
-          <caret line="46" column="58" selection-start-line="46" selection-start-column="58" selection-end-line="46" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表/725. 分隔链表.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="40" selection-start-line="40" selection-end-line="55" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表/143. 重排链表.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1353">
-          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/链表/203. 移除链表元素.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/链表/24. 两两交换链表中的节点.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="693">
@@ -582,20 +501,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/二叉树/110. 平衡二叉树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/二叉树/538. 把二叉搜索树转换为累加树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/二叉树/遍历/107. 二叉树的层次遍历 II.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -647,29 +552,116 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/二叉树/性质判定/958. 二叉树的完全性检验.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
-          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        <state relative-caret-position="1023">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/二叉树/669. 修剪二叉搜索树.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="693">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/二叉树/993. 二叉树的堂兄弟节点.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="641">
+        <state relative-caret-position="2079">
           <caret line="63" column="66" selection-start-line="63" selection-start-column="66" selection-end-line="63" selection-end-column="66" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/二叉树/199. 二叉树的右视图.go">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/662. 二叉树最大宽度.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/剑指 Offer 55 - I. 二叉树的深度.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/剑指 Offer 55 - II. 平衡二叉树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1089">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/110. 平衡二叉树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" selection-start-line="2" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/1104. 二叉树寻路.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/563. 二叉树的坡度.go">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
-          <caret line="18" column="46" lean-forward="true" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/965. 单值二叉树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" selection-start-line="2" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/654. 最大二叉树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/617. 合并二叉树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/655. 输出二叉树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="54" column="1" lean-forward="true" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#getBlankBoard#0" />
+            <element signature="n#!!block;n#formBoard#0" />
+            <element signature="n#!!block;n#getBoardWidthAndHeight#0" />
+            <element signature="n#!!block;n#getHeight#0" />
+            <element signature="n#!!block;n#max#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/性质判定/面试题 04.05. 合法二叉搜索树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" selection-start-line="2" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/性质判定/98. 验证二叉搜索树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="54" column="25" lean-forward="true" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
         </state>
       </provider>
     </entry>
