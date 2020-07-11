@@ -1,4 +1,4 @@
-package main
+package 动态规划
 
 func numRollsToTarget(d int, f int, target int) int {
 	arrangements := get2DSlice(d+1, target+1)

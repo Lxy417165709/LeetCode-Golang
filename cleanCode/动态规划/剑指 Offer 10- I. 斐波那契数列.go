@@ -1,4 +1,4 @@
-package main
+package 动态规划
 
 func fib(n int) int {
 	fibonacciSequence := NewFibonacciSequence(100, 1000000007)

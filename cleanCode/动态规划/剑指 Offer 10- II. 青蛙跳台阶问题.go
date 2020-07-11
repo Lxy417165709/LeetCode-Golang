@@ -1,4 +1,4 @@
-package main
+package 动态规划
 
 func numWays(n int) int {
 	const givenMaxStep = 100

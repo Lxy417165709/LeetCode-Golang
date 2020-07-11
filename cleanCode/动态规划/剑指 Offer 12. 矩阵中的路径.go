@@ -1,4 +1,4 @@
-package main
+package 动态规划
 
 func exist(charMatrix [][]byte, word string) bool {
 	board := NewBoard(charMatrix, []*Vector{
