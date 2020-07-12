@@ -1,4 +1,4 @@
-package 二叉树
+package 获取
 
 // ------------------------ 方法1: getSum 和 getTilt 函数分开 ------------------------
 func findTilt(root *TreeNode) int {

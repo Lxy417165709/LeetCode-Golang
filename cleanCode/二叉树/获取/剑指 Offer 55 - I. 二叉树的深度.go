@@ -1,4 +1,4 @@
-package 二叉树
+package 获取
 
 func maxDepth(root *TreeNode) int {
 	return getHeight(root)

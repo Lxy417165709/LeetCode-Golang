@@ -1,4 +1,4 @@
-package 二叉树
+package 获取
 
 func lowestCommonAncestor(root *TreeNode, p *TreeNode, q *TreeNode) *TreeNode {
 	return getLCA(root, p, q)

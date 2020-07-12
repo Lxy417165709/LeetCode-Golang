@@ -1,4 +1,4 @@
-package 二叉树
+package 结构调整
 
 func flatten(root *TreeNode) {
 	toList(root)

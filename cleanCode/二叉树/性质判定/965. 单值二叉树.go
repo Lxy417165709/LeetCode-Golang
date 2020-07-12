@@ -1,4 +1,4 @@
-package 二叉树
+package 性质判定
 
 func isUnivalTree(root *TreeNode) bool {
 	if root == nil {

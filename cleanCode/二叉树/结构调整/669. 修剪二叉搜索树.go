@@ -1,4 +1,4 @@
-package 二叉树
+package 结构调整
 
 func trimBST(root *TreeNode, L int, R int) *TreeNode {
 	if root == nil {

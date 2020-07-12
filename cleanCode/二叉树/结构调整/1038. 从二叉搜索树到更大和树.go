@@ -1,28 +1,8 @@
-package 二叉树
+package 结构调整
 
-// ---------------------- 递归实现 ----------------------
 var sumOfGreaterNodes int
 
-func convertBST(root *TreeNode) *TreeNode {
-	sumOfGreaterNodes = 0
-	beGreaterTree(root)
-	return root
-}
-
-func beGreaterTree(root *TreeNode) {
-	if root == nil {
-		return
-	}
-	beGreaterTree(root.Right)
-	root.Val += sumOfGreaterNodes
-	sumOfGreaterNodes = root.Val
-	beGreaterTree(root.Left)
-}
-
-// ---------------------- 迭代实现 ----------------------
-var sumOfGreaterNodes int
-
-func convertBST(root *TreeNode) *TreeNode {
+func bstToGst(root *TreeNode) *TreeNode {
 	sumOfGreaterNodes = 0
 	beGreaterTree(root)
 	return root
@@ -74,8 +54,5 @@ func (tns *TreeNodeStack) getSize() int {
 }
 
 /*
-	题目链接: https://leetcode-cn.com/problems/convert-bst-to-greater-tree/
-	总结:
-		1. 这题考查的是反向中序遍历。
-		2. 这题和 _1038. 从二叉搜索树到更大和树_ 是一样的。
+	题目链接: https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/
 */
