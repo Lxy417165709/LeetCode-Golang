@@ -1,5 +1,6 @@
 package main
 
+
 // ----------------------- 方法1: 双栈实现 -----------------------
 const INF = 1000000000000
 
@@ -30,7 +31,7 @@ func (ms *MinStack) Top() int {
 	return ms.dataStack.GetTop()
 }
 
-func (ms *MinStack) GetMin() int {
+func (ms *MinStack) Min() int {
 	return ms.minValueStack.GetTop()
 }
 
@@ -70,7 +71,7 @@ func (ms *MinStack) Top() int {
 	//	return realValue
 }
 
-func (ms *MinStack) GetMin() int {
+func (ms *MinStack) Min() int {
 	return ms.compositeStack.GetTop()
 }
 
@@ -121,8 +122,6 @@ func min(a, b int) int {
 }
 
 /*
-	题目链接: https://leetcode-cn.com/problems/min-stack/
-	总结:
-		1. 还有另外一种编写方式，这种编写方式可以减少常数级别的空间。 那就是minValueStack存储一个结构体，这个结构体有两个字段
-			一个是最小值，一个是该最小值出现了多少次... 这样就可以用数字代表最小值的实体了，从而减少空间占用。
+	题目链接: https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/comments/
 */
+
