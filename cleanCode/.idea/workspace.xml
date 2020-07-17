@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f04f18c-4313-420a-bdf4-268e425d3545" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/二叉树/872. 叶子相似的树.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/二叉树/面试题 04.06. 后继者.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/常用算法/矩阵.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/_S_34. 在排序数组中查找元素的第一个和最后一个位置.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/面试题 08.03. 魔术索引.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/栈/模拟/946. 验证栈序列.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/栈/模拟/剑指 Offer 31. 栈的压入、弹出序列.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/矩阵/二分/240. 搜索二维矩阵 II.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/矩阵/二分/378. 有序矩阵中第K小的元素.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/矩阵/二分/74. 搜索二维矩阵.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/矩阵/搜索/_S_695. 岛屿的最大面积.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/907. 子数组的最小值之和.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/剑指 Offer 13. 机器人的运动范围.go" beforeDir="false" afterPath="$PROJECT_DIR$/矩阵/剑指 Offer 13. 机器人的运动范围.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/哈希/5460. 好数对的数目.go" beforeDir="false" afterPath="$PROJECT_DIR$/数组/哈希/5460. 好数对的数目.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/哈希/面试题 01.01. 判定字符是否唯一.go" beforeDir="false" afterPath="$PROJECT_DIR$/字符串/面试题 01.01. 判定字符是否唯一.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/哈希/面试题 01.02. 判定是否互为字符重排.go" beforeDir="false" afterPath="$PROJECT_DIR$/字符串/面试题 01.02. 判定是否互为字符重排.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序/剑指 Offer 45. 把数组排成最小的数.go" beforeDir="false" afterPath="$PROJECT_DIR$/数组/排序/剑指 Offer 45. 把数组排成最小的数.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试题 01.08. 零矩阵.go" beforeDir="false" afterPath="$PROJECT_DIR$/矩阵/面试题 01.08. 零矩阵.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_S_907. 子数组的最小值之和.go" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,60 +15,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/矩阵/搜索/_S_695. 岛屿的最大面积.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/二叉树/872. 叶子相似的树.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/二叉树/面试题 04.06. 后继者.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/栈/模拟/946. 验证栈序列.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="11" column="5" lean-forward="true" selection-end-line="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/栈/模拟/剑指 Offer 31. 栈的压入、弹出序列.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/矩阵/二分/378. 有序矩阵中第K小的元素.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="117" column="19" selection-start-line="117" selection-start-column="19" selection-end-line="117" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/矩阵/二分/240. 搜索二维矩阵 II.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="66">
@@ -92,29 +23,77 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/矩阵/二分/74. 搜索二维矩阵.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="63" column="52" lean-forward="true" selection-start-line="63" selection-start-column="52" selection-end-line="63" selection-end-column="52" />
+            <state relative-caret-position="412">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/常用算法/矩阵.go">
+        <entry file="file://$PROJECT_DIR$/数位DFS/788. 旋转数字.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="858">
+              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/设计题/155. 最小栈.go">
+        <entry file="file://$PROJECT_DIR$/位运算/_S_剑指 Offer 56 - II. 数组中数字出现的次数 II.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1584">
-              <caret line="93" column="1" lean-forward="true" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="1" />
+            <state relative-caret-position="33">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_B_665. 非递减数列.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_B_837. 新21点.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-679" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_B_953. 验证外星语词典.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-495" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_B_剑指 Offer 59 - I. 滑动窗口的最大值.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3927" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/907. 子数组的最小值之和.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="641">
+              <caret line="201" column="25" selection-start-line="201" selection-start-column="25" selection-end-line="201" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/栈/模拟/946. 验证栈序列.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="15" selection-start-line="15" selection-end-line="44" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -148,8 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/数学/剑指 Offer 57 - II. 和为s的连续正数序列.go" />
-        <option value="$PROJECT_DIR$/动态规划/面试题 16.17. 连续数列.go" />
         <option value="$PROJECT_DIR$/遍历/_S_面试题 16.19. 水域大小.go" />
         <option value="$PROJECT_DIR$/788. 旋转数字.go" />
         <option value="$PROJECT_DIR$/数位DFS/788. 旋转数字.go" />
@@ -199,6 +176,8 @@
         <option value="$PROJECT_DIR$/矩阵/_S_240. 搜索二维矩阵 II.go" />
         <option value="$PROJECT_DIR$/矩阵/二分/_S_240. 搜索二维矩阵 II.go" />
         <option value="$PROJECT_DIR$/矩阵/二分/74. 搜索二维矩阵.go" />
+        <option value="$PROJECT_DIR$/_S_907. 子数组的最小值之和.go" />
+        <option value="$PROJECT_DIR$/907. 子数组的最小值之和.go" />
       </list>
     </option>
   </component>
@@ -224,7 +203,7 @@
             <path>
               <item name="cleanCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="cleanCode" type="462c0819:PsiDirectoryNode" />
-              <item name="常用算法" type="462c0819:PsiDirectoryNode" />
+              <item name="二叉树" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cleanCode" type="b2602c69:ProjectViewProjectNode" />
@@ -234,13 +213,8 @@
             <path>
               <item name="cleanCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="cleanCode" type="462c0819:PsiDirectoryNode" />
-              <item name="矩阵" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cleanCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cleanCode" type="462c0819:PsiDirectoryNode" />
-              <item name="矩阵" type="462c0819:PsiDirectoryNode" />
-              <item name="二分" type="462c0819:PsiDirectoryNode" />
+              <item name="栈" type="462c0819:PsiDirectoryNode" />
+              <item name="模拟" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -267,11 +241,11 @@
       <recent name="C:\Users\hasee\Desktop\Go_LeetCode\cleanCode\二分查找" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hasee\Desktop\Go_LeetCode\cleanCode\二叉树\遍历" />
       <recent name="C:\Users\hasee\Desktop\Go_LeetCode\cleanCode\矩阵\二分" />
       <recent name="C:\Users\hasee\Desktop\Go_LeetCode\cleanCode\栈\模拟" />
       <recent name="C:\Users\hasee\Desktop\Go_LeetCode\cleanCode\矩阵" />
       <recent name="C:\Users\hasee\Desktop\Go_LeetCode\cleanCode\字符串" />
-      <recent name="C:\Users\hasee\Desktop\Go_LeetCode\cleanCode\数组\哈希" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -312,7 +286,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.26030368" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.7147505" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -324,60 +298,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/设计题/232. 用栈实现队列.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1452">
-          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/设计题/面试题 03.04. 化栈为队.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/设计题/剑指 Offer 09. 用两个栈实现队列.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3729">
-          <caret line="113" column="2" selection-start-line="113" selection-start-column="2" selection-end-line="113" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/二分查找/611. 有效三角形的个数.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2112">
-          <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/二叉树/剑指 Offer 07. 重建二叉树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/设计题/剑指 Offer 30. 包含min函数的栈.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="807">
           <caret line="115" selection-start-line="115" selection-end-line="115" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数位DFS/788. 旋转数字.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1419">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -612,13 +536,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/栈/模拟/946. 验证栈序列.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="11" column="5" lean-forward="true" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/栈/模拟/剑指 Offer 31. 栈的压入、弹出序列.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
@@ -649,8 +566,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/矩阵/二分/74. 搜索二维矩阵.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="63" column="52" lean-forward="true" selection-start-line="63" selection-start-column="52" selection-end-line="63" selection-end-column="52" />
+        <state relative-caret-position="412">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数位DFS/788. 旋转数字.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/位运算/_S_剑指 Offer 56 - II. 数组中数字出现的次数 II.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_B_665. 非递减数列.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_B_837. 新21点.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-679" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_B_953. 验证外星语词典.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-495" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_B_剑指 Offer 59 - I. 滑动窗口的最大值.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3927" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/栈/模拟/946. 验证栈序列.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="15" selection-start-line="15" selection-end-line="44" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/907. 子数组的最小值之和.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="201" column="25" selection-start-line="201" selection-start-column="25" selection-end-line="201" selection-end-column="25" />
         </state>
       </provider>
     </entry>
