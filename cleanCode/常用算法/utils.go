@@ -78,13 +78,7 @@ func isLetter(char byte) bool {
 }
 
 // ------------ About Forming ---------
-func get2DSlice(rows, column int) [][]int {
-	slice := make([][]int, rows)
-	for i := 0; i < len(slice); i++ {
-		slice[i] = make([]int, column)
-	}
-	return slice
-}
+
 
 func NewSlice(oldSlice []int) []int {
 	newSlice := make([]int, len(oldSlice))
