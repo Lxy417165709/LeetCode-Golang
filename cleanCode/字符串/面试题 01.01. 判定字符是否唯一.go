@@ -1,4 +1,4 @@
-package 哈希
+package 字符串
 
 import (
 	"bytes"

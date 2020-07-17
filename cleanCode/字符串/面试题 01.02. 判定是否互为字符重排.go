@@ -1,4 +1,4 @@
-package 哈希
+package 字符串
 
 func CheckPermutation(s1 string, s2 string) bool {
 	countOfS1Char := make(map[byte]int)
