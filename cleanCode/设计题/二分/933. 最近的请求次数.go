@@ -1,4 +1,4 @@
-package 二分查找
+package 二分
 
 type RecentCounter struct {
 	pingArr []int

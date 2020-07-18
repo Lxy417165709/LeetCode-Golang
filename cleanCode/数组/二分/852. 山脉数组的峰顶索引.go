@@ -1,4 +1,4 @@
-package 二分查找
+package 二分
 
 func peakIndexInMountainArray(A []int) int {
 	left, right := 1, len(A)-2

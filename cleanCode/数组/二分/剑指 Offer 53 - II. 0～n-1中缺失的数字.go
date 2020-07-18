@@ -1,4 +1,4 @@
-package Geek
+package 二分
 
 func missingNumber(nums []int) int {
 	return getInsertIndexOfMissingNumber(nums)

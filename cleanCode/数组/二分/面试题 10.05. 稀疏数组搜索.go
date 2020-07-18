@@ -1,4 +1,4 @@
-package main
+package 二分
 
 func findString(words []string, s string) int {
 	return getIndex(words, 0, len(words)-1, s)
