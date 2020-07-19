@@ -1,13 +1,14 @@
 package 数和问题
 
 func twoSum(numbers []int, target int) []int {
-	index1, index2 := getTwoIndexsWhichSumOfValueEqualRefInSortedArray(numbers, target)
+	index1, index2 := getTwoIndexsWhichSumOfValueEqualRef(numbers, target)
 	return []int{index1 + 1, index2 + 1}
 }
 
-func getTwoIndexsWhichSumOfValueEqualRefInSortedArray(array []int, ref int) (int, int) {
+// 索引可以相等
+func getTwoIndexsWhichSumOfValueEqualRef(array []int, ref int) (int, int) {
 	left, right := 0, len(array)-1
-	for left < right {
+	for left <= right {
 		curSum := array[left] + array[right]
 		if curSum == ref {
 			return left, right

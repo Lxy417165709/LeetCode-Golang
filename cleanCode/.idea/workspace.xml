@@ -2,20 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f04f18c-4313-420a-bdf4-268e425d3545" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/常用算法/数组.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/Geek/1287. 有序数组中出现次数超过25%的元素.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/S_1395. 统计作战单位数.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/_S_1470. 重新排列数组.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/前缀和/1365. 有多少小于当前数字的数字.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/堆/1046. 最后一块石头的重量.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/排序/1051. 高度检查器.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/数和问题/167. 两数之和 II - 输入有序数组.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/背包问题/1049. 最后一块石头的重量 II.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/记忆化搜索/1306. 跳跃游戏 III.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/模拟/5464. 换酒问题.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计题/线段树/_S_307. 区域和检索 - 数组可修改.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/129. 求根到叶子节点数字之和.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/508. 出现次数最多的子树元素和.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/性质判定/951. 翻转等价二叉树.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/位运算/面试题 05.07. 配对交换.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串/791. 自定义字符串排序.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数组/数和问题/633. 平方数之和.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数组/数和问题/_S_剑指 Offer 57. 和为s的两个数字.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/常用算法/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/常用算法/utils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用算法/数组.go" beforeDir="false" afterPath="$PROJECT_DIR$/常用算法/数组.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用算法/查找相关.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数组/数和问题/167. 两数之和 II - 输入有序数组.go" beforeDir="false" afterPath="$PROJECT_DIR$/数组/数和问题/167. 两数之和 II - 输入有序数组.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,91 +23,87 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数组/S_1395. 统计作战单位数.go">
+        <entry file="file://$PROJECT_DIR$/数组/数和问题/167. 两数之和 II - 输入有序数组.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+            <state relative-caret-position="594">
+              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数组/数和问题/167. 两数之和 II - 输入有序数组.go">
+        <entry file="file://$PROJECT_DIR$/二叉树/129. 求根到叶子节点数字之和.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            <state relative-caret-position="80">
+              <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/位运算/面试题 05.07. 配对交换.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/位运算/_S_剑指 Offer 56 - II. 数组中数字出现的次数 II.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/字符串/791. 自定义字符串排序.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="3" selection-start-line="3" selection-end-line="27" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/数组/数和问题/_S_剑指 Offer 57. 和为s的两个数字.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/二叉树/性质判定/951. 翻转等价二叉树.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="471">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/常用算法/数组.go">
+        <entry file="file://$PROJECT_DIR$/二叉树/508. 出现次数最多的子树元素和.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            <state relative-caret-position="584">
+              <caret line="31" column="78" selection-start-line="31" selection-start-column="78" selection-end-line="31" selection-end-column="78" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/设计题/单调栈/901. 股票价格跨度.go">
+        <entry file="file://$PROJECT_DIR$/数组/数和问题/633. 平方数之和.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2178">
-              <caret line="66" column="1" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+            <state relative-caret-position="627">
+              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/模拟/5464. 换酒问题.go">
+        <entry file="file://$PROJECT_DIR$/排列组合/排列/47. 全排列 II.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数组/单调栈/503. 下一个更大元素 II.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1221">
-              <caret line="37" selection-start-line="37" selection-end-line="66" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/常用算法/utils.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2673">
-              <caret line="81" selection-start-line="81" selection-end-line="81" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/常用算法/数学.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数组/_S_1470. 重新排列数组.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数组/前缀和/1365. 有多少小于当前数字的数字.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1221">
-              <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+            <state relative-caret-position="429">
+              <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -146,15 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/数组/单调栈/907. 子数组的最小值之和.go" />
-        <option value="$PROJECT_DIR$/数组/单调栈/42. 接雨水.go" />
-        <option value="$PROJECT_DIR$/Geek/1071. 字符串的最大公因子.go" />
-        <option value="$PROJECT_DIR$/数组/二分/35. 搜索插入位置.go" />
-        <option value="$PROJECT_DIR$/数组/单调栈/496. 下一个更大元素 I.go" />
-        <option value="$PROJECT_DIR$/数组/单调栈/503. 下一个更大元素 II.go" />
-        <option value="$PROJECT_DIR$/数组/单调栈/_S_84. 柱状图中最大的矩形.go" />
-        <option value="$PROJECT_DIR$/设计题/单调栈/901. 股票价格跨度.go" />
-        <option value="$PROJECT_DIR$/数组/单调栈/739. 每日温度.go" />
         <option value="$PROJECT_DIR$/常用算法/矩阵.go" />
         <option value="$PROJECT_DIR$/字符串/动态规划/97. 交错字符串.go" />
         <option value="$PROJECT_DIR$/设计题/矩阵/1476. 子矩形查询.go" />
@@ -195,8 +179,17 @@
         <option value="$PROJECT_DIR$/数组/_S_1395. 统计作战单位数.go" />
         <option value="$PROJECT_DIR$/模拟/5464. 换酒问题.go" />
         <option value="$PROJECT_DIR$/数组/S_1395. 统计作战单位数.go" />
-        <option value="$PROJECT_DIR$/数组/数和问题/167. 两数之和 II - 输入有序数组.go" />
         <option value="$PROJECT_DIR$/常用算法/数组.go" />
+        <option value="$PROJECT_DIR$/数组/数和问题/167. 两数之和 II - 输入有序数组.go" />
+        <option value="$PROJECT_DIR$/数组/数和问题/633. 平方数之和.go" />
+        <option value="$PROJECT_DIR$/数组/数和问题/18. 四数之和.go" />
+        <option value="$PROJECT_DIR$/二叉树/129. 求根到叶子节点数字之和.go" />
+        <option value="$PROJECT_DIR$/位运算.go" />
+        <option value="$PROJECT_DIR$/位运算/面试题 05.07. 配对交换.go" />
+        <option value="$PROJECT_DIR$/字符串/791. 自定义字符串排序.go" />
+        <option value="$PROJECT_DIR$/数组/数和问题/剑指 Offer 57. 和为s的两个数字.go" />
+        <option value="$PROJECT_DIR$/二叉树/性质判定/951. 翻转等价二叉树.go" />
+        <option value="$PROJECT_DIR$/二叉树/508. 出现次数最多的子树元素和.go" />
       </list>
     </option>
   </component>
@@ -222,18 +215,28 @@
             <path>
               <item name="cleanCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="cleanCode" type="462c0819:PsiDirectoryNode" />
-              <item name="常用算法" type="462c0819:PsiDirectoryNode" />
+              <item name="二叉树" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cleanCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="cleanCode" type="462c0819:PsiDirectoryNode" />
-              <item name="设计题" type="462c0819:PsiDirectoryNode" />
+              <item name="字符串" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cleanCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="cleanCode" type="462c0819:PsiDirectoryNode" />
-              <item name="设计题" type="462c0819:PsiDirectoryNode" />
-              <item name="单调栈" type="462c0819:PsiDirectoryNode" />
+              <item name="数组" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cleanCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cleanCode" type="462c0819:PsiDirectoryNode" />
+              <item name="数组" type="462c0819:PsiDirectoryNode" />
+              <item name="数和问题" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cleanCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cleanCode" type="462c0819:PsiDirectoryNode" />
+              <item name="链表" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -292,7 +295,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14658849" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20895523" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -305,7 +308,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.68546635" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.20498915" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -317,65 +320,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/数组/单调栈/84. 柱状图中最大的矩形.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="33" selection-start-line="33" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/字符串/动态规划/97. 交错字符串.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/设计题/矩阵/1476. 子矩形查询.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数组/前缀和/1480. 一维数组的动态和.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数学/贪心/剑指 Offer 45. 把数组排成最小的数.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数学/贪心/1323. 6 和 9 组成的最大数字.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/入门/1170. 比较字符串最小字母出现频次.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数组/二分/面试题 17.14. 最小K个数.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数组/二分/611. 有效三角形的个数.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数组/二分/852. 山脉数组的峰顶索引.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/设计题/二分/933. 最近的请求次数.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1353">
-          <caret line="41" column="6" lean-forward="true" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数组/二分/剑指 Offer 40. 最小的k个数.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数组/二分/剑指 Offer 53 - II. 0～n-1中缺失的数字.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/数组/二分/面试题 10.05. 稀疏数组搜索.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="924">
@@ -580,17 +524,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/数组/数和问题/167. 两数之和 II - 输入有序数组.go">
+    <entry file="file://$PROJECT_DIR$/常用算法/查找相关.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        <state relative-caret-position="132">
+          <caret line="4" selection-start-line="4" selection-end-line="103" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#isInArray#0" />
+            <element signature="n#!!block;n#getIndexOfFirstGreater#0" />
+            <element signature="n#!!block;n#getIndexOfFirstGreaterOrEqual#0" />
+            <element signature="n#!!block;n#makeKthSmallToRightPlace#0" />
+            <element signature="n#!!block;n#makeKthBigToRightPlace#0" />
+            <element signature="n#!!block;n#randomPartition#0" />
+            <element signature="n#!!block;n#upsetArrayRandomly#0" />
+            <element signature="n#!!block;n#partition#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/常用算法/数组.go">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+          <folding>
+            <element signature="n#!!block;n#getSum#0" />
+            <element signature="n#!!block;n#NewSlice#0" />
+            <element signature="n#!!block;n#isInArray#0" />
+            <element signature="n#!!block;n#getCountOfNum#0" />
+            <element signature="n#!!block;n#getIndexOfFirstEqual#0" />
+            <element signature="n#!!block;n#getIndexOfLastEqual#0" />
+            <element signature="n#!!block;n#getIndexOfFirstGreater#0" />
+            <element signature="n#!!block;n#getIndexOfFirstGreaterOrEqual#0" />
+            <element signature="n#!!block;n#getIndexOfLastSmall#0" />
+            <element signature="n#!!block;n#getIndexOfLastSmallOrEqual#0" />
+            <element signature="n#!!block;n#makeKthSmallToRightPlace#0" />
+            <element signature="n#!!block;n#makeKthBigToRightPlace#0" />
+            <element signature="n#!!block;n#randomPartition#0" />
+            <element signature="n#!!block;n#upsetArrayRandomly#0" />
+            <element signature="n#!!block;n#partition#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排列组合/排列/46. 全排列.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排列组合/排列/47. 全排列 II.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/数和问题/18. 四数之和.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#14#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/数和问题/633. 平方数之和.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/数和问题/167. 两数之和 II - 输入有序数组.go">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/位运算.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/129. 求根到叶子节点数字之和.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/位运算/面试题 05.07. 配对交换.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/位运算/_S_剑指 Offer 56 - II. 数组中数字出现的次数 II.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串/791. 自定义字符串排序.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" selection-start-line="3" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/数和问题/_S_剑指 Offer 57. 和为s的两个数字.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/性质判定/951. 翻转等价二叉树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/508. 出现次数最多的子树元素和.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="31" column="78" selection-start-line="31" selection-start-column="78" selection-end-line="31" selection-end-column="78" />
         </state>
       </provider>
     </entry>
