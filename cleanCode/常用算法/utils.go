@@ -80,11 +80,6 @@ func isLetter(char byte) bool {
 // ------------ About Forming ---------
 
 
-func NewSlice(oldSlice []int) []int {
-	newSlice := make([]int, len(oldSlice))
-	copy(newSlice, oldSlice)
-	return newSlice
-}
 
 func makeSliceINF(slice []int) {
 	for i := 0; i < len(slice); i++ {
