@@ -1,7 +1,5 @@
 package 遍历
 
-import "bytes"
-
 /**
  * Definition for a binary tree node.
  * type TreeNode struct {
@@ -14,6 +12,7 @@ func levelOrder(root *TreeNode) [][]int {
 	sequences := make([][]int, 0)
 	queue := NewTreeNodeQueue()
 	queue.Push(root)
+	curLay := 0
 	for queue.IsNotEmpty() {
 		sequenceOfTCurrentLay := make([]int, 0)
 		for countOfUnRecordNodes := queue.GetSize(); countOfUnRecordNodes > 0; countOfUnRecordNodes-- {
@@ -24,11 +23,24 @@ func levelOrder(root *TreeNode) [][]int {
 			sequenceOfTCurrentLay = append(sequenceOfTCurrentLay, top.Val)
 			queue.Push(top.Left, top.Right)
 		}
-		if len(sequenceOfTCurrentLay) != 0 {
-			sequences = append(sequences, sequenceOfTCurrentLay)
+		if len(sequenceOfTCurrentLay) == 0 {
+			continue
 		}
+		if curLay%2 == 0 {
+			sequences = append(sequences, sequenceOfTCurrentLay)
+		} else {
+			sequences = append(sequences, reverse(sequenceOfTCurrentLay))
+		}
+		curLay++
 	}
 	return sequences
+}
+
+func reverse(arr []int) []int {
+	for i := 0; i < len(arr)/2; i++ {
+		arr[i], arr[len(arr)-1-i] = arr[len(arr)-1-i], arr[i]
+	}
+	return arr
 }
 
 // --------------------------- TreeNodeQueue ---------------------------
@@ -59,7 +71,7 @@ func (tnq *TreeNodeQueue) GetSize() int {
 }
 
 /*
-	题目链接: https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/submissions/
+	题目链接: https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/
 	总结:
-		1. 这题和 _102. 二叉树的层序遍历_ 一样。
+		1. 送分题。
 */
