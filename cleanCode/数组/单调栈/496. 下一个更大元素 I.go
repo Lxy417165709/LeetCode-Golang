@@ -90,6 +90,75 @@ func (ms *MyStack) GetSize() int {
 	return len(ms.data)
 }
 
+// ----------------------------- 方法3: 从左到右遍历，维护一个单调非递增栈 -----------------------------
+// 执行用时：4 ms,   在所有 Go 提交中击败了 89.35% 的用户
+// 内存消耗：3.5 MB, 在所有 Go 提交中击败了 100.00% 的用户
+func nextGreaterElement(nums1 []int, nums2 []int) []int {
+	nextGreaterNum := make(map[int]int)
+	stack := NewMyStack()
+	for i := 0; i < len(nums2); i++ {
+		for !stack.IsEmpty() && nums2[stack.GetTop()] < nums2[i] {
+			nextGreaterNum[nums2[stack.GetTop()]] = nums2[i]
+			stack.Pop()
+		}
+		stack.Push(i)
+	}
+	result := make([]int, 0)
+	for i := 0; i < len(nums1); i++ {
+		if num, ok := nextGreaterNum[nums1[i]]; ok {
+			result = append(result, num)
+		} else {
+			result = append(result, -1)
+		}
+	}
+	return result
+}
+
+// ------------------------- MyStack -------------------------
+type MyStack struct {
+	data []int
+}
+
+func NewMyStack() *MyStack {
+	return &MyStack{}
+}
+
+func (ms *MyStack) Push(val int) {
+	ms.data = append(ms.data, val)
+}
+
+func (ms *MyStack) Pop() int {
+	top := ms.data[ms.GetSize()-1]
+	ms.data = ms.data[:ms.GetSize()-1]
+	return top
+}
+
+func (ms *MyStack) GetTop() int {
+	return ms.data[ms.GetSize()-1]
+}
+
+func (ms *MyStack) IsEmpty() bool {
+	return ms.GetSize() == 0
+}
+
+func (ms *MyStack) GetSize() int {
+	return len(ms.data)
+}
+
+func max(a, b int) int {
+	if a > b {
+		return a
+	}
+	return b
+}
+
+func min(a, b int) int {
+	if a > b {
+		return b
+	}
+	return a
+}
+
 /*
 	题目链接: https://leetcode-cn.com/problems/next-greater-element-i/submissions/
 */

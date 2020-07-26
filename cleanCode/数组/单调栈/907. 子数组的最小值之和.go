@@ -67,7 +67,7 @@ func getRelationOfIndexToLeftSideCountOfGreater(A []int) []int {
 	stack := NewMyStack()
 	leftSideCountOfGreater := make([]int, len(A))
 	for i := 0; i < len(A); i++ {
-		for !stack.IsEmpty() && A[i] < A[stack.GetTop()] {
+		for !stack.IsEmpty() && A[i] <= A[stack.GetTop()] {
 			countOfIntervalNums := i - stack.GetTop() // 即 [stack.GetTop(), i) 区间内一共有多少个数字
 			leftSideCountOfGreater[i] = countOfIntervalNums + leftSideCountOfGreater[stack.GetTop()]
 			stack.Pop()

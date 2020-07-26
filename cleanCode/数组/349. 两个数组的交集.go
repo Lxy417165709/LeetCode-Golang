@@ -13,7 +13,6 @@ func intersection(nums1 []int, nums2 []int) []int {
 	return intersection
 }
 
-
 func getCountOfNum(array []int) map[int]int {
 	count := make(map[int]int)
 	for i := 0; i < len(array); i++ {
