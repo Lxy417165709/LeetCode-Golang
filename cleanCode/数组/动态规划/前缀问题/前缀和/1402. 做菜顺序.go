@@ -1,4 +1,4 @@
-package 贪心___前缀和
+package 前缀和
 
 import "sort"
 
