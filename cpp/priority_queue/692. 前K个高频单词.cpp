@@ -1,6 +1,3 @@
-
-
-```c++
 class Solution {
 public:
     vector<string> topKFrequent(vector<string>& words, int k) {
@@ -59,5 +56,5 @@ struct Cmp {
 		2. Map 的使用。
 		3. For 迭代的使用。
 */
-```
+
 
