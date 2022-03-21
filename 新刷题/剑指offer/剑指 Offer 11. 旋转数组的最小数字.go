@@ -85,13 +85,6 @@ func getMinNum3(numbers []int) int {
 	return numbers[left]
 }
 
-func min(a, b int) int {
-	if a > b {
-		return b
-	}
-	return a
-}
-
 // todo: 这里可以列下数组可能性。
 // 问题: 为什么只需要比对中值和右值，而不是左值和中值呢？
 // 	1. 因为左值<中值、左值==中值 时，无法确定最小值是在 [left, mid]，还是 [mid+1, right]。
