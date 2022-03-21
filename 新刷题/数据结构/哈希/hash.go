@@ -4,13 +4,13 @@ package 哈希
 
 // MyHash 哈希表。
 type MyHash struct {
-	Buckets []*MyList // 桶。
+	Buckets []*MyDbList // 桶。
 }
 
 func NewHashTable(bucketCount int) *MyHash {
-	buckets := make([]*MyList, bucketCount)
+	buckets := make([]*MyDbList, bucketCount)
 	for i := 0; i < len(buckets); i++ {
-		buckets[i] = &MyList{}
+		buckets[i] = &MyDbList{}
 	}
 	return &MyHash{
 		Buckets: buckets,
@@ -42,18 +42,18 @@ func (h *MyHash) getBucketIndex(key int) int {
 
 // ------------------------------------------------ 1. 哈希表(结束) ------------------------------------------------
 
-// ------------------------------------------------ 2. 链表(开始) ------------------------------------------------
+// ------------------------------------------------ 2. 双向链表(开始) ------------------------------------------------
 
-// MyList 链表。
-type MyList struct {
-	Head *MyListNode
-	Tail *MyListNode
+// MyDbList 双向链表。
+type MyDbList struct {
+	Head *MyDbListNode
+	Tail *MyDbListNode
 }
 
 // Insert 将元素插入链表。
-func (l *MyList) Insert(key int, value interface{}) {
+func (l *MyDbList) Insert(key int, value interface{}) {
 	// 1. 初始化插入节点。
-	insertedNode := &MyListNode{
+	insertedNode := &MyDbListNode{
 		Key:   key,
 		Value: value,
 	}
@@ -79,7 +79,7 @@ func (l *MyList) Insert(key int, value interface{}) {
 }
 
 // Find 寻找对应key的节点。
-func (l *MyList) Find(key int) *MyListNode {
+func (l *MyDbList) Find(key int) *MyDbListNode {
 	node := l.Head
 	for node != nil {
 		if node.Key == key {
@@ -91,7 +91,7 @@ func (l *MyList) Find(key int) *MyListNode {
 }
 
 // Remove 删除对应key的节点。
-func (l *MyList) Remove(key int) {
+func (l *MyDbList) Remove(key int) {
 	// 1. 找到目标节点。
 	targetNode := l.Find(key)
 
@@ -120,16 +120,16 @@ func (l *MyList) Remove(key int) {
 	}
 }
 
-// ------------------------------------------------ 2. 链表(结束) ------------------------------------------------
+// ------------------------------------------------ 2. 双向链表(结束) ------------------------------------------------
 
 // ------------------------------------------------ 3. 链表节点(开始) ------------------------------------------------
 
-// MyListNode 链表节点。
-type MyListNode struct {
+// MyDbListNode 链表节点。
+type MyDbListNode struct {
 	Key   int
 	Value interface{}
-	Next  *MyListNode
-	Pre   *MyListNode
+	Next  *MyDbListNode
+	Pre   *MyDbListNode
 }
 
 // ------------------------------------------------ 3. 链表节点(结束) ------------------------------------------------
