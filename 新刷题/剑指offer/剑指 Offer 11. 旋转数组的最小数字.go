@@ -44,27 +44,45 @@ func getMinNum2(numbers []int, left, right int) int {
 	if left > right {
 		return 1000000000
 	}
+
+	// 2. 只有一个元素，直接返回。
 	if left == right {
 		return numbers[left]
 	}
 
-	// 2. 初始化指针。
+	// 3. 初始化指针。
 	mid := (left + right) / 2
 	rightNum := numbers[right]
 	midNum := numbers[mid]
 
-	// 3. 中值小于右值，最小值在左边。 (因为数组是升序的)
+	// 4. 中值小于右值，最小值在左边。 (因为数组是升序的)
 	if midNum < rightNum {
 		return getMinNum2(numbers, left, mid)
 	}
 
-	// 4. 中值大于右值，最小值在右边。
+	// 5. 中值大于右值，最小值在右边。
 	if midNum > rightNum {
 		return getMinNum2(numbers, mid+1, right)
 	}
 
-	// 5. 中值等于右值，最小值可能在左右边，但可以排除右端点元素。
+	// 6. 中值等于右值，最小值可能在左右边，但可以排除右端点元素。
 	return getMinNum2(numbers, left, right-1)
+}
+
+// getMinNum3 获取最小值。 (第三版)
+func getMinNum3(numbers []int) int {
+	left, right := 0, len(numbers)-1
+	for left < right {
+		mid := ((right - left) >> 1) + left
+		if numbers[mid] < numbers[right] {
+			right = mid
+		} else if numbers[mid] > numbers[right] {
+			left = mid + 1
+		} else {
+			right--
+		}
+	}
+	return numbers[left]
 }
 
 func min(a, b int) int {
@@ -74,5 +92,8 @@ func min(a, b int) int {
 	return a
 }
 
-// todo: 这里可以列下可能性。
-// todo: 问题: 为什么只需要比对中值和右值，而不是左值和中值呢？
+// todo: 这里可以列下数组可能性。
+// 问题: 为什么只需要比对中值和右值，而不是左值和中值呢？
+// 	1. 因为左值<中值、左值==中值 时，无法确定最小值是在 [left, mid]，还是 [mid+1, right]。
+//	2. 这题可以扩展: 降序循环数组找最小值、最大值，升序循环数组找最小值，最大值。
+//  3. 总结: 升序循环数组，找最小值  -> 比对: 右中值。
