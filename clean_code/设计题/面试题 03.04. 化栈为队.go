@@ -4,7 +4,7 @@ package 链表
 // --------------------- MyQueue ---------------------
 // 双栈。
 // 		Pop   时间复杂度为 O(n)
-//		Push  时间复杂度为 O(1)
+//		Insert  时间复杂度为 O(1)
 type MyQueue struct {
 	pushStack *MyStack
 	popStack *MyStack
@@ -48,7 +48,7 @@ func (mq *MyQueue) moveAllPushStackNumsToPopStack() {
 // --------------------- MyQueue ---------------------
 // 双栈。
 // 		Pop   时间复杂度为 O(1)
-//		Push  时间复杂度为 O(n)
+//		Insert  时间复杂度为 O(n)
 type MyQueue struct {
 	dataStack *MyStack
 	auxiliaryStack *MyStack

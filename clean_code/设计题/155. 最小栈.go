@@ -66,7 +66,7 @@ func (ms *MinStack) Top() int {
 	// 相当于
 	//  minValue := ms.compositeStack.Pop()
 	//	realValue := ms.compositeStack.GetTop()
-	//	ms.compositeStack.Push(minValue)
+	//	ms.compositeStack.Insert(minValue)
 	//	return realValue
 }
 

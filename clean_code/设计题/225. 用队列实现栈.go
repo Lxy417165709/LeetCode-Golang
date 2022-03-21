@@ -3,7 +3,7 @@ package 链表
 // ------------------ MyStack ---------------------
 // 双队列。
 // 		Pop   时间复杂度为 O(n)
-//		Push  时间复杂度为 O(1)
+//		Insert  时间复杂度为 O(1)
 type MyStack struct {
 	queueStoringNums   *MyQueue
 	queueStoringTopNum *MyQueue // 这个队列最多只有1个元素，存放栈顶元素
@@ -60,7 +60,7 @@ func (ms *MyStack) exchangeQueuesResponsibility() {
 // ------------------ MyStack ---------------------
 // 双队列。
 // 		Pop   时间复杂度为 O(1)
-//		Push  时间复杂度为 O(n)
+//		Insert  时间复杂度为 O(n)
 type MyStack struct {
 	popQueue  *MyQueue
 	pushQueue *MyQueue
@@ -104,7 +104,7 @@ func (ms *MyStack) exchangeQueuesResponsibility() {
 // ------------------ MyStack ---------------------
 // 单队列。
 // 		Pop   时间复杂度为 O(1)
-//		Push  时间复杂度为 O(n)
+//		Insert  时间复杂度为 O(n)
 type MyStack struct {
 	queue *MyQueue
 }
