@@ -1,9 +1,11 @@
 package 剑指offer
 
+import "github.com/Lxy417165709/LeetCode-Golang/新刷题/matrix_util"
+
 // spiralOrder 螺旋序遍历矩阵，获取结果。
 func spiralOrder(matrix [][]int) []int {
 	// 1. 获取矩阵高度、宽度。
-	height, width := getHeightAndWidth(matrix)
+	height, width := matrix_util.GetHeightAndWidth(matrix)
 
 	// 2. 初始化。
 	upBound := 0
