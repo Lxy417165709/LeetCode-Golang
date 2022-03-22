@@ -37,6 +37,10 @@ func IsWordExist(matrix [][]byte, hadArrived map[string]bool, word string, row, 
 	if hadArrived[coordinateHash] {
 		return false
 	}
+	hadArrived[coordinateHash] = true
+	defer func() {
+		hadArrived[coordinateHash] = false // 这里要回滚，否则会对下个方向的DFS造成影响。
+	}()
 
 	// 4. 匹配判断。
 	if word[0] != matrix[row][column] {
@@ -63,11 +67,9 @@ func IsWordExist(matrix [][]byte, hadArrived map[string]bool, word string, row, 
 		},
 	}
 	for _, offset := range offsets {
-		hadArrived[coordinateHash] = true
 		if IsWordExist(matrix, hadArrived, word[1:], row+offset.Y, column+offset.X) {
 			return true
 		}
-		hadArrived[coordinateHash] = false // 这里要回滚，否则会对下个方向的DFS造成影响。
 	}
 
 	// 6. 返回。
