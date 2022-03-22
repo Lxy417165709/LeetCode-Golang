@@ -9,3 +9,24 @@ func GetDigitSum(num int) int {
 	}
 	return sum
 }
+
+// FastPow 快速幂。
+func FastPow(x float64, n int) float64 {
+	// 1. 指数小于0时，底数取倒，指数取反。
+	if n < 0 {
+		return FastPow(1/x, -n)
+	}
+
+	// 2. 指数大于0时，使用快速幂计算结果。
+	result := 1.0
+	for curWeight := x; n != 0; {
+		if n&1 == 1 {
+			result *= curWeight
+		}
+		curWeight *= curWeight
+		n >>= 1
+	}
+
+	// 3. 返回。
+	return result
+}
