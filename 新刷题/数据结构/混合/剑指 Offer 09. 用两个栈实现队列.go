@@ -1,4 +1,4 @@
-package 栈与队列
+package 混合
 
 type CQueue struct {
 	StackOfTopIsQueueFirstElement *MyStack // 栈，栈顶元素为队列首元素。

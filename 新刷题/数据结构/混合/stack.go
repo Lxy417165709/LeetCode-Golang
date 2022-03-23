@@ -1,4 +1,4 @@
-package 栈与队列
+package 混合
 
 // MyStack 栈。
 type MyStack struct {
