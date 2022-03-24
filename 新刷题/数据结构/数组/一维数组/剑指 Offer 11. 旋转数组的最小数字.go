@@ -1,4 +1,4 @@
-package 剑指offer
+package 一维数组
 
 func minArray(numbers []int) int {
 	return getMinNum2(numbers, 0, len(numbers)-1)
