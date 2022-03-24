@@ -1,4 +1,4 @@
-package 树
+package 二叉树
 
 func mirrorTree(root *TreeNode) *TreeNode {
 	// 1. 空返回。

@@ -1,4 +1,4 @@
-package 树
+package 二叉树
 
 func isSubStructure(A *TreeNode, B *TreeNode) bool {
 	if A == nil || B == nil {
