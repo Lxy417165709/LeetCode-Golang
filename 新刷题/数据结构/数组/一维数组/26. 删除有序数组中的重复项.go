@@ -13,3 +13,8 @@ func removeDuplicates(nums []int) int {
 	}
 	return writeIndex
 }
+
+// removeDuplicates2 原地删除排序数组的重复项。 (统一写法)
+func removeDuplicates2(nums []int) int {
+	return removeDuplicateElements(nums, 1)
+}

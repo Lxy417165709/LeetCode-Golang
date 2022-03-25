@@ -1,8 +1,5 @@
 package 链表
 
-
-// todo: 有更好的写法~ 可以统一。
-
 // deleteDuplicates 删除链表重复节点。 (重复的保留一个)
 func deleteDuplicates(head *ListNode) *ListNode {
 	// 1. 初始化。
@@ -18,13 +15,13 @@ func deleteDuplicates(head *ListNode) *ListNode {
 			cur = cur.Next
 		}
 
-		// 2.2 如果不存在重复节点，则递进，否则删除重复节点后递进。
-		if pre.Next == cur {
-			pre = cur
-		} else {
+		// 2.2 如果存在重复节点则删除重复节点。
+		if pre.Next != cur {
 			pre.Next = cur
-			pre = cur
 		}
+
+		// 2.3 递进。
+		pre = cur
 	}
 
 	// 3. 返回。
