@@ -1,5 +1,7 @@
 package 字符串
 
+import "github.com/Lxy417165709/LeetCode-Golang/新刷题/util/math_util"
+
 func lengthOfLongestSubstring(s string) int {
 	// 1. 空返回。
 	if len(s) == 0 {
@@ -24,16 +26,10 @@ func lengthOfLongestSubstring(s string) int {
 		last++
 
 		// 3.3 获取最长长度。
-		maxLength = max(maxLength, last-first)
+		maxLength = math_util.Max(maxLength, last-first)
 	}
 
 	// 4. 返回。
 	return maxLength
 }
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}

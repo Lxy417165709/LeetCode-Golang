@@ -1,7 +1,5 @@
 package 字符串
 
-import "fmt"
-
 // longestPalindrome1 最长回文。 (朴素版)
 func longestPalindrome2(s string) string {
 	maxLength := 0
@@ -106,9 +104,3 @@ func longestPalindrome3(s string) string {
 	return result
 }
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}

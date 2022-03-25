@@ -30,3 +30,14 @@ func FastPow(x float64, n int) float64 {
 	// 3. 返回。
 	return result
 }
+
+// Max 获取数组最大值。
+func Max(nums ...int) int {
+	if len(nums) == 2 {
+		if nums[0] > nums[1] {
+			return nums[0]
+		}
+		return nums[1]
+	}
+	return Max(nums[0], Max(nums[1:]...))
+}

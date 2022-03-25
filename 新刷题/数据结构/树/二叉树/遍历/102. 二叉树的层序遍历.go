@@ -1,4 +1,4 @@
-package 二叉树
+package 遍历
 
 // levelOrder 获取二叉树层序遍历序列。
 func levelOrder(root *TreeNode) [][]int {
