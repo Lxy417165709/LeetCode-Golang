@@ -1,5 +1,7 @@
 package sort_util
 
+import "github.com/Lxy417165709/LeetCode-Golang/新刷题/util/struct_util"
+
 // QuickSort 快速排序。
 func QuickSort(nums []int) {
 	// 1. 元素小于2的数组，直接返回。
@@ -44,4 +46,26 @@ func Partition(nums []int) int {
 
 	// 3. 返回基准值位置。
 	return right
+}
+
+// HeapSort 堆排序。
+func HeapSort(nums []int) []int {
+	// 1. 建堆。
+	heap := struct_util.NewMyHeap(len(nums), func(a, b interface{}) bool {
+		return a.(int) < b.(int)
+	})
+
+	// 2. 插入数组元素。
+	for _, num := range nums {
+		heap.Push(num)
+	}
+
+	// 3. 获取排序结果。
+	result := make([]int, 0)
+	for _, obj := range heap.Sort() {
+		result = append(result, obj.(int))
+	}
+
+	// 4. 返回。
+	return result
 }
