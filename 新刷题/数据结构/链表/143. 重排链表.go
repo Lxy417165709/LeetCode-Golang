@@ -50,39 +50,3 @@ func mergeList(list1, list2 *ListNode) *ListNode {
 	return list1
 }
 
-// spiltList 根据序号的奇偶性拆分链表，返回具有伪头的奇偶序号链表。
-func spiltList(head *ListNode) (*ListNode, *ListNode) {
-	oddListDummyHead := &ListNode{}
-	evenListDummyHead := &ListNode{}
-
-	num := 1
-	cur := head
-	curOfOddList := oddListDummyHead
-	curOfEvenList := evenListDummyHead
-	for cur != nil {
-		if num&1 == 1 {
-			curOfOddList.Next = cur
-			curOfOddList = curOfOddList.Next
-		} else {
-			curOfEvenList.Next = cur
-			curOfEvenList = curOfEvenList.Next
-		}
-		cur = cur.Next
-		num++
-	}
-	curOfOddList.Next = nil
-	curOfEvenList.Next = nil
-	return oddListDummyHead, evenListDummyHead
-}
-
-// getTailNode 获取尾节点。
-func getTailNode(head *ListNode) *ListNode {
-	if head == nil {
-		return nil
-	}
-	cur := head
-	for cur.Next != nil {
-		cur = cur.Next
-	}
-	return cur
-}

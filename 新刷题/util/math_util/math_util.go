@@ -41,3 +41,14 @@ func Max(nums ...int) int {
 	}
 	return Max(nums[0], Max(nums[1:]...))
 }
+
+// Min 获取数组最小值。
+func Min(nums ...int) int {
+	if len(nums) == 2 {
+		if nums[0] > nums[1] {
+			return nums[1]
+		}
+		return nums[0]
+	}
+	return Min(nums[0], Min(nums[1:]...))
+}
