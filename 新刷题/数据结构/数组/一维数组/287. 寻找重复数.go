@@ -49,11 +49,11 @@ func findDuplicate(nums []int) int {
 // 1. 为什么链表一定存在环？因为链表有 n 个节点、n 条边，所以一定有环。
 func findDuplicate(nums []int) int {
 	// 1. 快慢指针入环。
-	slow, fast := 0, 0	// 表示指向哪个数组元素。
+	slow, fast := 0, 0 // 从链表起始点出发。
 	for {
 		slow = nums[slow]
 		fast = nums[nums[fast]]
-		if slow == fast{
+		if slow == fast {
 			break
 		}
 	}
@@ -68,4 +68,3 @@ func findDuplicate(nums []int) int {
 	// 3. 返回。
 	return slow
 }
-
