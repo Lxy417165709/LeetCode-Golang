@@ -24,7 +24,7 @@ func findDuplicate(nums []int) int {
 		} else if mid > count {
 			left = mid + 1
 		} else if mid < count {
-			right = mid - 1
+			right = mid - 1 // 说明 [1, mid] 中至少有 [mid+1]个数，此时重复元素一定在 [1, mid] 中。
 		}
 	}
 
