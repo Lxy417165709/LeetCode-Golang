@@ -4,7 +4,9 @@ import (
 	"github.com/Lxy417165709/LeetCode-Golang/新刷题/util/math_util"
 )
 
-// 下面的动态规划是错误的，因为最大矩形不止以下两种情况。
+// ------------------------------------------ 错误解法 ------------------------------------------
+
+// maximalRectangle 下面的动态规划是错误的，因为最大矩形不止以下两种情况。
 // [["0","0","1","0"],
 //  ["0","0","1","0"],
 //  ["0","0","1","0"],
@@ -85,3 +87,53 @@ func maximalRectangle(matrix [][]byte) int {
 	}
 	return result
 }
+
+// ------------------------------------------ 错误解法 ------------------------------------------
+
+// ------------------------------------------ 单调栈解法 ------------------------------------------
+
+// maximalRectangle 获取矩阵形成的最大面积。
+func maximalRectangle(matrix [][]byte) int {
+	// 1. 获取矩阵每行的最大柱子高度集。
+	var height [201][201]int // height[x][y] 表示以 matrix[x-1][y-1] 为结尾的柱子的最大高度。
+	for i := 0; i < len(matrix); i++ {
+		for t := 0; t < len(matrix[i]); t++ {
+			x := i + 1
+			y := t + 1
+			if matrix[i][t] == '0' {
+				height[x][y] = 0
+			} else {
+				height[x][y] = height[x-1][y] + 1
+			}
+		}
+	}
+
+	// 2. 获取矩阵形成的最大矩形面积。
+	result := 0
+	for i := 0; i < len(matrix); i++ {
+		x := i + 1
+		result = max(result, largestRectangleArea(height[x][1:len(matrix[i])+1]))
+	}
+
+	// 3. 返回。
+	return result
+}
+
+// largestRectangleArea 获取柱子形成的矩形面积。
+func largestRectangleArea(heights []int) int {
+	indexStack := make([]int, 0)
+	heights = append([]int{0}, heights...)
+	heights = append(heights, 0)
+	result := 0
+	for i := range heights {
+		for len(indexStack) != 0 && heights[i] < heights[indexStack[len(indexStack)-1]] {
+			height := heights[indexStack[len(indexStack)-1]]
+			indexStack = indexStack[:len(indexStack)-1]
+			result = max(result, height*(i-indexStack[len(indexStack)-1]-1))
+		}
+		indexStack = append(indexStack, i)
+	}
+	return result
+}
+
+// ------------------------------------------ 单调栈解法 ------------------------------------------

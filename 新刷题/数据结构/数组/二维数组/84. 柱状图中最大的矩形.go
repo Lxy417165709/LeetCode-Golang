@@ -15,7 +15,7 @@ func largestRectangleArea(heights []int) int {
 	// 1. 初始化。
 	indexStack := make([]int, 0) // 单调递增栈，存放元素索引。
 
-	// 2. 添加无穷小高度。
+	// 2. 添加无穷小高度。 (更好的方式是左右两侧都加0)
 	heights = append(heights, 0) // 添加最小高度 0，保证 for 循环后，单调非递减栈内的元素只剩 0，保证所有短板都能被处理。
 
 	// 3. 处理。
